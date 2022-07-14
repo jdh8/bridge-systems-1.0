@@ -1,0 +1,28 @@
+#+TITLE: jdh8
+
+#+AUTHOR: Chen-Pang He (jdh8)
+
+#+DESCRIPTION: My pet 2/1 bidding system
+
+* Opening bids
+
+1C = 3+!c, 11+ HCP, 12--22 points
+1D = 3+!d, 11+ HCP, 12--22 points
+1H = 5+!h, 11+ HCP, 12--21 points
+1S = 5+!s, 11+ HCP, 12--21 points
+1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
+2C = F1, 19+ HCP, 22+ points
+2X = PRE, 6+ cards
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
+3X = PRE, 7+ cards
+3N = Gambling, 7+m AKQ, 0--1 outside A/K
+4C = Namyats, 7+!hKQT or 8+!h, 5.5− losers
+4D = Namyats, 7+!sKQT or 8+!s, 5.5− losers
+4H = PRE, 7+!hKQ or 8+ cards
+4S = PRE, 7+!sKQ or 8+ cards
+4N = UNT, 6+!d, 6+!c
+
+The strengths of preempts are subject to seat, vulnerability, and partnership
+agreements.  We will have detailed discussions in their own section.
+
+#INCLUDE we-open/2c.bml
