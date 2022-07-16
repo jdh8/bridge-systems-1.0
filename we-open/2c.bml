@@ -16,54 +16,47 @@ game force.  We have no balanced positive bids here.  With a balanced hand, we
 usually want to bid 2!d to hear what our partner has.
 
 2C-
-2D = FG
+2D = FG, 4+ HCP or any K
 2H = NEG, NF, 0--3 HCP, no K
-2S = 5+!sKQ, 8+ points
-2N = 5+!hKQ, 8+ points
-3C = 5+!cKQ, 8+ points
-3D = 5+!dKQ, 8+ points
+2S = 5!sKJ or 6+!s, 8+ points
+2N = 5!hKJ or 6+!h, 8+ points
+3C = 5!cKJ or 6+!c, 8+ points
+3D = 5!dKJ or 6+!d, 8+ points
 
 2!c-2!d is by far the most frequent response.  We can have a sublime rebidding
-plan.  We allocate three suiters and minor two suiters to 3!h and above.  We do
-not open 1m with such strong hands and pray for a response.
+plan.  We allocate three suiters to 3!h and above.  We refuse to open 1m with
+such strong hands and pray for a response.
 
 2C-2D-
 2H = 5+!h
 2S = 5+!s
 2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c
-3C = 6+!c
-3D = 6+!d
-3H = 3--4!s, 3--4!h, 3--5 m, 0--1 om
-3S = 3--4!s, 0--1!h, 3--5!d, 3--5!c
-3N = 5+!d, 5+!c
-4C = 0--1!s, 3--4!h, 3--5!d, 3--5!c
+3C = 5+!c
+3D = 5+!d
+3H = 3--4!s, 4!h, 4--5 m, 0--1 om
+3S = 4!s, 0--1!h, 4--5!d, 4--5!c
+3N = 0--1!s, 4!h, 4--5!d, 4--5!c
 
 2C-2H-
 P  = 5+!h
 2S = 5+!s
-2N = 0--4!s, 0--4!h, 0--5!d, 0--5!c
-3C = 6+!c
-3D = 6+!d
+2N = 1--4!s, 1--4!h, 1--5!d, 1--5!c
+3C = 5+!c
+3D = 5+!d
 3H = FG, 5+!h, 24+ HCP
 3S = FG, 5+!s, 24+ HCP
 3N = 0--4!s, 0--4!h, 24+ HCP
 
 ** Competitive bidding
 
-2C-(D)-
-R  = NEG, NF, 0--3 HCP, no K
-P  = FG
-2X = 5+ cards KQ, 8+ points
-3C = 5+!cKQ, 8+ points
+Overcalls rarely happen here, but we are still prepared.  Over a strong
+artificial opening, almost any defense is allowed.  Even a natural defense is
+subject to psychic bids to try to disrupt our auction.
+
+Our system does not depend on the meaning of the overcall.
 
 2C-(2Y)-
-D  = NEG, NF, 0--3 HCP, no K
-P  = FG
-2Z = 5+ cards KQ, 8+ points
-2N = 5+ overcalled suit KQ, 8+ points
-3X = 5+ cards KQ, 8+ points
-
-2C-(2N)-
-D  = NEG, NF, 0--3 HCP, no K
-P  = FG
-3X = 5+ cards KQ, 8+ points
+D  = PEN, can be weak
+P  = F, 4+ HCP or any CTRL
+2Z = 5 cards KJ or 6+ cards, 5+ HCP
+3X = 5 cards KJ or 6+ cards, 5+ HCP
