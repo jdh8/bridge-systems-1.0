@@ -17,7 +17,7 @@ usually want to bid 2!d to hear what our partner has.
 
 2C-
 2D = FG, 4+ HCP or any K
-2H = NEG, NF, 0--3 HCP, no K
+2H = DBL NEG, NF, 0--3 HCP, no K
 2S = 5!sKJ or 6+!s, 8+ points
 2N = 5!hKJ or 6+!h, 8+ points
 3C = 5!cKJ or 6+!c, 8+ points
@@ -60,9 +60,6 @@ Overcalls rarely happen here, but we are still prepared.  Over a strong
 artificial opening, almost any defense is allowed.  There can be no anchor suit
 in their overcall.
 
-Our system does not depend on the meaning of the overcall.  We take the
-overcall literally to save memory and bidding space.
-
 *** First response
 
 Double with a (semi)balanced negative.  Having 0--3 HCP and no control (not
@@ -70,54 +67,11 @@ even a singleton), we are unlikely to have a game.  Competing with notrump is
 also less than ideal.  Defending a doubled contract is probably our best
 choice.
 
-We also double when holding the overcalled suit.  This serves the following
-purposes.
-
-1. To punish opponents' psychic shenanigans, we have a fully functional bidding
-   box with a big red X.
-2. Against a conventional overcall, the double is a cheap and safe way to show
-   the phoney suit.
-3. If the responder ever bids again, it rules out the negative option.  It is
-   unlikely to cause further confusion.
-
 2C-(2Y)-
-D  = PEN (4+ cards), or WK (0--3 HCP, no CTRL)
-P  = F, 4+ HCP or any CTRL
-2Z = 5 cards KJ or 6+ cards, 5+ HCP
+D  = PEN, 2+ cards, 0--3 HCP, no K
+P  = F1
+2Z = 5+ cards
 2N = UNT, 55+ in the lowest two unbid suits
-3X = 5 cards KJ or 6+ cards, 5+ HCP
-3Y = SPL T/O, 0--1 card, 4 unbid MM, 3--5 unbid mm
-
-The unusual 2N and the Splinter takeout cuebid do not change their meanings
-even when the overcall is artificial.  For example, assume that 2C-(2D) shows
-an unspecified major (multi) in this paragraph.  With a minor two suiter, we
-double for the diamonds.  This treatment frees 2N for !h!c two suiters.
-
-In summary, responder's competitive bidding structure is:
-
-- Dbl: penalty or (semi)balanced negative (2C-2H)
-- Rdbl:
-- Pass: the default response like 2C-2D
-- New suit: same quality as a usual suit positive, but can be 5+ HCP
-- NT: unusual, as a two-suited takeout
-- Cuebid: three-suited takeout
-
-*** Opener's rebid
-
-2C-2D-(2H)-
-P  = BAL, 2--3!h
-D  = PEN, 4+!h
-2S = 5+!s
-2N = UNT, 5+!d, 5+!c
-3C = 5+!c
-3D = 5+!d
-3H = SPL T/O, 0--1!h, 4!s, 4--5!d, 4--5!c
-
-2C-2DH-(2S)-
-P  = BAL, 2--3!s
-D  = PEN, 4+!s
-2N = UNT, 5+!d, 5+!c
-3C = 5+!c
-3D = 5+!d
-3H = 5+!h
-3S = SPL T/O, 0--1!s, 4!h, 4--5!d, 4--5!c
+3X = 5 cards KJ or 6+ cards
+3Y = CUE, STAY or T/O
+3Z = 7+ cards or SOL 6 cards
