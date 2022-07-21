@@ -1,0 +1,98 @@
+* The strong notrump openings
+
+In this bidding system, we consider the length of each suit rather than think
+if a distribution is balanced.  This leads to the following simple yet
+consistent description of our notrump openings.
+
+1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
+
+We handle 5-card majors with Gazilli.  Therefore, we open 1M with them
+systematically.  The user can still judgmentally open 1N with a poor major suit,
+but we have hardly a way to show a 5-card major thereafter.
+
+1N-
+2C = STAY, may be Garbage
+2D = TRF, 5+!h
+2H = TRF, 5+!s
+2S = TRF, 6+!c
+2N = NAT INV
+3C = TRF, 6+!d
+3N = S/O
+4N = QUANT INV to 6N
+5N = QUANT INV to 7N
+
+Excluding opener's 5-card majors, the Stayman has its traditional meaning or a
+Garbage Stayman.
+
+- INV+, unspecified 4+M
+- WK, 4!s, 4!h, 4--5!d, 0--1!c
+
+1N-2C-
+2D = 2--3!s, 2--3!h
+2H = 4!h
+2S = 4!s, 2--3!h
+
+The Garbage Stayman takes advantage of that opener will eventually rebid within
+2SHD, so we can bid 2C as a weak takeout of clubs and pass in the next round.
+
+1N-2C-2X-
+P  = WK, 4!s, 4!h, 4--5!d, 0--1!c
+
+We only employ Smolen transfers at the 3-level.  The 2-level invitations are
+natrual so that we have a chance to stop at 2H.
+
+1N-2C-2D-
+2H = INV, 5+!h, 4+!s
+2S = INV, 5+!s, 4+!h
+2N = INV
+3C = S/T, 5+!c
+3D = S/T, 5+!d
+3H = FG, Smolen TRF, 5+!s, 4+!h
+3S = FG, Smolen TRF, 4+!s, 5+!h
+3N = S/O
+
+1N-2C-2H-
+2S = INV+, 5+!s, 4+!h
+2N = INV, 0--3!h, 4!s
+3C = S/T, 0--3!h, 4!s, 5+!c
+3D = S/T, 0--3!h, 4!s, 5+!d
+3H = INV, 4+!h
+3S = S/T, 4+!h
+3N = S/O, 0--3!h, 4!s
+
+1N-2C-2S-
+2N = INV, 0--3!s, 4!h
+3C = S/T, 0--3!s, 4!h, 5+!c
+3D = S/T, 0--3!s, 4!h, 5+!d
+3H = S/T, 4+!s
+3S = INV, 4+!s
+3N = S/O, 0--3!s, 4!h
+
+1N-2D-
+2H = (R)
+2S = MAX, 2!s, 4+!h
+2N = MAX, 3433
+3C = MAX, 2!c, 4+!h
+3D = MAX, 2!d, 4+!h
+3H = MAX, 4+!h
+
+1N-2H-
+2S = (R)
+2N = MAX, 4333
+3C = MAX, 2!c, 4+!s
+3D = MAX, 2!d, 4+!s
+3H = MAX, 2!h, 4+!s
+3S = MAX, 4+!s
+
+2N-
+#COPY 2N
+3C = STAY
+3D = TRF, 5+!h
+3H = TRF, 5+!s
+3S = TRF, 6+!c
+3N = S/O
+4C = TRF, 6+!d
+4N = QUANT INV to 6N
+5N = QUANT INV to 7N
+#ENDCOPY
