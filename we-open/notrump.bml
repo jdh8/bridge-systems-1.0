@@ -11,16 +11,27 @@ We handle 5-card majors with Gazilli.  Therefore, we open 1M with them
 systematically.  The user can still judgmentally open 1N with a poor major suit,
 but we have hardly a way to show a 5-card major thereafter.
 
+We use the French-style 4-way transfers to preserve the natural invitation.  We
+invite naturally rather than via Stayman because 2N hides information of the
+declarer.
+
 1N-
 2C = STAY, may be Garbage
 2D = TRF, 5+!h
 2H = TRF, 5+!s
 2S = TRF, 6+!c
-2N = NAT INV
+2N = INV, 0--3!s, 0--3!h
 3C = TRF, 6+!d
+3D = SPL, 0--1!d, 4!s, 4!h,  4--5!c
+3H = SPL, 0--1!h, 4!s, 4--5!d,  4--5!c
+3S = SPL, 0--1!s, 4!h, 4--5!d,  4--5!c
 3N = S/O
+4D = Texas TRF, 6+!h, PUP 4H
+4H = Texas TRF, 6+!s, PUP 4S
 4N = QUANT INV to 6N
 5N = QUANT INV to 7N
+
+** Stayman
 
 Excluding opener's 5-card majors, the Stayman has its traditional meaning or a
 Garbage Stayman.
@@ -46,44 +57,132 @@ natrual so that we have a chance to stop at 2H.
 2H = INV, 5+!h, 4+!s
 2S = INV, 5+!s, 4+!h
 2N = INV
-3C = S/T, 5+!c
-3D = S/T, 5+!d
+3C = FG, 5+!c
+3D = FG, 5+!d
 3H = FG, Smolen TRF, 5+!s, 4+!h
 3S = FG, Smolen TRF, 4+!s, 5+!h
 3N = S/O
+4N = QUANT INV to 6N
+5N = QUANT INV to 7N
+
+The step of 1N-2C-2H-2S allows us to always choose the better major fit.  This
+is why the opener rebids 2H with 44 majors.
 
 1N-2C-2H-
 2S = INV+, 5+!s, 4+!h
 2N = INV, 0--3!h, 4!s
-3C = S/T, 0--3!h, 4!s, 5+!c
-3D = S/T, 0--3!h, 4!s, 5+!d
+3C = FG, 0--3!h, 4!s, 5+!c
+3D = FG, 0--3!h, 4!s, 5+!d
 3H = INV, 4+!h
-3S = S/T, 4+!h
+3S = S/T, 4+!h, 2+!d, 2+!c
 3N = S/O, 0--3!h, 4!s
+4C = S/T SPL, 0--1!c, 4+!h
+4D = S/T SPL, 0--1!d, 4+!h
+4H = S/O, 4+!h
+4N = QUANT INV to 6N, 0--3!h
+5N = QUANT INV to 7N, 0--3!h
 
 1N-2C-2S-
 2N = INV, 0--3!s, 4!h
-3C = S/T, 0--3!s, 4!h, 5+!c
-3D = S/T, 0--3!s, 4!h, 5+!d
-3H = S/T, 4+!s
+3C = FG, 0--3!s, 4!h, 5+!c
+3D = FG, 0--3!s, 4!h, 5+!d
+3H = S/T, 4+!s, 2+!h, 2+!d, 2+!c
 3S = INV, 4+!s
 3N = S/O, 0--3!s, 4!h
+4C = S/T SPL, 0--1!c, 4+!s
+4D = S/T SPL, 0--1!d, 4+!s
+4S = S/O, 4+!s
+4N = QUANT INV to 6N, 0--3!s
+5N = QUANT INV to 7N, 0--3!s
+
+** Jacoby transfer
+
+The opener always accepts Jacoby transfers.  We super-accept with maximum and 4
+trumps.  We /hide/ the doubleton just below the trump to avoid retransferring
+problems like 1N-2D-3D!-3H?.
 
 1N-2D-
 2H = (R)
-2S = MAX, 2!s, 4+!h
+  2S = INV, 5+!s
+  2N = INV, 5!h
+  3C = FG, 4+!c
+  3D = FG, 4+!d
+  3H = INV, 6+!h
+  3S = SPL, 0--1!s, 6+!h
+  3N = P/C, 5!h
+  4C = SPL, 0--1!c, 6+!h
+  4D = SPL, 0--1!d, 6+!h
+  4H = Mild S/T, 6+!h, 2+!s, 2+!d, 2+!c
+2S = MAX, 4!h, 2!s
+  3D = Retransfer
 2N = MAX, 3433
-3C = MAX, 2!c, 4+!h
-3D = MAX, 2!d, 4+!h
-3H = MAX, 4+!h
+  3D = Retransfer
+3C = MAX, 4!h, 2!c
+  3D = Retransfer
+3D = (Moved to 3H)
+3H = MAX, 4!h, 2!d
 
 1N-2H-
 2S = (R)
+  2N = INV, 5!s
+  3C = FG, 4+!c
+  3D = FG, 4+!d
+  3H = FG, 5+!h
+  3S = INV, 6+!s
+  3N = P/C, 5!s
+  4C = SPL, 0--1!c, 6+!s
+  4D = SPL, 0--1!d, 6+!s
+  4H = SPL, 0--1!h, 6+!s
+  4S = Mild S/T, 6+!s, 2+!h, 2+!d, 2+!c
 2N = MAX, 4333
-3C = MAX, 2!c, 4+!s
-3D = MAX, 2!d, 4+!s
-3H = MAX, 2!h, 4+!s
-3S = MAX, 4+!s
+  3H = Retransfer
+3C = MAX, 4!s, 2!c
+  3H = Retransfer
+3D = MAX, 4!s, 2!d
+  3H = Retransfer
+3H = (Moved to 3S)
+3S = MAX, 4!s, 2!h
+
+** Seeking a major fit
+
+There are apparent overlaps between major fit seeking conventions, especially
+Jacoby transfers with Stayman or Texas transfers.  This section describes how
+to pick the best response.
+
+*** Major two suiter, (54)+
+
+To find the better fit, we consider the length difference between majors in our
+partnership.  The opener's difference is at most 2, so our basic strategy is
+
+- *Same lengths*: let partner decide
+- *Difference = 1*: proactive negotiation
+- *Difference > 1*: ignore the shorter suit
+
+However, with a weak hand, it is more important to keep the bidding low.  We
+transfer to our longer major and then pass.
+
+**** Same lengths, 55+
+
+We choose the hearts from a weak two suiter for a chance to run out to 2S.
+
+- *Weak* = 2D (→!h); then pass
+- *Invitational* = 2D (→!h); then 2S
+- *Forcing to game* = 2H (→!s); then 3H
+
+**** Difference = 1, (54)+
+
+- *Weak* = transfer to the longer major
+- *Invitational+* = Stayman
+
+*** Major single suiter, 6+
+
+- *Weak* = Jacoby; then pass
+- *Invitational* = Jacoby; then 3M
+- *Game but no slam* = Texas; then pass
+- *Mild slam interest* = Jacoby; then 4M
+- *Strong slam try* = Texas; keep bidding
+
+** The 2N opening
 
 2N-
 #COPY 2N
