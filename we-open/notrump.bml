@@ -15,6 +15,10 @@ We use the French-style 4-way transfers to preserve the natural invitation.  We
 invite naturally rather than via Stayman because 2N hides information of the
 declarer.
 
+The responder tries to show a major first always (MAFIA).  The only exception
+is not to bid Stayman with (4333), a hand so flat that playing notrump is a
+better idea.
+
 1N-
 2C = STAY, may be Garbage
 2D = TRF, 5+!h
@@ -187,6 +191,10 @@ We choose the hearts from a weak two suiter for a chance to run out to 2S.
 
 ** Minor transfer
 
+We only show minor suits with a singleton or void.  We play minor contracts 2
+levels above notrump contracts (3m vs 1N and 5m vs 3N), so we need a pretty
+unbalanced hand.
+
 1N-2S-
 2N = MAX, 4+!c
   3C = S/O
@@ -211,6 +219,9 @@ We choose the hearts from a weak two suiter for a chance to run out to 2S.
 5m = S/P S/O
 
 ** The 2N opening
+
+The bidding structure is mostly the same as after the 1N opening.  This
+structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
 
 2N-
 #COPY 2N
@@ -241,7 +252,9 @@ We choose the hearts from a weak two suiter for a chance to run out to 2S.
   3H = (R)
     3S = S/T, 5+!s
     3N = P/C, 5!h
-    4H = Mild S/T, 6+!h
+    4C = SPL, 0--1!c, 6+!h
+    4D = SPL, 0--1!d, 6+!h
+    4H = Mild S/T, 6+!h, 2+!d, 2+!c
   3S = MAX, 2!s, 4!h
     4D = Retransfer
   3N = MAX, 3433
@@ -252,8 +265,10 @@ We choose the hearts from a weak two suiter for a chance to run out to 2S.
 3H = TRF, 5+!s
   3S = (R)
     3N = P/C, 5!s
+    4C = SPL, 0--1!c, 6+!s
+    4D = SPL, 0--1!d, 6+!s
     4H = P/C, 5+!h
-    4S = Mild S/T, 6+!s
+    4S = Mild S/T, 6+!s, 2+!d, 2+!c
   3N = MAX, 4333
     4H = Retransfer
   4C = MAX, 2!c, 4!s
@@ -272,3 +287,11 @@ We choose the hearts from a weak two suiter for a chance to run out to 2S.
 4N = QUANT INV to 6N
 5N = QUANT INV to 7N
 #ENDCOPY
+
+The main difference is how we handle 55 and 66 majors.  Since there is no more
+bidding space for invitation, the higher auction denies slam interest according
+to the principle of fast arrival.
+
+- *Weak* = 3D (→!h); then pass
+- *Choice of games* = 3H (→!s); then 4H
+- *Slam try* = 3D (→!h); then 3S
