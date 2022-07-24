@@ -4,6 +4,18 @@
 
 #+DESCRIPTION: My pet 2/1 bidding system
 
+* Introduction
+
+Welcome to Chen-Pang He (jdh8)'s experimental 2/1 bidding system!  This
+document is written in Gert-Jan Paulissen's fork of the Bridge Bidding Markup
+Language (BML).
+
+https://github.com/gpaulissen/bml
+
+We use the distribution syntax and abbreviations provided by WBF.
+
+http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
+
 * Opening bids
 
 1C = 3+!c, 11+ HCP, 12--22 points
