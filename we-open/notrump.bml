@@ -25,13 +25,13 @@ better idea.
 2H = TRF, 5+!s
 2S = TRF, 6+!c or S/T 5+!d 5+!c
 2N = NAT INV
-3C = TRF, 6+!d, PUP 3D
+3C = TRF, 6+!d, PUP
 3D = SPL, 0--1!d, 4!s, 4!h,  4--5!c
 3H = SPL, 0--1!h, 4!s, 4--5!d,  4--5!c
 3S = SPL, 0--1!s, 4!h, 4--5!d,  4--5!c
 3N = S/O
-4D = Texas TRF, 6+!h, PUP 4H
-4H = Texas TRF, 6+!s, PUP 4S
+4D = Texas TRF, 6+!h, PUP
+4H = Texas TRF, 6+!s, PUP
 4S = FG, 5+!d, 5+!c
 4N = QUANT INV to 6N
 5N = QUANT INV to 7N
@@ -195,6 +195,8 @@ We only show minor suits with a singleton or void.  We play minor contracts 2
 levels above notrump contracts (3m vs 1N and 5m vs 3N), so we need a pretty
 unbalanced hand.
 
+We swap our major Splinter bids to avoid lead-directing doubles.
+
 1N-2S-
 2N = MAX, 4+!c
   3C = S/O
@@ -213,6 +215,10 @@ unbalanced hand.
 3H = SPL !s
 3S = SPL !h
 3N = SPL !c
+
+We move the minor Stayman to the unallocated 4S.  Since the opener must have a
+3+ card minor, 55 minors would ensure a minor fit.  The opener rebids based on
+suit preference.
 
 1N-4S-
 4N = NEU
@@ -278,9 +284,9 @@ structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
   4S = MAX, 2!h, 4!s
 3S = TRF, 6+!c or S/T 5+!d 5+!c
 3N = S/O
-4C = TRF, 6+!d, PUP 4D
-4D = Texas TRF, 6+!h, PUP 4H
-4H = Texas TRF, 6+!s, PUP 4S
+4C = TRF, 6+!d, PUP
+4D = Texas TRF, 6+!h, PUP
+4H = Texas TRF, 6+!s, PUP
 4S = FG, 5+!d, 5+!c
   4N = NEU
   5m = S/P S/O
