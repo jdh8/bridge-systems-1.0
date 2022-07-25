@@ -224,6 +224,64 @@ suit preference.
 4N = NEU
 5m = S/P S/O
 
+** Competitive bidding
+
+1N-(2C)-
+D  = STAY, may be Garbage
+2D = TRF, 5+!h
+2H = TRF, 5+!s
+2S = TRF, 6+!c or S/T 5+!d 5+!c
+2N = NAT INV
+3C = TRF, 6+!d
+3D = SPL, 0--1!d, 4!s, 4!h,  4--5!c
+3H = SPL, 0--1!h, 4!s, 4--5!d,  4--5!c
+3S = SPL, 0--1!s, 4!h, 4--5!d,  4--5!c
+3N = S/O
+4D = Texas TRF, 6+!h
+4H = Texas TRF, 6+!s
+4S = FG, 5+!d, 5+!c
+
+1N-(2D)-
+D  = INV+, 2--3!d, 3--4!s, 3--4!h, 2--4!c, cooperative T/O
+2H = S/O, 5+!h
+2S = S/O, 5+!s
+2N = TRF, 5+!c
+3C = FG STAY
+3D = TRF, INV+, 5+!h
+3H = TRF, INV+, 5+!s
+3S = F, no !d stopper
+3N = S/O, !d stopper
+
+1N-(2H)-
+D  = INV+, 2--3!h, 3--4!s, 3--4!d, 3--4!c, cooperative T/O
+2S = S/O, 5+!s
+2N = TRF, 5+!c
+3C = TRF, 5+!d
+3D = FG STAY, 4!s
+3H = TRF, INV+, 5+!s
+3S = F, no !h stopper
+3N = S/O, !h stopper
+
+1N-(2S)-
+D  = INV+, 2--3!s, 3--4!h, 3--4!d, 3--4!c, cooperative T/O
+2N = TRF, 5+!c
+3C = TRF, 5+!d
+3D = TRF, 5+!h
+3H = FG STAY, 4!h
+3S = F, no !s stopper
+3N = S/O, !s stopper
+
+1N-(2N)-
+D  = INV+ BAL
+3H = FG, 5+!h
+3S = FG, 5+!s
+
+1N-(2N)-(3X)-
+D  = PEN
+3H = INV, 5+!h
+3S = INV, 5+!s
+3N = S/O
+
 ** The 2N opening
 
 The bidding structure is mostly the same as after the 1N opening.  This
