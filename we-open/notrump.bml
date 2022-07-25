@@ -25,13 +25,13 @@ better idea.
 2H = TRF, 5+!s
 2S = TRF, 6+!c or S/T 5+!d 5+!c
 2N = NAT INV
-3C = TRF, 6+!d, PUP
+3C = TRF, 6+!d
 3D = SPL, 0--1!d, 4!s, 4!h,  4--5!c
 3H = SPL, 0--1!h, 4!s, 4--5!d,  4--5!c
 3S = SPL, 0--1!s, 4!h, 4--5!d,  4--5!c
 3N = S/O
-4D = Texas TRF, 6+!h, PUP
-4H = Texas TRF, 6+!s, PUP
+4D = Texas TRF, 6+!h
+4H = Texas TRF, 6+!s
 4S = FG, 5+!d, 5+!c
 4N = QUANT INV to 6N
 5N = QUANT INV to 7N
@@ -261,6 +261,8 @@ structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
     4C = SPL, 0--1!c, 6+!h
     4D = SPL, 0--1!d, 6+!h
     4H = Mild S/T, 6+!h, 2+!d, 2+!c
+    4N = QUANT INV to 6N
+    5N = QUANT INV to 7N
   3S = MAX, 2!s, 4!h
     4D = Retransfer
   3N = MAX, 3433
@@ -275,6 +277,8 @@ structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
     4D = SPL, 0--1!d, 6+!s
     4H = P/C, 5+!h
     4S = Mild S/T, 6+!s, 2+!d, 2+!c
+    4N = QUANT INV to 6N
+    5N = QUANT INV to 7N
   3N = MAX, 4333
     4H = Retransfer
   4C = MAX, 2!c, 4!s
@@ -283,10 +287,17 @@ structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
     4H = Retransfer
   4S = MAX, 2!h, 4!s
 3S = TRF, 6+!c or S/T 5+!d 5+!c
+  3N = NF, 2!c, 3+!d
+    4C = TRF, 5+!d
+    4D = RKCB for !c
+    4S = TRF, 6+!c
+  4C = 3+!c
+    4D = RKCB for !c
+    5C = S/O
 3N = S/O
-4C = TRF, 6+!d, PUP
-4D = Texas TRF, 6+!h, PUP
-4H = Texas TRF, 6+!s, PUP
+4C = TRF, 6+!d
+4D = Texas TRF, 6+!h
+4H = Texas TRF, 6+!s
 4S = FG, 5+!d, 5+!c
   4N = NEU
   5m = S/P S/O
@@ -294,10 +305,31 @@ structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
 5N = QUANT INV to 7N
 #ENDCOPY
 
-The main difference is how we handle 55 and 66 majors.  Since there is no more
-bidding space for invitation, the higher auction denies slam interest according
-to the principle of fast arrival.
+Let's discuss differences of continuations between 1N and 2N.
+
+*** Response with 55 and 66 majors
+
+Since there is no more bidding space for invitation, the higher auction denies
+slam interest according to the principle of fast arrival.
 
 - *Weak* = 3D (→!h); then pass
 - *Choice of games* = 3H (→!s); then 4H
 - *Slam try* = 3D (→!h); then 3S
+
+*** Continuation after minor transfers
+
+The opener no longer needs a super acceptance due to the game force.  On the
+other hand, it becomes useful to mildly reject with a doubleton club to guide
+the partner, who sometimes hold both minors.
+
+2N-3S-
+3N = 2!c (implies 3+!d), mild rejection
+4C = 3+!c, acceptance
+
+Responder's rebids are beyond 3N.  There is no more choice of games.  As a
+result, those 4-level rebids are retransfers or slam tries.  The use of Redwood
+leads to the following paradoxical bidding structure.
+
+2N-3S-3N-
+4C = TRF to !d
+4D = RKCB for !c
