@@ -26,9 +26,9 @@ better idea.
 2S = TRF, 6+!c or S/T 5+!d 5+!c
 2N = NAT INV
 3C = TRF, 6+!d
-3D = SPL, 0--1!d, 4!s, 4!h,  4--5!c
-3H = SPL, 0--1!h, 4!s, 4--5!d,  4--5!c
-3S = SPL, 0--1!s, 4!h, 4--5!d,  4--5!c
+3D = SPL, 0--1!d, 4!s, 4!h, 4--5!c
+3H = SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
+3S = SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
 3N = S/O
 4D = Texas TRF, 6+!h
 4H = Texas TRF, 6+!s
@@ -226,6 +226,24 @@ suit preference.
 
 ** Competitive bidding
 
+Competition does not affect auctions at 3N and above.  These transfers are also
+consistent with our system since we use Rubinsohl.
+
+1N-(2X)-
+3N = S/O
+4D = Texas TRF, 6+!h
+4H = Texas TRF, 6+!s
+4S = FG, 5+!d, 5+!c
+
+Over a natural double, a natural defense pretty suffices.  We need the chances
+to stop at 2m.
+
+1N-(D)-
+R  = INV+
+2X = S/O, 5+ cards
+
+In most cases, we keep the *system on* over (2C).
+
 1N-(2C)-
 D  = STAY, may be Garbage
 2D = TRF, 5+!h
@@ -233,13 +251,15 @@ D  = STAY, may be Garbage
 2S = TRF, 6+!c or S/T 5+!d 5+!c
 2N = NAT INV
 3C = TRF, 6+!d
-3D = SPL, 0--1!d, 4!s, 4!h,  4--5!c
-3H = SPL, 0--1!h, 4!s, 4--5!d,  4--5!c
-3S = SPL, 0--1!s, 4!h, 4--5!d,  4--5!c
+3D = SPL, 0--1!d, 4!s, 4!h, 4--5!c
+3H = SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
+3S = SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
 3N = S/O
-4D = Texas TRF, 6+!h
-4H = Texas TRF, 6+!s
-4S = FG, 5+!d, 5+!c
+
+We use Rubinsohl over
+
+- 2DHS
+- 2C with a major anchor suit
 
 1N-(2D)-
 D  = INV+, 2--3!d, 3--4!s, 3--4!h, 2--4!c, cooperative T/O
@@ -270,6 +290,22 @@ D  = INV+, 2--3!s, 3--4!h, 3--4!d, 3--4!c, cooperative T/O
 3H = FG STAY, 4!h
 3S = F, no !s stopper
 3N = S/O, !s stopper
+
+If (2C) shows both majors, Stayman and Jacoby transfers lose their places.
+Many steps become useless.  That is also why we recommend a defense to 1N
+containing the Landy 2C.
+
+1N-(2C)-
+D  = INV+, 2--3!c, 3--4!s, 3--4!h, 3--4!d, cooperative T/O
+2D = S/O, 5+!d
+2H = INV+, !h stopper
+2S = INV+, !s stopper
+2N = TRF, 5+!c
+3C = TRF, INV+, 5+!d
+3S = F, no MM stopper
+3N = S/O, MM stoppers
+
+Unusual vs. unusual does not apply to (2N) because we have not shown a suit.
 
 1N-(2N)-
 D  = INV+ BAL
