@@ -256,10 +256,18 @@ D  = STAY, may be Garbage
 3S = SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
 3N = S/O
 
+If (2C) has one major anchor suit, transferring to that suit is asking for a
+stopper.  Take Astro 2C (!h + m) for example,
+
+1N-(2C)-
+2D = INV+, no !h stopper
+2N = NAT INV, !h stopper
+3N = S/O, !h stopper
+
 We use Rubinsohl over
 
 - 2DHS
-- 2C with a major anchor suit
+- 2C showing both majors
 
 1N-(2D)-
 D  = INV+, 2--3!d, 3--4!s, 3--4!h, 2--4!c, cooperative T/O
@@ -292,11 +300,11 @@ D  = INV+, 2--3!s, 3--4!h, 3--4!d, 3--4!c, cooperative T/O
 3N = S/O, !s stopper
 
 If (2C) shows both majors, Stayman and Jacoby transfers lose their places.
-Many steps become useless.  That is also why we recommend a defense to 1N
-containing the Landy 2C.
+Many steps become useless.  That is also why our recommended defense to 1N
+contains the Landy 2C.
 
 1N-(2C)-
-D  = INV+, 2--3!c, 3--4!s, 3--4!h, 3--4!d, cooperative T/O
+D  = INV+, 2--3!c, 3--4!s, 3--4!h, 2--4!d, cooperative T/O
 2D = S/O, 5+!d
 2H = INV+, !h stopper
 2S = INV+, !s stopper
