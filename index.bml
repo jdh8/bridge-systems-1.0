@@ -45,5 +45,6 @@ Also, we do not use the inverted minors.
 The strengths of preempts are subject to seat, vulnerability, and partnership
 agreements.  We will have detailed discussions in their own section.
 
+#INCLUDE we-open/major.bml
 #INCLUDE we-open/notrump.bml
 #INCLUDE we-open/2c.bml
