@@ -111,8 +111,9 @@ partners are virtually unlimited.
 3H = LIM, 3!h
 3S = INV, 6+!s, 0--2!h
 
-Jumping to 3S after bidding the 2D relay shows 6+!s like 1H-1S-2C-3S but slower,
-so it is FG as per the principle of fast arrival.
+The only invitational hand type left for the 2D relay is a natural 2N.  We no
+longer need a 4th suit forcing 3D or any major suit invitation there.  Let's
+reuse 3D as a runout and assign 3M stronger meanings.
 
 1H-1S-2C-2D-
 2H = 4+!c, 11--15 HCP
@@ -121,9 +122,10 @@ so it is FG as per the principle of fast arrival.
   3C = S/O, 3+!c, 0--1!h, 8--9 HCP
   3D = S/O, 6+!d, 0--1!h, 8--9 HCP
   3H = S/T, 3+!h
-  3S = FG, 6+!s
-  3N = S/O, 4--5!s, 0--2!h
+  3S = FG, 5+!s
+  3N = S/O
   4H = S/O, 3+!h
+  4S = S/O, 6+!s
 2S = FG, 4+!s
 2N = BAL, 18+ HCP
   3C = Roudi, 5!s or S/T
@@ -132,12 +134,12 @@ so it is FG as per the principle of fast arrival.
     3S = 3!s, MAX
     3N = 2!s, MAX
   3S = S/T, 6+!s
-  3N = S/O, 4!s
+  3N = S/O
   4S = S/O, 6+!s
 3C = FG, 4+!c
 3D = FG, 4+!d
 3H = FG, 6+!h, 0--3!s
-3S = FG, 35xx, 16--17 HCP
+3S = FG, 35(32), 16--17 HCP
 3N = 2533 or 25(42), 16--17 HCP
 
 1H-1N-2C-
@@ -162,6 +164,9 @@ so it is FG as per the principle of fast arrival.
 3H = FG, 6+!h
 3N = BAL or 25(42), 16--17 HCP
 
+If the opener has only 5 spades, we still have a chance to find a heart fit.
+Therefore, there are steps to let the responder show 5 hearts.
+
 1S-1N-2C-
 2D = F (R), 8+ HCP
 2H = 5+!h, 0--1!s, 5--7 HCP
@@ -170,10 +175,6 @@ so it is FG as per the principle of fast arrival.
 3C = 6+!c, 0--1!s, 5--7 HCP
 3D = 6+!d, 0--1!s, 5--7 HCP
 3S = LIM, 3!s
-
-If the opener has only 5 spades, we still have a chance to find a heart fit.
-Therefore, we assume hearts as responder's suit for Roudi.  Also, 3H shows a
-minimum game force with 3 hearts.
 
 1S-1N-2C-2D-
 2H = FG, 4+!h
@@ -189,11 +190,11 @@ minimum game force with 3 hearts.
     3S = 3!h, MAX
     3N = 2!h, MAX
   3H = S/T, 6+!h
-  3N = S/O, 4!h
+  3N = S/O
   4H = S/O, 6+!h
 3C = FG, 4+!c
 3D = FG, 4+!d
-3H = FG, 53xx, 16--17 HCP
+3H = FG, 53(32), 16--17 HCP
 3S = FG, 6+!s
 3N = 5233, 16--17 HCP
 
@@ -210,6 +211,43 @@ minimum game force with 3 hearts.
 2N = NAT INV
 3H = LIM, 3!h
 3S = INV, 6+!s
+3N = S/O
+4H = S/O, 3+!h
+4S = S/O, 6+!s
+
+1H-1S-2D-
+2H = S/O S/P
+2S = NF, 6+!s
+2N = NAT INV
+3C = 4th suit FG
+3D = LIM, 4+!d
+3H = LIM, 3!h
+3S = INV, 6+!s
+3N = S/O
+4H = S/O, 3+!h
+4S = S/O, 6+!s
+
+1H-1S-2H-
+2S = NF, 6+!s
+2N = NAT INV
+3C = FG, 4+!c
+3D = FG, 4+!d
+3H = INV, 2+!h
+3S = INV, 6+!s
+3N = S/O
+4C = SPL, 0--1!c, 2+!h
+4D = SPL, 0--1!d, 2+!h
+4H = S/O, 2+!h
+4S = S/O, 6+!s
+
+1H-1S-2S-
+3C = F INV, 4+!c
+3D = F INV, 4+!d
+3H = F INV, 3+!h
+3S = INV, 5+!s
+4C = SPL, 0--1!c
+4D = SPL, 0--1!d
+4S = S/O
 
 ** Jacoby 2N
 
