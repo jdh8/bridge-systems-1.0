@@ -56,14 +56,14 @@ descriptive.  High rebids tend to be distributional.
 
 1H-1S-
 1N = BAL, 11--15 HCP
-2C = F (R), 4+!c or 16+ HCP
+2C = (R), 4+!c or 16+ HCP
 2D = 4+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
 2S = 4+!s, 12--16 points
-2N = 6+!h, 4+m, 14--15 HCP
+2N = 6+!h, 4+!d!c, 14--15 HCP
 3C = 5+!c, 14--15 HCP
 3D = 5+!d, 14--15 HCP
-3H = Good 6+!h, 14--15 HCP
+3H = S-SOL 6+!h, 14--15 HCP
 
 With 33 minors, we bid 2D for the only chance to stop at 2D.  However, bidding
 2D with 4522 is too dangerous, so we bid 2C then.  This makes 1H-1N-2C the most
@@ -71,28 +71,28 @@ nebulous Gazzilli.
 
 1H-1N-
 P  = 2--4!s, 5!h, 1--3!d, 1--3!c, 11--13 HCP
-2C = F (R), 2+!c or 16+ HCP
+2C = (R), 2+!c or 16+ HCP
 2D = 3+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
 2S = 5+!s, 6+!h, 14--15 HCP
-2N = 6+!h, 4+m, 14--15 HCP
+2N = 6+!h, 4+!d!c, 14--15 HCP
 3C = 5+!c, 14--15 HCP
 3D = 5+!d, 14--15 HCP
-3H = Good 6+!h, 14--15 HCP
+3H = S-SOL 6+!h, 14--15 HCP
 
 1S-1N-
 P  = BAL, 11--13 HCP
-2C = F (R), 3+!c or 16+ HCP
+2C = (R), 3+!c or 16+ HCP
 2D = 3+!d, 11--15 HCP
 2H = 4+!h, 11--15 HCP
 2S = 6+!s, 11--15 HCP
-2N = 6+!s, 4+m, 14--15 HCP
+2N = 6+!s, 4+!h!d!c, 14--15 HCP
 3C = 5+!c, 14--15 HCP
 3D = 5+!d, 14--15 HCP
 3H = 5+!h, 14--15 HCP
-3S = Good 6+!s, 14--15 HCP
+3S = S-SOL 6+!s, 14--15 HCP
 
-*** Gazzilli
+*** Gazzilli 2C
 
 Over Gazzilli, 2D is the forcing relay showing a game force against an opener's
 strong option.  Responder's other rebids are nonforcing and descriptive.
@@ -102,7 +102,7 @@ descriptive.  This treatment is especially useful over 1H-1S-2C, where both
 partners are virtually unlimited.
 
 1H-1S-2C-
-2D = F (R), 8+ HCP
+2D = (R), 8+ HCP
 2H = 2+!h, 5--7 HCP
 2S = 6+!s, 5--7 HCP
 2N = 4--5!s, 0--1!h, 2--5!d, 2--5!c, 5--7 HCP
@@ -143,7 +143,7 @@ reuse 3D as a runout and assign 3M stronger meanings.
 3N = 2533 or 25(42), 16--17 HCP
 
 1H-1N-2C-
-2D = F (R), 8+ HCP
+2D = (R), 8+ HCP
 2H = 2+!h, 5--7 HCP
 2S = 3!s, 0--1!h, 5--7 HCP
 2N = 0--2!s, 0--1!h, 5+!d, 5+!c, 5--7 HCP
@@ -168,7 +168,7 @@ If the opener has only 5 spades, we still have a chance to find a heart fit.
 Therefore, there are steps to let the responder show 5 hearts.
 
 1S-1N-2C-
-2D = F (R), 8+ HCP
+2D = (R), 8+ HCP
 2H = 5+!h, 0--1!s, 5--7 HCP
 2S = 2+!s, 5--7 HCP
 2N = 0--1!s, 2--4!h, 3--5!d, 3--5!c, 5--7 HCP
