@@ -54,8 +54,11 @@ to be constructive.
 The Gazzilli 2C is the only forcing rebid.  The other rebids are nonforcing and
 descriptive.  High rebids tend to be distributional.
 
+Since we can no longer play 2C, minimum (522)4 hands are considered balanced
+systematically.
+
 1H-1S-
-1N = BAL, 11--15 HCP
+1N = 2--3!s, 5!h, 2--3!d, 2--4!c, 11--15 HCP
 2C = (R), 4+!c or 16+ HCP
 2D = 4+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
@@ -65,12 +68,12 @@ descriptive.  High rebids tend to be distributional.
 3D = 5+!d, 14--15 HCP
 3H = S-SOL 6+!h, 14--15 HCP
 
-With 33 minors, we bid 2D for the only chance to stop at 2D.  However, bidding
+We bid 1H-1N-2D with 2533 for the only chance to stop at 2D.  However, bidding
 2D with 4522 is too dangerous, so we bid 2C then.  This makes 1H-1N-2C the most
 nebulous Gazzilli.
 
 1H-1N-
-P  = 2--4!s, 5!h, 1--3!d, 1--3!c, 11--13 HCP
+P  = 2--4!s, 5!h, 2--3!d, 2--4!c, 11--13 HCP
 2C = (R), 2+!c or 16+ HCP
 2D = 3+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
@@ -81,7 +84,7 @@ P  = 2--4!s, 5!h, 1--3!d, 1--3!c, 11--13 HCP
 3H = S-SOL 6+!h, 14--15 HCP
 
 1S-1N-
-P  = BAL, 11--13 HCP
+P  = 5!s, 2--3!h, 2--3!d, 2--4!c, 11--13 HCP
 2C = (R), 3+!c or 16+ HCP
 2D = 3+!d, 11--15 HCP
 2H = 4+!h, 11--15 HCP
@@ -142,14 +145,19 @@ reuse 3D as a runout and assign 3M stronger meanings.
 3S = FG, 35(32), 16--17 HCP
 3N = 2533 or 25(42), 16--17 HCP
 
+We play 2S as natural after Gazzilli.  For the weak direct response, we need 2S
+as a 3-suited takeout.
+
 1H-1N-2C-
 2D = (R), 8+ HCP
 2H = 2+!h, 5--7 HCP
-2S = 3!s, 0--1!h, 5--7 HCP
+2S = 3!s, 0--1!h, 4--5!d, 4--5!c, 5--7 HCP
 2N = 0--2!s, 0--1!h, 5+!d, 5+!c, 5--7 HCP
 3C = 6+!c, 0--1!h, 5--7 HCP
 3D = 6+!d, 0--1!h, 5--7 HCP
 3H = LIM, 3!h
+
+Because the weak option is still nebulous, 2S is a reasonable runout.
 
 1H-1N-2C-2D-
 2H = 2+!c, 11--15 HCP
