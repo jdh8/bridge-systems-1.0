@@ -63,10 +63,11 @@ systematically.
 2D = 4+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
 2S = 4+!s, 12--16 points
-2N = 6+!h, 4+!d!c, 14--15 HCP
+2N = 6+!h, 3!s, 14--15 HCP
 3C = 5+!c, 14--15 HCP
 3D = 5+!d, 14--15 HCP
 3H = S-SOL 6+!h, 14--15 HCP
+3S = 4+!s, 16--18 points
 
 We bid 1H-1N-2D with 2533 for the only chance to stop at 2D.  However, bidding
 2D with 4522 is too dangerous, so we bid 2C then.  This makes 1H-1N-2C the most
@@ -77,11 +78,12 @@ P  = 2--4!s, 5!h, 2--3!d, 2--4!c, 11--13 HCP
 2C = (R), 2+!c or 16+ HCP
 2D = 3+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
-2S = 5+!s, 6+!h, 14--15 HCP
+2S = 5+!s, 6+!h, 11--13 HCP
 2N = 6+!h, 4+!d!c, 14--15 HCP
 3C = 5+!c, 14--15 HCP
 3D = 5+!d, 14--15 HCP
 3H = S-SOL 6+!h, 14--15 HCP
+3S = 5+!s, 6+!h, 14--15 HCP
 
 1S-1N-
 P  = 5!s, 2--3!h, 2--3!d, 2--4!c, 11--13 HCP
@@ -206,6 +208,49 @@ Therefore, there are steps to let the responder show 5 hearts.
 3S = FG, 6+!s
 3N = 5233, 16--17 HCP
 
+*** The 2N rebid
+
+As Gazzilli takes care of strong hands, we can make Precision-like jumps at the
+3-level.  However, we cannot copy the 2N rebid from Precision since responder
+can have only 6--7 HCP.  We have to make 2N distributional to increase the
+probability of finding a fit.  Our 2N rebid shows medium strength, 6+ cards in
+the opened suit, and potential support of responder's suits.
+
+- 1H-1S-2N = 6+!h, 3!s, 14--15 HCP
+- 1H-1N-2N = 6+!h, 4+!d!c, 14--15 HCP
+- 1S-1N-2N = 6+!s, 4+!h!d!c, 14--15 HCP
+
+1H-1S-2N-
+3C = S/T in !h
+3D = S/T in !s
+3M = S/O
+3N = S/O
+4M = S/O
+
+1H-1N-2N-
+3C = P/C
+3D = P/C
+3H = S/O
+3S = FG (R)
+  3N = 4+!d
+  4C = 4+!c
+3N = S/O
+4H = S/O
+
+Since the 1S opener has 3 options, a low-level pass-or-correct bid is not very
+useful.  Game-forcing relay is a better role for 3C.
+
+1S-1N-2N-
+3C = FG (R)
+  3D = 4+!d
+  3H = 4+!h
+  3S = 4+!c
+3D = P/C, 4+!d, 1+!s
+3H = P/C, 4+!h, 1+!s
+3S = S/O
+3N = S/O
+4S = S/O
+
 *** Other rebids
 
 1H-1S-1N-
@@ -256,6 +301,49 @@ Therefore, there are steps to let the responder show 5 hearts.
 4C = SPL, 0--1!c
 4D = SPL, 0--1!d
 4S = S/O
+
+The only occurrence of the impossible 2S in our system is 1H-1N-2D-2S.
+If responder cannot tolerate either red suit, there must be 6+ clubs.
+Consequently, 3D becomes a mixed raise.
+
+1H-1N-2D-
+2H = S/O S/P
+2S = LIM, 4+!d
+2N = NAT INV
+3C = S/O, 6+!c, 0--1!h, 0--3!d
+3D = 5+!d, 8--9 HCP
+3H = LIM, 3!h
+
+1H-1N-2H-
+2S = NAT WK 3055
+2N = INV, 0--1!h
+3C = S/O, 6+!c, 0!h
+3D = S/O, 6+!d, 0!h
+3H = INV, 2+!h
+
+1S-1N-2D-
+2H = 5+!h, 0--1!s, 0--3!d, 5--9 HCP
+2S = S/O S/P
+2N = NAT INV
+3C = S/O, 6+!c, 0--1!s, 0--2!d
+3D = LIM, 4+!d
+3H = INV, 6+!h
+3S = LIM, 3!s
+
+1S-1N-2H-
+2S = S/O S/P
+2N = NAT INV
+3C = S/O, 6+!c, 0--1!s, 0--2!h
+3D = S/O, 6+!d, 0--1!s, 0--2!h
+3H = LIM, 4+!h
+3S = LIM, 3!s
+
+1S-1N-2S-
+2N = INV, 0--1!s
+3C = S/O, 6+!c, 0!s
+3D = S/O, 6+!d, 0!s
+3H = S/O, 6+!h, 0!s
+3S = INV, 2+!s
 
 ** Jacoby 2N
 
