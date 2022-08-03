@@ -1,0 +1,102 @@
+* Minor suit openings
+
+1C-
+1D = 4+!d, 6+ points
+1H = 4+!h, 6+ points
+1S = 4+!s, 6+ points
+1N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 6--9 HCP
+2C = 5+!c, 6--10 points
+2D = 4+!d, 17+ points
+2H = 4+!h, 17+ points
+2S = 4+!s, 17+ points
+2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--5!c
+3C = LIM, 5+!c
+3D = SPL, 0--1!d, 5+!c
+3H = SPL, 0--1!h, 5+!c
+3S = SPL, 0--1!s, 5+!c
+3N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 12--15 HCP
+
+1D-
+1H = 4+!h, 6+ points
+1S = 4+!s, 6+ points
+1N = 0--3!s, 0--3!h, 0--4!d, 3+!c, 6--9 HCP
+2C = FG, 4+!c
+2D = 4+!d, 6--10 points
+2H = 4+!h, 17+ points
+2S = 4+!s, 17+ points
+2N = INV, 2--3!s, 2--3!h, 2--4!d, 2--5!c
+3C = INV, 6+!c, 9--11 HCP
+3D = LIM, 4+!d
+3H = SPL, 0--1!h, 4+!d
+3S = SPL, 0--1!s, 4+!d
+3N = 2--3!s, 2--3!h, 2--4!d, 2--5!c, 12--15 HCP
+4C = SPL, 0--1!c, 4+!d
+
+1C-1D-
+1H = 4+!h, 11--17 HCP
+1S = 4+!s, 11--17 HCP
+1N = 2--3!s, 2--3!h, 2--3!d, 3--5!c, 11--14 HCP
+2C = 6+!c, 11--15 HCP
+2D = 4+!d, 11--15 HCP
+2H = 4+!h, 18+ HCP
+2S = 4+!s, 18+ HCP
+2N = 2--4!s, 2--4!h, 2--4!d, 3--5!c, 18--19 HCP
+3C = 6+!c, 16--18 HCP
+3D = 4+!d, 16--18 HCP
+3H = SPL, 0--1!h, 4+!d, 19+ points
+3S = SPL, 0--1!s, 4+!d, 19+ points
+3N = 19+ HCP, or SOL 7+!c and partial stop in MM
+
+1C-1H-
+1S = 4+!s, 11--15 HCP
+1N = 2--3!s, 2--3!h, 2--4!d, 3--5!c, 11--14 HCP
+2C = 5+!c, 11--15 HCP
+2D = (R), 0--3!s, 16+ HCP
+2H = 4+!h, 12--16 points
+2S = 4+!s, 16+ HCP
+2N = 2--4!s, 2--3!h, 2--4!d, 3--5!c, 18--19 HCP
+3C = 6+!c, 14--15 HCP
+3D = 5+!d, 14--15 HCP
+3H = 4+!h, 17--18 points
+3S = 5+!s, 14--15 HCP
+3N = SOL 7+!c, partial stop in !s and !d
+
+1C-1S-
+1N = 2--3!s, 2--4!h, 2--4!d, 3--5!c, 11--14 HCP
+2C = 5+!c, 11--15 HCP
+2D = (R), 0--3!h, 16+ HCP
+2H = 4+!h, 16+ HCP
+2S = 4+!s, 12--16 points
+2N = 2--3!s, 2--4!h, 2--4!d, 3--5!c, 18--19 HCP
+3C = 6+!c, 14--15 HCP
+3D = 5+!d, 14--15 HCP
+3H = 5+!h, 14--15 HCP
+3S = 4+!s, 17--18 points
+3N = SOL 7+!c, partial stop in !h and !d
+
+1D-1H-
+1S = 4+!s, 11--15 HCP
+1N = 2--3!s, 2--3!h, 4--5!d, 2--4!c, 11--14 HCP
+2C = (R), 0--3!s, 16+ HCP
+2D = 5+!d, 11--15 HCP
+2H = 4+!h, 12--16 points
+2S = 4+!s, 16+ HCP
+2N = 2--4!s, 2--3!h, 2--5!d, 2--4!c, 18--19 HCP
+3C = 5+!c, 14--15 HCP
+3D = 6+!d, 14--15 HCP
+3H = 4+!h, 17--18 points
+3S = 5+!s, 14--15 HCP
+3N = SOL 7+!d, partial stop in !s and !c
+
+1D-1S-
+1N = 2--3!s 2--4!h 4--5!d 2--4!c or 1444, 11--15 HCP
+2C = (R), 0--3!h, 16+ HCP
+2D = 5+!d, 11--15 HCP
+2H = 4+!h, 16+ HCP
+2S = 4+!s, 12--16 points
+2N = 2--3!s, 2--4!h, 2--5!d, 2--4!c, 18--19 HCP
+3C = 5+!c, 14--15 HCP
+3D = 6+!d, 14--15 HCP
+3H = 5+!h, 14--15 HCP
+3S = 4+!s, 17--18 points
+3N = SOL 7+!d, partial stop in !h and !c
