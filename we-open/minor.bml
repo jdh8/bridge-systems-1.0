@@ -4,17 +4,20 @@
 1D = 4+!d, 6+ points
 1H = 4+!h, 6+ points
 1S = 4+!s, 6+ points
-1N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 6--9 HCP
+1N = 2--3!s, 2--3!h, 2--5!d, 2--4!c, 6--9 HCP
 2C = 5+!c, 6--10 points
 2D = 4+!d, 17+ points
 2H = 4+!h, 17+ points
 2S = 4+!s, 17+ points
-2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--5!c
+2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--4!c
 3C = LIM, 5+!c
 3D = SPL, 0--1!d, 5+!c
 3H = SPL, 0--1!h, 5+!c
 3S = SPL, 0--1!s, 5+!c
 3N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 12--15 HCP
+4C = FG, 6--7!c, 2--3!s, 2--3!h, 2--3!d, 12--15 HCP
+4H = PRE, good 7+!h, 6--10 HCP
+4S = PRE, good 7+!s, 6--10 HCP
 
 1D-
 1H = 4+!h, 6+ points
@@ -29,8 +32,11 @@
 3D = LIM, 4+!d
 3H = SPL, 0--1!h, 4+!d
 3S = SPL, 0--1!s, 4+!d
-3N = 2--3!s, 2--3!h, 2--4!d, 2--5!c, 12--15 HCP
+3N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 12--15 HCP
 4C = SPL, 0--1!c, 4+!d
+4D = FG, 6--7!d, 2--3!s, 2--3!h, 2--3!c, 12--15 HCP
+4H = PRE, good 7+!h, 6--10 HCP
+4S = PRE, good 7+!s, 6--10 HCP
 
 1C-1D-
 1H = 4+!h, 11--17 HCP
