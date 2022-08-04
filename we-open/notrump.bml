@@ -195,26 +195,26 @@ We only show minor suits with a singleton or void.  We play minor contracts 2
 levels above notrump contracts (3m vs 1N and 5m vs 3N), so we need a pretty
 unbalanced hand.
 
-We swap our major Splinter bids to avoid lead-directing doubles.
+We use fragment bids instead of Splinters here to avoid lead-directing doubles.
 
 1N-2S-
 2N = MAX, 4+!c
   3C = S/O
   3D = S/T, 5+!d, 5+!c
-  3H = SPL !s, 6+!c
-  3S = SPL !h, 6+!c
-  3N = SPL !d, 6+!c
+  3H = FRAG, 0--1!s, 6+!c
+  3S = FRAG, 0--1!h, 6+!c
+  3N = FRAG, 0--1!d, 6+!c
   4S = Retransfer, 6+!c
 3C = (R)
   3D = S/T, 5+!d, 5+!c
-  3H = SPL !s, 6+!c
-  3S = SPL !h, 6+!c
-  3N = SPL !d, 6+!c
+  3H = FRAG, 0--1!s, 6+!c
+  3S = FRAG, 0--1!h, 6+!c
+  3N = FRAG, 0--1!d, 6+!c
 
 1N-3C-3D-
-3H = SPL !s
-3S = SPL !h
-3N = SPL !c
+3H = FRAG, 0--1!s
+3S = FRAG, 0--1!h
+3N = FRAG, 0--1!c
 
 We move the minor Stayman to the unallocated 4S.  Since the opener must have a
 3+ card minor, 55 minors would ensure a minor fit.  The opener rebids based on
