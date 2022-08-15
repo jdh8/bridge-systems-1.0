@@ -18,11 +18,39 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
 Notable conventions we use:
 
-- Gazilli
+- Gazilli (over 1M-1N and 1X-1M)
 - Redwood (Kickback RKCB only for minors)
 - Roudi (coded Checkback Stayman)
 
 Also, we do not use the inverted minors.
+
+** Hand evaluation
+
+- *High card points*: the well-known Milton Work's 4321 count
+- *Total points*: HCP + distribution points (void = 3, singleton = 2, doubleton = 1, subtract 1 for each short suit with HCP)
+- *Fifths*: 4.0--2.8--1.8--1.0--0.4, adjusted HCP for notrump contracts, especially 3NT
+- *BUM-RAP*: 4.5--3--1.5--0.75--0.25, adjusted HCP for suit contracts
+- *NLTC*: Count 1.5--1.0--0.5 losers for each missing AKQ
+
+NLTC is a good single hand evaluator but not very additive.  It suits
+preemptive initial actions but not for showing supports.  I have a blog article
+on that topic.
+
+https://jdh8.org/nltc-a-good-single-hand-evaluator/
+
+*** Stopper
+
+We evaluate stopper quality as GIB does.
+
+- *Partial stop*: length + HCP = 4
+- *Likely stop*: length + HCP = 5
+- *Stop*: A, QJx, or length + HCP at least 7
+- *Two stops*: length + HCP at least 8
+
+*** References
+
+- [Thomas's Bridge Fantasia](https://bridge.thomasoandrews.com/valuations/)
+- [GIB Bid Descriptions](https://www.bridgebase.com/doc/gib_descriptions.php)
 
 * Opening bids
 
@@ -36,8 +64,8 @@ Also, we do not use the inverted minors.
 2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
 3X = PRE, 7+ cards, 5--10 HCP
 3N = Gambling, SOL 7+m, 0--1 (partial) stop outside
-4C = Namyats, S-SOL 7+!h, 5.5− losers
-4D = Namyats, S-SOL 7+!s, 5.5− losers
+4C = Namyats, S-SOL 7+!h, 5.5− NLTC
+4D = Namyats, S-SOL 7+!s, 5.5− NLTC
 4H = PRE, good 7+!h
 4S = PRE, good 7+!s
 4N = UNT, 6+!d, 6+!c
