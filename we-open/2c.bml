@@ -66,6 +66,15 @@ bidding structure.
 
 http://kwbridge.com/bb/b_2c.htm
 
+Artificial bids for both opener and responder:
+
+- *2N*: unusual notrump as a two-suited takeout
+- *Cuebid*: three-suited takeout
+- *4m*: Leaping Michaels
+
+A double is penalty-oriented since the forcing pass already works similar to a
+takeout.
+
 *** First response
 
 Double with a (semi)balanced negative.  Having 0--3 HCP and no control (not
@@ -74,7 +83,7 @@ also less than ideal.  Defending a doubled contract is probably our best
 choice.
 
 2C-(2Y)-
-D  = PEN, 2+ cards, 0--3 HCP, no K
+D  = PEN, 2+ cards, 0--3 HCP, no CTRL
 2Z = 5+ cards
 2N = UNT, 55+ in the lowest two unbid suits
 3X = 5 cards KJ or 6+ cards
