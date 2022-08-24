@@ -18,10 +18,10 @@ usually want to bid 2!d to hear what our partner has.
 2C-
 2D = FG, 4+ HCP or any K
 2H = DBL NEG, NF, 0--3 HCP, no K
-2S = 5!sKJ or 6+!s, 8+ points
-2N = 5!hKJ or 6+!h, 8+ points
-3C = 5!cKJ or 6+!c, 8+ points
-3D = 5!dKJ or 6+!d, 8+ points
+2S = 5+!s, 8+ points
+2N = 5+!h, 8+ points
+3C = 6+!c, 8+ points
+3D = 6+!d, 8+ points
 
 2!c-2!d is by far the most frequent response.  We can have a sublime rebidding
 plan.  We allocate three suiters to 3H and above.  We refuse to open 1m with
@@ -86,9 +86,32 @@ choice.
 D  = PEN, 2+ cards, 0--3 HCP, no CTRL
 2Z = 5+ cards
 2N = UNT, 55+ in the lowest two unbid suits
-3X = 5 cards KJ or 6+ cards
+3X = FG, 5+ cards
 3Y = CUE, STAY or T/O
-3Z = 7+ cards or SOL 6 cards
+3Z = FG, 7+ cards or SOL 6 cards
+
+2C-(2N)-
+D  = PEN of either m
+3C = FG, 4+!s, 4+!h
+3D = FG, 5+!s, 5+!h
+3H = FG, 5+!h
+3S = FG, 5+!s
+3N = To play, likely stops in mm
+
+2C-(3X)-
+D  = PEN
+3Y = FG, 5+ cards
+3N = To play, stop in the adverse suit
+
+2C-(3m)-
+4m  = 5+!s, 5+!h
+4om = 5+ cards, 5+M
+
+2C-(3M)-
+4m  = 5+ cards, 5+oM
+4M  = 3-suited T/O
+4oM = 7+ cards or SOL 6 cards
+4N  = UNT, 5+!d, 5+!c
 
 *** Opener's rebid over RHO's overcall
 
@@ -99,6 +122,14 @@ D  = PEN, 4+ cards
 3Y = 3-suited T/O
 3Z = 7+ cards or SOL 6 cards
 3N = To play, stop in the adverse suit
+
+2C-2DH-(2N)-
+D  = PEN of either m
+3C = FG, 4+!s, 4+!h
+3D = 5+!s, 5+!h
+3H = FG, 5+!h
+3S = FG, 5+!s
+3N = To play, likely stops in mm
 
 2C-2DH-(3X)-
 D  = PEN, 3+ cards
