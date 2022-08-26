@@ -38,24 +38,24 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 * The 1C opening
 
 1C-
-1D = 0--7 HCP
+1D = NF, 0--7 HCP
 
 1C-1D-
-1H = (R), 20+ HCP
-1S = 4+!s, 16--19 HCP
-1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 16--19 HCP
-2C = 5+!c, 16--19 HCP
-2D = 5+!d, 16--19 HCP
-2H = 5+!h, 16--19 HCP
+1H = (R), 19+ HCP
+1S = 4+!s, 16--18 HCP
+1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 16--18 HCP
+2C = 5+!c, 16--18 HCP
+2D = 5+!d, 16--18 HCP
+2H = 5+!h, 16--18 HCP
 
 1C-1D-1H-
 1S = NF, 0--4 HCP
 
 1C-1D-1H-1S-
-1N = 2--6!c, 20--21 HCP
-2C = 22+ HCP
-2D = 4+!d, unbalanced, 20--21 HCP
-2H = 5+!h, 20--21 HCP
-2S = 5+!s, 20--21 HCP
-2N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 24+ HCP
-3C = 7+!c, 20--21 HCP
+1N = 2--4!s, 2--4!h, 2--5!d, 2--6!c, 19--21 HCP
+2C = F1, 22+ points
+2D = 4+!d
+2H = 5+!h
+2S = 3!s, 6+!c
+2N = 4!h, 6+!c
+3C = 7+!c
