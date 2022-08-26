@@ -47,6 +47,11 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 2C = 5+!c, 16--18 HCP
 2D = 5+!d, 16--18 HCP
 2H = 5+!h, 16--18 HCP
+2S = 5+!s, 5+m, 16--18 HCP
+2N = 5+!d, 5+!c, 16--18 HCP
+3C = 5+!c, 5+!h, 16--18 HCP
+3D = 5+!d, 5+!h, 16--18 HCP
+3H = 5+!h, 5+!s, 16--18 HCP
 
 1C-1D-1H-
 1S = NF, 0--4 HCP
@@ -54,8 +59,8 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 1C-1D-1H-1S-
 1N = 2--4!s, 2--4!h, 2--5!d, 2--6!c, 19--21 HCP
 2C = F1, 22+ points
-2D = 4+!d
+2D = 5+!d
 2H = 5+!h
-2S = 3!s, 6+!c
-2N = 4!h, 6+!c
-3C = 7+!c
+2S = 6+!s
+2N = 0--1!s, 3--4!h, 3--4!d, 4--5!c
+3C = 6+!c
