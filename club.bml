@@ -33,9 +33,26 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 4D = Namyats, S-SOL 7+!s, 5.5− NLTC
 4H = PRE, good 7+!h
 4S = PRE, good 7+!s
-4N = UNT, 6+!d, 6+!c
+4N = UNT, 6+!d, 6+!c, 11--15 HCP
 
-* The 1C opening
+If Ekren is allowed, we break down the Precision 2D and use Ekren instead.
+This is the case in the ACBL Open+ Chart but not in the Open Chart.
+
+1H = 5+!h (or 4414), 11--15 HCP
+1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, (or 4414,) 12--15 HCP
+2D = PRE, 4+!s, 4+!h, 4--10 HCP
+
+Most Precision 2D hands fall into the 2C opening.  The only exception is 4414.
+Where to put them again depends on legality.  We prefer bidding 1N.  In case
+that it is illegal, we bid 1H instead.
+
+As per ACBL, the singleton must be at least Q in a natural 1N opening.  A stiff
+J or less makes it artificial and banned except in the Open+ chart *and* in
+segments of at least 6 boards.
+
+http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
+
+* The strong 1C opening
 
 1C-
 1D = NF, 0--7 HCP
