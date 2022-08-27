@@ -22,9 +22,9 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 1D = 4+!d, 11--15 HCP
 1H = 5+!h, 11--15 HCP
 1S = 5+!s, 11--15 HCP
-1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 12--15 HCP
+1N = 2--4!s 2--4!h 2--5!d 2--5!c or 4414, 12--15 HCP
 2C = 5+!c, 11--15 HCP
-2D = 3--4!s, 3--4!h, 0--1!d, 4--5!c, 11--15 HCP
+2D = PRE, 4+!s, 4+!h, 4--10 HCP
 2M = PRE, 5+ cards, 4--10 HCP
 2N = UNT, 5+!d, 5+!c, 4--10 HCP
 3X = PRE, 7+ cards, 4--10 HCP
@@ -35,22 +35,31 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 4S = PRE, good 7+!s
 4N = UNT, 6+!d, 6+!c, 11--15 HCP
 
-If Ekren is allowed, we break down the Precision 2D and use Ekren instead.
-This is the case in the ACBL Open+ Chart but not in the Open Chart.
+Our 1D opening always has 4+ diamonds.  We pass BAL 11 HCP without a 5-card
+major.
 
-1H = 5+!h (or 4414), 11--15 HCP
-1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, (or 4414,) 12--15 HCP
-2D = PRE, 4+!s, 4+!h, 4--10 HCP
+We replace the Precision 2D opening with more frequent Ekren 2D.  The Precision
+2C can describe most of the Precision 2D hands.  The only exception is 4414,
+with that exception we open 1NT or pass 11 counts.
 
-Most Precision 2D hands fall into the 2C opening.  The only exception is 4414.
-Where to put them again depends on legality.  We prefer bidding 1N.  In case
-that it is illegal, we bid 1H instead.
+** Legal issues
+
+*** 4414, 12--15 HCP
+
+If opening such hands with 1NT is prohibited by your regulation, open these
+hands with 1H instead.
 
 As per ACBL, the singleton must be at least Q in a natural 1N opening.  A stiff
-J or less makes it artificial and banned except in the Open+ chart *and* in
-segments of at least 6 boards.
+J or less makes it artificial and only legal in the Open+ chart *and* in
+segments of 6+ boards.
 
 http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
+
+*** The 2D preempt
+
+If you cannot show both majors via 2D, revert to a natural weak 2D.
+
+2D = PRE, 5+!d, 4--10 HCP
 
 * The strong 1C opening
 
