@@ -13,35 +13,27 @@ to reject a limit raise, the opener can pass that 1N response.
 1H-
 1S = 4+!s, 6+ points
 1N = NF, 0--3!s, 0--3!h, 6--11 HCP
-2C = FG, 4+!c
-2D = FG, 4+!d
+2m = FG, 4+#
 2H = 3+!h, 6--10 points
 2S = 4+!s, 17+ points
 2N = FG, 4+!h, 2+!s, 2+!d, 2+!c, 12+ points
-3C = INV, 6+!c, 9--11 HCP
-3D = INV, 6+!d, 9--11 HCP
+3m = INV, 6+#, 9--11 HCP
 3H = LIM, 4+!h
-3S = SPL, 0--1!s, 4+!h
+3S = !SPL, 0--1!s, 4+!h
 3N = P/C, 3--4!s, 3!h, 3--4!d, 3--4!c, 12--15 HCP
-4C = SPL, 0--1!c, 4+!h
-4D = SPL, 0--1!d, 4+!h
+4m = !SPL, 0--1#, 4+!h
 4H = PRE, 5+!h
 
 1S-
 1N = NF, 0--3!s, 6--11 HCP
-2C = FG, 4+!c
-2D = FG, 4+!d
+2m = FG, 4+#
 2H = FG, 5+!h
 2S = 3+!s, 6--10 points
 2N = FG, 4+!s, 2+!h, 2+!d, 2+!c, 12+ points
-3C = INV, 6+!c, 9--11 HCP
-3D = INV, 6+!d, 9--11 HCP
-3H = INV, 6+!h, 9--11 HCP
+3X = INV, 6+#, 9--11 HCP
 3S = LIM, 4+!s
 3N = P/C, 3!s, 3--4!h, 3--4!d, 3--4!c, 12--15 HCP
-4C = SPL, 0--1!c, 4+!s
-4D = SPL, 0--1!d, 4+!s
-4H = SPL, 0--1!h, 4+!s
+4X = !SPL, 0--1#, 4+!s
 4S = PRE, 5+!s
 
 ** Over 1/1 responses
@@ -59,13 +51,13 @@ systematically.
 
 1H-1S-
 1N = 2--3!s, 5!h, 2--3!d, 2--4!c, 11--15 HCP
-2C = (R), 4+!c or 16+ HCP
+2C = !(R), 4+!c or 16+ HCP
 2D = 4+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
-2S = 4+!s, 12--16 points
-2N = 6+!h, 3!s, 14--15 HCP
-3C = 5+!c, 14--15 HCP
-3D = 5+!d, 14--15 HCP
+2S = ! 4+!s, 12--16 points
+2N = ! 6+!h, 3!s, 14--15 HCP
+3C = ! 5+!c, 14--15 HCP
+3D = ! 5+!d, 14--15 HCP
 3H = S-SOL 6+!h, 14--15 HCP
 3S = 4+!s, 16--18 points
 
@@ -75,26 +67,26 @@ nebulous Gazzilli.
 
 1H-1N-
 P  = 2--4!s, 5!h, 2--3!d, 2--4!c, 11--13 HCP
-2C = (R), 2+!c or 16+ HCP
+2C = !(R), 2+!c or 16+ HCP
 2D = 3+!d, 11--15 HCP
 2H = 6+!h, 11--15 HCP
-2S = 5+!s, 6+!h, 11--13 HCP
-2N = 6+!h, 4+!d!c, 14--15 HCP
-3C = 5+!c, 14--15 HCP
-3D = 5+!d, 14--15 HCP
+2S = ! 5+!s, 6+!h, 11--13 HCP
+2N = ! 6+!h, 4+!d!c, 14--15 HCP
+3C = ! 5+!c, 14--15 HCP
+3D = ! 5+!d, 14--15 HCP
 3H = S-SOL 6+!h, 14--15 HCP
 3S = 5+!s, 6+!h, 14--15 HCP
 
 1S-1N-
 P  = 5!s, 2--3!h, 2--3!d, 2--4!c, 11--13 HCP
-2C = (R), 3+!c or 16+ HCP
+2C = !(R), 3+!c or 16+ HCP
 2D = 3+!d, 11--15 HCP
 2H = 4+!h, 11--15 HCP
 2S = 6+!s, 11--15 HCP
-2N = 6+!s, 4+!h!d!c, 14--15 HCP
-3C = 5+!c, 14--15 HCP
-3D = 5+!d, 14--15 HCP
-3H = 5+!h, 14--15 HCP
+2N = ! 6+!s, 4+!h!d!c, 14--15 HCP
+3C = ! 5+!c, 14--15 HCP
+3D = ! 5+!d, 14--15 HCP
+3H = ! 5+!h, 14--15 HCP
 3S = S-SOL 6+!s, 14--15 HCP
 
 *** Gazzilli 2C
@@ -107,7 +99,7 @@ descriptive.  This treatment is especially useful over 1H-1S-2C, where both
 partners are virtually unlimited.
 
 1H-1S-2C-
-2D = (R), 8+ HCP
+2D = !(R), 8+ HCP
 2H = 2+!h, 5--7 HCP
 2S = 6+!s, 5--7 HCP
 2N = 4--5!s, 0--1!h, 2--5!d, 2--5!c, 5--7 HCP
@@ -133,11 +125,11 @@ reuse 3D as a runout and assign 3M stronger meanings.
   4S = S/O, 6+!s
 2S = FG, 4+!s
 2N = BAL, 18+ HCP
-  3C = Roudi, 5!s or S/T
-    3D = 2!s, MIN
-    3H = 3!s, MIN
-    3S = 3!s, MAX
-    3N = 2!s, MAX
+  3C = !Roudi, 5!s or S/T
+    3D = ! 2!s, MIN
+    3H = ! 3!s, MIN
+    3S = ! 3!s, MAX
+    3N = ! 2!s, MAX
   3S = S/T, 6+!s
   3N = S/O
   4S = S/O, 6+!s
@@ -194,11 +186,11 @@ Therefore, there are steps to let the responder show 5 hearts.
   3D = S/O, 5+!d, 0--1!s, 8--9 HCP
   3H = S/O, 6+!h, 0--1!s, 8--9 HCP
 2N = BAL, 18+ HCP
-  3C = Roudi, 5!h or S/T
-    3D = 2!h, MIN
-    3H = 3!h, MIN
-    3S = 3!h, MAX
-    3N = 2!h, MAX
+  3C = !Roudi, 5!h or S/T
+    3D = ! 2!h, MIN
+    3H = ! 3!h, MIN
+    3S = ! 3!h, MAX
+    3N = ! 2!h, MAX
   3H = S/T, 6+!h
   3N = S/O
   4H = S/O, 6+!h
@@ -221,8 +213,8 @@ the opened suit, and potential support of responder's suits.
 - 1S-1N-2N = 6+!s, 4+!h!d!c, 14--15 HCP
 
 1H-1S-2N-
-3C = S/T in !h
-3D = S/T in !s
+3C = !S/T in !h
+3D = !S/T in !s
 3M = S/O
 3N = S/O
 4M = S/O
@@ -231,7 +223,7 @@ the opened suit, and potential support of responder's suits.
 3C = P/C
 3D = P/C
 3H = S/O
-3S = FG (R)
+3S = !FG (R)
   3N = 4+!d
   4C = 4+!c
 3N = S/O
@@ -241,7 +233,7 @@ Since the 1S opener has 3 options, a low-level pass-or-correct bid is not very
 useful.  Game-forcing relay is a better role for 3C.
 
 1S-1N-2N-
-3C = FG (R)
+3C = !FG (R)
   3D = 4+!d
   3H = 4+!h
   3S = 4+!c
@@ -254,11 +246,11 @@ useful.  Game-forcing relay is a better role for 3C.
 *** Other rebids
 
 1H-1S-1N-
-2C = Roudi, INV+
-  2D = 2!s, MIN
-  2H = 3!s, MIN
-  2S = 3!s, MAX
-  2N = 2!s, MAX
+2C = !Roudi, INV+
+  2D = ! 2!s, MIN
+  2H = ! 3!s, MIN
+  2S = ! 3!s, MAX
+  2N = ! 2!s, MAX
 2D = S/O, 5+!d, 0--2!h
 2S = S/O, 5+!s, 0--2!h
 2N = NAT INV
@@ -288,8 +280,8 @@ useful.  Game-forcing relay is a better role for 3C.
 3H = INV, 2+!h
 3S = INV, 6+!s
 3N = S/O
-4C = SPL, 0--1!c, 2+!h
-4D = SPL, 0--1!d, 2+!h
+4C = !SPL, 0--1!c, 2+!h
+4D = !SPL, 0--1!d, 2+!h
 4H = S/O, 2+!h
 4S = S/O, 6+!s
 
@@ -298,8 +290,8 @@ useful.  Game-forcing relay is a better role for 3C.
 3D = G/T, 4+!d
 3H = G/T, 3+!h
 3S = INV, 5+!s
-4C = SPL, 0--1!c
-4D = SPL, 0--1!d
+4C = !SPL, 0--1!c
+4D = !SPL, 0--1!d
 4S = S/O
 
 The only occurrence of the impossible 2S in our system is 1H-1N-2D-2S.
@@ -308,7 +300,7 @@ Consequently, 3D becomes a mixed raise.
 
 1H-1N-2D-
 2H = S/O S/P
-2S = LIM, 4+!d
+2S = !LIM, 4+!d
 2N = NAT INV
 3C = S/O, 6+!c, 0--1!h, 0--3!d
 3D = 5+!d, 8--9 HCP
@@ -351,7 +343,7 @@ Consequently, 3D becomes a mixed raise.
 3X = 0--1 card
 3H = 2+!s, 2+!d, 2+!c, 18+ HCP
 3N = 2+!s, 2+!d, 2+!c, 15--17 HCP
-4m = 5+ cards, 17+ points
+4m = 5+#, 17+ points
 4H = 2+!s, 2+!d, 2+!c, 11--14 HCP
 
 1H-2N-3CD-
@@ -371,7 +363,7 @@ Consequently, 3D becomes a mixed raise.
 3X = 0--1 card
 3S = 2+!h, 2+!d, 2+!c, 18+ HCP
 3N = 2+!h, 2+!d, 2+!c, 15--17 HCP
-4X = 5+ cards, 17+ points
+4X = 5+#, 17+ points
 4S = 2+!h, 2+!d, 2+!c, 11--14 HCP
 
 1S-2N-3CDH-

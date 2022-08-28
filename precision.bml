@@ -1,0 +1,120 @@
+#+TITLE: jdh8's Precision Club
+
+#+AUTHOR: Chen-Pang He (jdh8)
+
+#+DESCRIPTION: My pet Precision Club bidding system
+
+* Introduction
+
+Welcome to Chen-Pang He (jdh8)'s experimental Precision Club!  This
+document is written in Gert-Jan Paulissen's fork of the Bridge Bidding Markup
+Language (BML).
+
+https://github.com/gpaulissen/bml
+
+We use the distribution syntax and abbreviations provided by WBF.
+
+http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
+
+Notable conventions we use:
+
+- Redwood (Kickback RKCB only for minors)
+- Roudi (coded Checkback Stayman)
+
+Also, we do not use the inverted minors.
+
+#INCLUDE common/evaluation.bml
+
+* Opening bids
+
+1C = !STR F, 16+ HCP
+1D = 4+!d, 11--15 HCP
+1H = 5+!h or 4414, 11--15 HCP
+1S = 5+!s, 11--15 HCP
+1N = 2--4!s 2--4!h 2--5!d 2--5!c or 4414 !dQ, 12--15 HCP
+2C = !NAT, 5+!c, 11--15 HCP
+2D = !PRE, 4+!s, 4+!h, 4--10 HCP
+2M = PRE, 5+#, 4--10 HCP
+2N = !UNT, 5+!d, 5+!c, 4--10 HCP
+3X = PRE, 7+#, 4--10 HCP
+3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
+4C = !Namyats, S-SOL 7+!h, 5.5− NLTC
+4D = !Namyats, S-SOL 7+!s, 5.5− NLTC
+4M = PRE, good 7+#
+4N = !UNT, 6+!d, 6+!c, 11--15 HCP
+
+Our 1D opening always has 4+ diamonds.  We pass BAL 11 HCP without a 5-card
+major.
+
+We replace the Precision 2D opening with more frequent Ekren 2D.  The Precision
+2C can describe most of the Precision 2D hands.  The only exception is 4414,
+with that distribution we open 1H, 1NT, or pass 11 counts.
+
+** Legal issue of the 2D preempt
+
+If you cannot show both majors via 2D, revert to a natural weak 2D.
+
+2D = PRE, 5+!d, 4--10 HCP
+
+As per ACBL, artificial preempts are only allowed in the Open+ Chart.  Check
+your local regulations to see if you can use the Ekren 2D.
+
+http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
+
+* Strong 1C opening
+
+Our first response is the same as Meckwell Lite except that we have more
+nonforcing auctions over 1C-1D.
+
+1C-
+1D = !NF, 0--7 HCP
+1H = !FG, not (4441), 8--11 HCP
+1S = !FG, 5+!s, 12+ HCP
+1N = !FG, 2--4!s, 2--4!h, 2--5!d, 2--5!c, 12+ HCP
+2X = !FG, 5+#, 12+ HCP
+2S = !FG PUP, (4441), 8--11 HCP
+2N = !FG PUP, (4441), 12+ HCP
+3X = !INV, 6+#, 3--7 HCP
+4M = PRE, 8+#, 0--4 HCP
+
+#SEAT 34
+
+A passed hand can have at most 11 HCP.  We have a simpler structure for passed
+hand positives.
+
+1C-
+1H = FG, 5+!h, 8+ HCP
+1S = FG, 5+!s, 8+ HCP
+1N = FG, 2--4!s, 2--4!h, 2--5!d, 2--5!c, 8+ HCP
+2C = FG, 5+!c, 8+ HCP
+2D = FG, 5+!d, 8+ HCP
+2H = !FG, 44(41), 8+ HCP
+2S = !FG, 4144, 8+ HCP
+2N = !FG, 1444, 8+ HCP
+
+#SEAT 0
+
+1C-1D-
+1H = !(R), 19+ HCP
+1S = 4+!s, 16--18 HCP
+1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 16--18 HCP
+2C = 5+!c, 16--18 HCP
+2D = 5+!d, 16--18 HCP
+2H = 5+!h, 16--18 HCP
+2S = ! 5+!s, 5+m, 16--18 HCP
+2N = ! 5+!d, 5+!c, 16--18 HCP
+3C = ! 5+!c, 5+!h, 16--18 HCP
+3D = ! 5+!d, 5+!h, 16--18 HCP
+3H = ! 5+!h, 5+!s, 16--18 HCP
+
+1C-1D-1H-
+1S = !NF, 0--4 HCP
+
+1C-1D-1H-1S-
+1N = 2--4!s, 2--4!h, 2--5!d, 2--6!c, 19--21 HCP
+2C = !F1, 22+ points
+2D = 5+!d
+2H = 5+!h
+2S = 6+!s
+2N = ! 0--1!s, 3--4!h, 3--4!d, 4--5!c
+3C = 6+!c

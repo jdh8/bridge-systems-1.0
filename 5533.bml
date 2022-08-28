@@ -1,0 +1,50 @@
+#+TITLE: jdh8's 2/1
+
+#+AUTHOR: Chen-Pang He (jdh8)
+
+#+DESCRIPTION: My pet 2/1 bidding system
+
+* Introduction
+
+Welcome to Chen-Pang He (jdh8)'s experimental 2/1 bidding system!  This
+document is written in Gert-Jan Paulissen's fork of the Bridge Bidding Markup
+Language (BML).
+
+https://github.com/gpaulissen/bml
+
+We use the distribution syntax and abbreviations provided by WBF.
+
+http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
+
+Notable conventions we use:
+
+- Gazilli (over 1M-1N and 1X-1M)
+- Redwood (Kickback RKCB only for minors)
+- Roudi (coded Checkback Stayman)
+
+Also, we do not use the inverted minors.
+
+#INCLUDE common/evaluation.bml
+
+* Opening bids
+
+1m = 3+#, 11+ HCP, 12--22 points
+1M = 5+#, 11+ HCP, 12--21 points
+1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
+2C = F1, 19+ HCP, 22+ points
+2X = PRE, 5+#, 4--10 HCP
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
+3X = PRE, 7+#, 5--10 HCP
+3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
+4C = !Namyats, S-SOL 7+!h, 5.5− NLTC
+4D = !Namyats, S-SOL 7+!s, 5.5− NLTC
+4M = PRE, good 7+#
+4N = !UNT, 6+!d, 6+!c, 11--15 HCP
+
+The strengths of preempts are subject to seat, vulnerability, and partnership
+agreements.  We will have detailed discussions in their own section.
+
+#INCLUDE 5533/major.bml
+#INCLUDE 5533/minor.bml
+#INCLUDE 5533/notrump.bml
+#INCLUDE 5533/2c.bml

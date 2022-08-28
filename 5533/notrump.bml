@@ -23,16 +23,16 @@ better idea.
 2C = STAY, may be Garbage
 2D = TRF, 5+!h
 2H = TRF, 5+!s
-2S = TRF, 6+!c or S/T 5+!d 5+!c
+2S = !TRF, 6+!c or S/T 5+!d 5+!c
 2N = NAT INV
-3C = TRF, 6+!d
-3D = SPL, 0--1!d, 4!s, 4!h, 4--5!c
-3H = SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
-3S = SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
+3C = !TRF, 6+!d
+3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
+3H = !SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
 3N = S/O
-4D = Texas TRF, 6+!h
-4H = Texas TRF, 6+!s
-4S = FG, 5+!d, 5+!c
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4S = !FG, 5+!d, 5+!c
 4N = QUANT INV to 6N
 5N = QUANT INV to 7N
 
@@ -64,8 +64,8 @@ natrual so that we have a chance to stop at 2H.
 2N = INV
 3C = FG, 5+!c
 3D = FG, 5+!d
-3H = FG, Smolen TRF, 5+!s, 4+!h
-3S = FG, Smolen TRF, 4+!s, 5+!h
+3H = !FG, Smolen TRF, 5+!s, 4+!h
+3S = !FG, Smolen TRF, 4+!s, 5+!h
 3N = S/O
 4N = QUANT INV to 6N
 5N = QUANT INV to 7N
@@ -79,10 +79,10 @@ is why the opener rebids 2H with 44 majors.
 3C = FG, 5+!c, 0--3!h, 4!s
 3D = FG, 5+!d, 0--3!h, 4!s
 3H = INV, 4+!h
-3S = S/T, 4+!h, 2+!d, 2+!c
+3S = !S/T, 4+!h, 2+!d, 2+!c
 3N = S/O, 0--3!h, 4!s
-4C = S/T SPL, 0--1!c, 4+!h
-4D = S/T SPL, 0--1!d, 4+!h
+4C = !S/T SPL, 0--1!c, 4+!h
+4D = !S/T SPL, 0--1!d, 4+!h
 4H = S/O, 4+!h
 4N = QUANT INV to 6N, 0--3!h
 5N = QUANT INV to 7N, 0--3!h
@@ -91,11 +91,11 @@ is why the opener rebids 2H with 44 majors.
 2N = INV, 0--3!s, 4!h
 3C = FG, 5+!c, 0--3!s, 4!h
 3D = FG, 5+!d, 0--3!s, 4!h
-3H = S/T, 4+!s, 2+!d, 2+!c
+3H = !S/T, 4+!s, 2+!d, 2+!c
 3S = INV, 4+!s
 3N = S/O, 0--3!s, 4!h
-4C = S/T SPL, 0--1!c, 4+!s
-4D = S/T SPL, 0--1!d, 4+!s
+4C = !S/T SPL, 0--1!c, 4+!s
+4D = !S/T SPL, 0--1!d, 4+!s
 4S = S/O, 4+!s
 4N = QUANT INV to 6N, 0--3!s
 5N = QUANT INV to 7N, 0--3!s
@@ -113,20 +113,20 @@ problems like 1N-2D-3D!-3H?.
   3C = FG, 4+!c
   3D = FG, 4+!d
   3H = INV, 6+!h
-  3S = SPL, 0--1!s, 6+!h
+  3S = !SPL, 0--1!s, 6+!h
   3N = P/C, 5!h
-  4C = SPL, 0--1!c, 6+!h
-  4D = SPL, 0--1!d, 6+!h
+  4C = !SPL, 0--1!c, 6+!h
+  4D = !SPL, 0--1!d, 6+!h
   4H = Mild S/T, 6+!h, 2+!s, 2+!d, 2+!c
   4N = QUANT INV to 6N
   5N = QUANT INV to 7N
-2S = MAX, 2!s, 4!h
-  3D = Retransfer
-2N = MAX, 3433
-  3D = Retransfer
-3C = MAX, 2!c, 4!h
-  3D = Retransfer
-3H = MAX, 2!d, 4!h
+2S = !MAX, 2!s, 4!h
+  3D = !Retransfer
+2N = !MAX, 3433
+  3D = !Retransfer
+3C = !MAX, 2!c, 4!h
+  3D = !Retransfer
+3H = !MAX, 2!d, 4!h
 
 1N-2H-
 2S = (R)
@@ -136,19 +136,19 @@ problems like 1N-2D-3D!-3H?.
   3H = FG, 5+!h
   3S = INV, 6+!s
   3N = P/C, 5!s
-  4C = SPL, 0--1!c, 6+!s
-  4D = SPL, 0--1!d, 6+!s
-  4H = SPL, 0--1!h, 6+!s
+  4C = !SPL, 0--1!c, 6+!s
+  4D = !SPL, 0--1!d, 6+!s
+  4H = !SPL, 0--1!h, 6+!s
   4S = Mild S/T, 6+!s, 2+!h, 2+!d, 2+!c
   4N = QUANT INV to 6N
   5N = QUANT INV to 7N
-2N = MAX, 4333
-  3H = Retransfer
-3C = MAX, 2!c, 4!s
-  3H = Retransfer
-3D = MAX, 2!d, 4!s
-  3H = Retransfer
-3S = MAX, 2!h, 4!s
+2N = !MAX, 4333
+  3H = !Retransfer
+3C = !MAX, 2!c, 4!s
+  3H = !Retransfer
+3D = !MAX, 2!d, 4!s
+  3H = !Retransfer
+3S = !MAX, 2!h, 4!s
 
 ** Seeking a major fit
 
@@ -201,27 +201,27 @@ We use fragment bids instead of Splinters here to avoid lead-directing doubles.
 2N = MAX, 4+!c
   3C = S/O
   3D = S/T, 5+!d, 5+!c
-  3H = FRAG, 0--1!s, 6+!c
-  3S = FRAG, 0--1!h, 6+!c
-  3N = FRAG, 0--1!d, 6+!c
-  4S = Retransfer, 6+!c
+  3H = !FRAG, 0--1!s, 6+!c
+  3S = !FRAG, 0--1!h, 6+!c
+  3N = !FRAG, 0--1!d, 6+!c
+  4S = !Retransfer, 6+!c
 3C = (R)
   3D = S/T, 5+!d, 5+!c
-  3H = FRAG, 0--1!s, 6+!c
-  3S = FRAG, 0--1!h, 6+!c
-  3N = FRAG, 0--1!d, 6+!c
+  3H = !FRAG, 0--1!s, 6+!c
+  3S = !FRAG, 0--1!h, 6+!c
+  3N = !FRAG, 0--1!d, 6+!c
 
 1N-3C-3D-
-3H = FRAG, 0--1!s
-3S = FRAG, 0--1!h
-3N = FRAG, 0--1!c
+3H = !FRAG, 0--1!s
+3S = !FRAG, 0--1!h
+3N = !FRAG, 0--1!c
 
 We move the minor Stayman to the unallocated 4S.  Since the opener must have a
 3+ card minor, 55 minors would ensure a minor fit.  The opener rebids based on
 suit preference.
 
 1N-4S-
-4N = NEU
+4N = !Equal preference
 5m = S/P S/O
 
 ** Competitive bidding
@@ -231,9 +231,9 @@ consistent with our system since we use Rubinsohl.
 
 1N-(2X)-
 3N = S/O
-4D = Texas TRF, 6+!h
-4H = Texas TRF, 6+!s
-4S = FG, 5+!d, 5+!c
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4S = !FG, 5+!d, 5+!c
 
 Over a natural double, a natural defense pretty suffices.  We need the chances
 to stop at 2m.
@@ -248,12 +248,12 @@ In most cases, we keep the *system on* over (2C).
 D  = STAY, may be Garbage
 2D = TRF, 5+!h
 2H = TRF, 5+!s
-2S = TRF, 6+!c or S/T 5+!d 5+!c
+2S = !TRF, 6+!c or S/T 5+!d 5+!c
 2N = NAT INV
-3C = TRF, 6+!d
-3D = SPL, 0--1!d, 4!s, 4!h, 4--5!c
-3H = SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
-3S = SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
+3C = !TRF, 6+!d
+3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
+3H = !SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
 3N = S/O
 
 If (2C) has one major anchor suit, transferring to that suit is asking for a
@@ -270,33 +270,33 @@ We use Rubinsohl over
 - 2C showing both majors
 
 1N-(2D)-
-D  = INV+, 2--3!d, 3--4!s, 3--4!h, 2--4!c, cooperative T/O
+D  = !INV+, 2--3!d, 3--4!s, 3--4!h, 2--4!c, cooperative T/O
 2H = S/O, 5+!h
 2S = S/O, 5+!s
-2N = TRF, 5+!c
-3C = FG STAY
-3D = TRF, INV+, 5+!h
-3H = TRF, INV+, 5+!s
-3S = F, no !d stopper
+2N = !TRF, 5+!c
+3C = !FG STAY
+3D = !TRF, INV+, 5+!h
+3H = !TRF, INV+, 5+!s
+3S = !F, no !d stopper
 3N = S/O, !d stopper
 
 1N-(2H)-
-D  = INV+, 2--3!h, 3--4!s, 3--4!d, 3--4!c, cooperative T/O
+D  = !INV+, 2--3!h, 3--4!s, 3--4!d, 3--4!c, cooperative T/O
 2S = S/O, 5+!s
-2N = TRF, 5+!c
-3C = TRF, 5+!d
-3D = FG STAY, 4!s
-3H = TRF, INV+, 5+!s
-3S = F, no !h stopper
+2N = !TRF, 5+!c
+3C = !TRF, 5+!d
+3D = !FG STAY, 4!s
+3H = !TRF, INV+, 5+!s
+3S = !F, no !h stopper
 3N = S/O, !h stopper
 
 1N-(2S)-
-D  = INV+, 2--3!s, 3--4!h, 3--4!d, 3--4!c, cooperative T/O
-2N = TRF, 5+!c
-3C = TRF, 5+!d
-3D = TRF, 5+!h
-3H = FG STAY, 4!h
-3S = F, no !s stopper
+D  = !INV+, 2--3!s, 3--4!h, 3--4!d, 3--4!c, cooperative T/O
+2N = !TRF, 5+!c
+3C = !TRF, 5+!d
+3D = !TRF, 5+!h
+3H = !FG STAY, 4!h
+3S = !F, no !s stopper
 3N = S/O, !s stopper
 
 If (2C) shows both majors, Stayman and Jacoby transfers lose their places.
@@ -304,13 +304,13 @@ Many steps become useless.  That is also why our recommended defense to 1N
 contains the Landy 2C.
 
 1N-(2C)-
-D  = INV+, 2--3!c, 3--4!s, 3--4!h, 2--4!d, cooperative T/O
+D  = !INV+, 2--3!c, 3--4!s, 3--4!h, 2--4!d, cooperative T/O
 2D = S/O, 5+!d
 2H = INV+, !h stopper
 2S = INV+, !s stopper
-2N = TRF, 5+!c
-3C = TRF, INV+, 5+!d
-3S = F, no MM stopper
+2N = !TRF, 5+!c
+3C = !TRF, INV+, 5+!d
+3S = !F, no MM stopper
 3N = S/O, MM stoppers
 
 Unusual vs. unusual does not apply to (2N) because we have not shown a suit.
@@ -335,24 +335,24 @@ structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
 #COPY 2N
 3C = STAY
   3D = 2--3!s, 2--3!h
-    3H = FG, Smolen TRF, 5+!s, 4+!h
-    3S = FG, Smolen TRF, 4+!s, 5+!h
+    3H = !FG, Smolen TRF, 5+!s, 4+!h
+    3S = !FG, Smolen TRF, 4+!s, 5+!h
     3N = S/O
     4N = QUANT INV to 6N
     5N = QUANT INV to 7N
   3H = 4!h
-    3S = S/T, 4+!h, 2+!d, 2+!c
+    3S = !S/T, 4+!h, 2+!d, 2+!c
     3N = S/O, 0--3!h, 4!s
-    4C = S/T SPL, 0--1!c, 4+!h
-    4D = S/T SPL, 0--1!d, 4+!h
+    4C = !S/T SPL, 0--1!c, 4+!h
+    4D = !S/T SPL, 0--1!d, 4+!h
     4H = S/O, 4+!h
     4N = QUANT INV to 6N, 0--3!h
     5N = QUANT INV to 7N, 0--3!h
   3S = 4!s, 2--3!h
     3N = S/O, 0--3!s, 4!h
-    4C = S/T SPL, 0--1!c, 4+!s
-    4D = S/T SPL, 0--1!d, 4+!s
-    4H = S/T, 4+!s, 2+!d, 2+!c
+    4C = !S/T SPL, 0--1!c, 4+!s
+    4D = !S/T SPL, 0--1!d, 4+!s
+    4H = !S/T, 4+!s, 2+!d, 2+!c
     4S = S/O, 4+!s
     4N = QUANT INV to 6N, 0--3!s
     5N = QUANT INV to 7N, 0--3!s
@@ -360,48 +360,48 @@ structure is also used in the /delayed/ 2N opening, i.e. 2C-2DH-2N.
   3H = (R)
     3S = S/T, 5+!s
     3N = P/C, 5!h
-    4C = SPL, 0--1!c, 6+!h
-    4D = SPL, 0--1!d, 6+!h
+    4C = !SPL, 0--1!c, 6+!h
+    4D = !SPL, 0--1!d, 6+!h
     4H = Mild S/T, 6+!h, 2+!d, 2+!c
     4N = QUANT INV to 6N
     5N = QUANT INV to 7N
-  3S = MAX, 2!s, 4!h
-    4D = Retransfer
-  3N = MAX, 3433
-    4D = Retransfer
-  4C = MAX, 2!c, 4!h
-    4D = Retransfer
-  4H = MAX, 2!d, 4!h
+  3S = !MAX, 2!s, 4!h
+    4D = !Retransfer
+  3N = !MAX, 3433
+    4D = !Retransfer
+  4C = !MAX, 2!c, 4!h
+    4D = !Retransfer
+  4H = !MAX, 2!d, 4!h
 3H = TRF, 5+!s
   3S = (R)
     3N = P/C, 5!s
-    4C = SPL, 0--1!c, 6+!s
-    4D = SPL, 0--1!d, 6+!s
+    4C = !SPL, 0--1!c, 6+!s
+    4D = !SPL, 0--1!d, 6+!s
     4H = P/C, 5+!h
     4S = Mild S/T, 6+!s, 2+!d, 2+!c
     4N = QUANT INV to 6N
     5N = QUANT INV to 7N
-  3N = MAX, 4333
-    4H = Retransfer
-  4C = MAX, 2!c, 4!s
-    4H = Retransfer
-  4D = MAX, 2!d, 4!s
-    4H = Retransfer
-  4S = MAX, 2!h, 4!s
-3S = TRF, 6+!c or S/T 5+!d 5+!c
+  3N = !MAX, 4333
+    4H = !Retransfer
+  4C = !MAX, 2!c, 4!s
+    4H = !Retransfer
+  4D = !MAX, 2!d, 4!s
+    4H = !Retransfer
+  4S = !MAX, 2!h, 4!s
+3S = !TRF, 6+!c or S/T 5+!d 5+!c
   3N = NF, 2!c, 3+!d
-    4C = TRF, 5+!d
-    4D = RKCB for !c
-    4S = TRF, 6+!c
+    4C = !TRF, 5+!d
+    4D = !RKCB for !c
+    4S = !TRF, 6+!c
   4C = 3+!c
-    4D = RKCB for !c
+    4D = !RKCB for !c
     5C = S/O
 3N = S/O
-4C = TRF, 6+!d
-4D = Texas TRF, 6+!h
-4H = Texas TRF, 6+!s
-4S = FG, 5+!d, 5+!c
-  4N = NEU
+4C = !TRF, 6+!d
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4S = !FG, 5+!d, 5+!c
+  4N = !Equal preference
   5m = S/P S/O
 4N = QUANT INV to 6N
 5N = QUANT INV to 7N
@@ -433,5 +433,5 @@ result, those 4-level rebids are retransfers or slam tries.  The use of Redwood
 leads to the following paradoxical bidding structure.
 
 2N-3S-3N-
-4C = TRF to !d
-4D = RKCB for !c
+4C = !TRF to !d
+4D = !RKCB for !c
