@@ -145,3 +145,25 @@ hand positives.
 2S = 6+!s
 2N = ! 0--1!s, 3--4!h, 3--4!d, 4--5!c
 3C = 6+!c
+
+With 1C-1D-1S, opener shows 5+ spades or 4(441).  Responder should not jump
+raise with only 3 spades because opener may have 4.
+
+1C-1D-1S-
+1N = NF, 0--2!s
+2C = INV, 4+!c
+2D = INV, 4+!d
+2H = INV, 5+!h
+2S = INV, 3+!s
+
+Opener's 1C-1D-1N is a strong notrump sequence.  Just take it as a strong
+notrump opening from another system like 2/1.  Note that responder has denied
+game-forcing values with 1D.
+
+1C-1D-1N-
+2C = STAY, may be Garbage
+2D = TRF, 5+!h
+2H = TRF, 5+!s
+2S = !TRF, 6+!c
+2N = NAT INV
+3C = !TRF, 6+!d
