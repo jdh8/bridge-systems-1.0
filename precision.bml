@@ -73,6 +73,14 @@ your local regulations to see if you can use the Ekren 2D.
 
 http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 
+** The notrump ladder
+
+- *12--15*: 1N
+- *16--18*: 1C-1D-1N
+- *19--21*: 1C-1D-1H-1S-1N
+- *22+*: 1C-1D-1H-1S-2C-2DH-2N
+- *24+*: 1C-1D-1H-1S-2C-2H-3N
+
 * Strong 1C opening
 
 Our first response is the same as Meckwell Lite except that we have more
@@ -130,6 +138,8 @@ hand positives.
 1C-1D-1H-1S-
 1N = 2--4!s, 2--4!h, 2--5!d, 2--6!c, 19--21 HCP
 2C = !F1, 22+ points
+  2D = !FG
+  2H = !NF
 2D = 5+!d
 2H = 5+!h
 2S = 6+!s
