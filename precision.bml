@@ -16,12 +16,21 @@ We use the distribution syntax and abbreviations provided by WBF.
 
 http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
+This bidding system is largely based on Meckwell Lite and Standard Modern
+Precision.  Changes are made with /Good, Better, Best/ by Jan Eric Larsson and
+my improvisation.
+
+- 1C-1D-1H is a relay for 19+ HCP
+- 1C-1H is for almost any 8--11 HCP (1C-2S for (4441))
+- 1D always shows 4+ diamonds
+- 2D is a preempt (Ekren or natural)
+- Wild 5-card weak twos
+- 2N shows both minors
+
 Notable conventions we use:
 
 - Redwood (Kickback RKCB only for minors)
 - Roudi (coded Checkback Stayman)
-
-Also, we do not use the inverted minors.
 
 #INCLUDE common/evaluation.bml
 
@@ -45,6 +54,9 @@ Also, we do not use the inverted minors.
 
 Our 1D opening always has 4+ diamonds.  We pass BAL 11 HCP without a 5-card
 major.
+
+Note that the 5-club option of the Precision 2C must be accompanied with a
+4-card major.  With 2245, we open 1NT.  With (31)45, we open 1D.
 
 We replace the Precision 2D opening with more frequent Ekren 2D.  The Precision
 2C can describe most of the Precision 2D hands.  The only exception is 4414,
