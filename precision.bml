@@ -106,6 +106,8 @@ hand positives.
 
 #SEAT 0
 
+** Negative 1D response
+
 1C-1D-
 1H = !(R), 19+ HCP
 1S = 4+!s, 16--18 HCP
@@ -121,6 +123,9 @@ hand positives.
 
 1C-1D-1H-
 1S = !NF, 0--4 HCP
+1N = FG, 2--4!s, 2--4!h, 2--5!d, 2--5!c
+2X = FG, 5+#
+2N = !FG PUP, (4441)
 
 1C-1D-1H-1S-
 1N = 2--4!s, 2--4!h, 2--5!d, 2--6!c, 19--21 HCP
