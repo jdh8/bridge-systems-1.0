@@ -48,6 +48,15 @@ Also, we do not use the inverted minors.
 The strengths of preempts are subject to seat, vulnerability, and partnership
 agreements.  We will have detailed discussions in their own section.
 
+** The notrump ladder
+
+- *12--14*: 1X-1Y-1N
+- *15--17*: 1N
+- *18--19*: 1X-1Y-2N
+- *20--21*: 2N
+- *22+*: 2C-2DH-2N
+- *24+*: 2C-2H-3N
+
 #INCLUDE 5533/major.bml
 #INCLUDE 5533/minor.bml
 #INCLUDE 5533/notrump.bml
