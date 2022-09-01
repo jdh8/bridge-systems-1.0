@@ -100,7 +100,7 @@ P  = 5!s, 2--3!h, 2--3!d, 2--3!c, 11--13 HCP
 *** Impossible spades
 
 1H-1N-2C-
-2D = 5+!d, 8+ points
+2D = 5+!d
 2H = S/P
 2S = !LIM, 4+!c
 2N = NAT INV
@@ -111,7 +111,7 @@ P  = 5!s, 2--3!h, 2--3!d, 2--3!c, 11--13 HCP
 2H = S/P
 2S = !LIM, 4+!d
 2N = NAT INV
-3C = 6+!c, 8--9 HCP
+3C = 6+!c
 3D = 5+!d, 8--9 HCP
 3H = LIM, 3!h
 
