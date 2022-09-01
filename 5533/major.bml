@@ -13,7 +13,8 @@ to reject a limit raise, the opener can pass that 1N response.
 1H-
 1S = 4+!s, 6+ points
 1N = NF, 0--3!s, 0--3!h, 6--11 HCP
-2m = FG, 4+#
+2C = FG, 4+!c
+2D = FG, 4+!d
 2H = 3+!h, 6--10 points
 2S = 4+!s, 17+ points
 2N = FG, 4+!h, 2+!s, 2+!d, 2+!c, 12+ points
@@ -26,7 +27,8 @@ to reject a limit raise, the opener can pass that 1N response.
 
 1S-
 1N = NF, 0--3!s, 6--11 HCP
-2m = FG, 4+#
+2C = FG, 4+!c
+2D = FG, 4+!d
 2H = FG, 5+!h
 2S = 3+!s, 6--10 points
 2N = FG, 4+!s, 2+!h, 2+!d, 2+!c, 12+ points
@@ -38,212 +40,50 @@ to reject a limit raise, the opener can pass that 1N response.
 
 ** Over 1/1 responses
 
-We introduce Gazilli to make our 1/1 bidding structure more constructive.  The
-opener's rebid 2C is a delayed small club showing a strong club (16+ HCP, any
-distribution) or natural clubs.  Since both opponents have passed, it is time
-to be constructive.
-
-The Gazzilli 2C is the only forcing rebid.  The other rebids are nonforcing and
-descriptive.  High rebids tend to be distributional.
-
-Since we can no longer play 2C, minimum (522)4 hands are considered balanced
-systematically.
-
 1H-1S-
-1N = 2--3!s, 5!h, 2--3!d, 2--4!c, 11--15 HCP
-2C = !(R), 4+!c or 16+ HCP
-2D = 4+!d, 11--15 HCP
-2H = 6+!h, 11--15 HCP
-2S = ! 4+!s, 12--16 points
-2N = ! 6+!h, 3!s, 14--15 HCP
-3C = ! 5+!c, 14--15 HCP
-3D = ! 5+!d, 14--15 HCP
-3H = S-SOL 6+!h, 14--15 HCP
+1N = 2--3!s, 5!h, 2--3!d, 2--3!c, 11--15 HCP
+2C = 4+!c, 11--17 HCP
+2D = 4+!d, 11--17 HCP
+2H = 6+!h, 12--17 points
+2S = 4+!s, 12--16 points
+2N = 2--3!s, 5!h, 2--4!d, 2--4!c, 16--17 HCP
+3C = 4+!c, 18+ HCP
+3D = 4+!d, 18+ HCP
+3H = 6+!h, 18+ points
 3S = 4+!s, 16--18 points
-
-We bid 1H-1N-2D with 2533 for the only chance to stop at 2D.  However, bidding
-2D with 4522 is too dangerous, so we bid 2C then.  This makes 1H-1N-2C the most
-nebulous Gazzilli.
+3N = 2--3!s, 5!h, 2--4!d, 2--4!c, 18+ HCP
+4H = 7+!h, 19+ points
+4S = 4+!s, 19+ points
 
 1H-1N-
-P  = 2--4!s, 5!h, 2--3!d, 2--4!c, 11--13 HCP
-2C = !(R), 2+!c or 16+ HCP
-2D = 3+!d, 11--15 HCP
-2H = 6+!h, 11--15 HCP
-2S = ! 5+!s, 6+!h, 11--13 HCP
-2N = ! 6+!h, 4+!d!c, 14--15 HCP
-3C = ! 5+!c, 14--15 HCP
-3D = ! 5+!d, 14--15 HCP
-3H = S-SOL 6+!h, 14--15 HCP
-3S = 5+!s, 6+!h, 14--15 HCP
+P  = 2--4!s, 5!h, 2--3!d, 2--3!c, 11--13 HCP
+2C = 2+!c, 11--17 HCP
+2D = 3+!d, 11--17 HCP
+2H = 6+!h, 12--17 points
+2S = 4+!s, 16+ HCP
+2N = 2--4!s, 5!h, 2--4!d, 2--4!c, 16--17 HCP
+3C = 4+!c, 18+ HCP
+3D = 4+!d, 18+ HCP
+3H = 6+!h, 18+ points
+3S = 5+!s, 14--15 HCP
+3N = 2--4!s, 5!h, 2--4!d, 2--4!c, 18+ HCP
+4H = 7+!h, 19+ points
 
 1S-1N-
-P  = 5!s, 2--3!h, 2--3!d, 2--4!c, 11--13 HCP
-2C = !(R), 3+!c or 16+ HCP
-2D = 3+!d, 11--15 HCP
-2H = 4+!h, 11--15 HCP
-2S = 6+!s, 11--15 HCP
-2N = ! 6+!s, 4+!h!d!c, 14--15 HCP
-3C = ! 5+!c, 14--15 HCP
-3D = ! 5+!d, 14--15 HCP
-3H = ! 5+!h, 14--15 HCP
-3S = S-SOL 6+!s, 14--15 HCP
+P  = 5!s, 2--3!h, 2--3!d, 2--3!c, 11--13 HCP
+2C = 2+!c, 11--17 HCP
+2D = 3+!d, 11--17 HCP
+2H = 4+!h, 11--17 HCP
+2S = 6+!s, 12--17 points
+2N = 5!s, 2--3!h, 2--4!d, 2--4!c, 16--17 HCP
+3C = 4+!c, 18+ HCP
+3D = 4+!d, 18+ HCP
+3H = 4+!h, 18+ HCP
+3S = 6+!s, 18+ points
+3N = 5!s, 2--3!h, 2--4!d, 2--4!c, 18+ HCP
+4S = 7+!s, 19+ points
 
-*** Gazzilli 2C
-
-Over Gazzilli, 2D is the forcing relay showing a game force against an opener's
-strong option.  Responder's other rebids are nonforcing and descriptive.
-Despite that the limit raises and the invitational jump shift (1H-1S-2C-3S) are
-stronger than 2D, we keep them because they are safe and still nonforcing and
-descriptive.  This treatment is especially useful over 1H-1S-2C, where both
-partners are virtually unlimited.
-
-1H-1S-2C-
-2D = !(R), 8+ HCP
-2H = 2+!h, 5--7 HCP
-2S = 6+!s, 5--7 HCP
-2N = 4--5!s, 0--1!h, 2--5!d, 2--5!c, 5--7 HCP
-3C = 6+!c, 0--1!h, 5--7 HCP
-3D = 6+!d, 0--1!h, 5--7 HCP
-3H = LIM, 3!h
-3S = INV, 6+!s, 0--2!h
-
-The only invitational hand type left for the 2D relay is a natural 2N.  We no
-longer need a 4th suit forcing 3D or any major suit invitation there.  Let's
-reuse 3D as a runout and assign 3M stronger meanings.
-
-1H-1S-2C-2D-
-2H = 4+!c, 11--15 HCP
-  2S = 5+!s, 0--1!h, 8--9 HCP
-  2N = INV, 4--5!s, 0--2!h
-  3C = S/O, 3+!c, 0--1!h, 8--9 HCP
-  3D = S/O, 6+!d, 0--1!h, 8--9 HCP
-  3H = S/T, 3+!h
-  3S = FG, 5+!s
-  3N = S/O
-  4H = S/O, 3+!h
-  4S = S/O, 6+!s
-2S = FG, 4+!s
-2N = BAL, 18+ HCP
-  3C = !Roudi, 5!s or S/T
-    3D = ! 2!s, MIN
-    3H = ! 3!s, MIN
-    3S = ! 3!s, MAX
-    3N = ! 2!s, MAX
-  3S = S/T, 6+!s
-  3N = S/O
-  4S = S/O, 6+!s
-3C = FG, 4+!c
-3D = FG, 4+!d
-3H = FG, 6+!h, 0--3!s
-3S = FG, 35(32), 16--17 HCP
-3N = 2533 or 25(42), 16--17 HCP
-
-We play 2S as natural after Gazzilli.  For the weak direct response, we need 2S
-as a 3-suited takeout.
-
-1H-1N-2C-
-2D = (R), 8+ HCP
-2H = 2+!h, 5--7 HCP
-2S = 3!s, 0--1!h, 4--5!d, 4--5!c, 5--7 HCP
-2N = 0--2!s, 0--1!h, 5+!d, 5+!c, 5--7 HCP
-3C = 6+!c, 0--1!h, 5--7 HCP
-3D = 6+!d, 0--1!h, 5--7 HCP
-3H = LIM, 3!h
-
-Because the weak option is still nebulous, 2S is a reasonable runout.
-
-1H-1N-2C-2D-
-2H = 2+!c, 11--15 HCP
-  2S = 3!s, 0--1!h, 8--9 HCP
-  2N = INV, 0--2!h
-  3C = S/O, 5+!c, 0--1!h, 8--9 HCP
-  3D = S/O, 6+!d, 0--1!h, 8--9 HCP
-2S = FG, 4+!s
-2N = BAL, 18+ HCP
-3C = FG, 4+!c
-3D = FG, 4+!d
-3H = FG, 6+!h
-3N = BAL or 25(42), 16--17 HCP
-
-If the opener has only 5 spades, we still have a chance to find a heart fit.
-Therefore, there are steps to let the responder show 5 hearts.
-
-1S-1N-2C-
-2D = (R), 8+ HCP
-2H = 5+!h, 0--1!s, 5--7 HCP
-2S = 2+!s, 5--7 HCP
-2N = 0--1!s, 2--4!h, 3--5!d, 3--5!c, 5--7 HCP
-3C = 6+!c, 0--1!s, 5--7 HCP
-3D = 6+!d, 0--1!s, 5--7 HCP
-3S = LIM, 3!s
-
-1S-1N-2C-2D-
-2H = FG, 4+!h
-2S = 3+!c, 11--15 HCP
-  2N = INV, 0--2!s
-  3C = S/O, 3+!c, 0--1!s, 8--9 HCP
-  3D = S/O, 5+!d, 0--1!s, 8--9 HCP
-  3H = S/O, 6+!h, 0--1!s, 8--9 HCP
-2N = BAL, 18+ HCP
-  3C = !Roudi, 5!h or S/T
-    3D = ! 2!h, MIN
-    3H = ! 3!h, MIN
-    3S = ! 3!h, MAX
-    3N = ! 2!h, MAX
-  3H = S/T, 6+!h
-  3N = S/O
-  4H = S/O, 6+!h
-3C = FG, 4+!c
-3D = FG, 4+!d
-3H = FG, 53(32), 16--17 HCP
-3S = FG, 6+!s
-3N = 5233, 16--17 HCP
-
-*** The 2N rebid
-
-As Gazzilli takes care of strong hands, we can make Precision-like jumps at the
-3-level.  However, we cannot copy the 2N rebid from Precision since responder
-can have only 6--7 HCP.  We have to make 2N distributional to increase the
-probability of finding a fit.  Our 2N rebid shows medium strength, 6+ cards in
-the opened suit, and potential support of responder's suits.
-
-- 1H-1S-2N = 6+!h, 3!s, 14--15 HCP
-- 1H-1N-2N = 6+!h, 4+!d!c, 14--15 HCP
-- 1S-1N-2N = 6+!s, 4+!h!d!c, 14--15 HCP
-
-1H-1S-2N-
-3C = !S/T in !h
-3D = !S/T in !s
-3M = S/O
-3N = S/O
-4M = S/O
-
-1H-1N-2N-
-3C = P/C
-3D = P/C
-3H = S/O
-3S = !FG (R)
-  3N = 4+!d
-  4C = 4+!c
-3N = S/O
-4H = S/O
-
-Since the 1S opener has 3 options, a low-level pass-or-correct bid is not very
-useful.  Game-forcing relay is a better role for 3C.
-
-1S-1N-2N-
-3C = !FG (R)
-  3D = 4+!d
-  3H = 4+!h
-  3S = 4+!c
-3D = P/C, 4+!d, 1+!s
-3H = P/C, 4+!h, 1+!s
-3S = S/O
-3N = S/O
-4S = S/O
-
-*** Other rebids
+*** Roudi
 
 1H-1S-1N-
 2C = !Roudi, INV+
@@ -251,91 +91,29 @@ useful.  Game-forcing relay is a better role for 3C.
   2H = ! 3!s, MIN
   2S = ! 3!s, MAX
   2N = ! 2!s, MAX
-2D = S/O, 5+!d, 0--2!h
-2S = S/O, 5+!s, 0--2!h
+2D = S/O, 5+!d
+2S = S/O, 5+!s
 2N = NAT INV
 3H = LIM, 3!h
 3S = INV, 6+!s
-3N = S/O
-4H = S/O, 3+!h
-4S = S/O, 6+!s
 
-1H-1S-2D-
-2H = S/O S/P
-2S = NF, 6+!s
+*** Impossible spades
+
+1H-1N-2C-
+2D = 5+!d, 8+ points
+2H = S/P
+2S = !LIM, 4+!c
 2N = NAT INV
-3C = 4th suit FG
-3D = LIM, 4+!d
+3C = 5+!c, 8--9 HCP
 3H = LIM, 3!h
-3S = INV, 6+!s
-3N = S/O
-4H = S/O, 3+!h
-4S = S/O, 6+!s
-
-1H-1S-2H-
-2S = NF, 6+!s
-2N = NAT INV
-3C = FG, 4+!c
-3D = FG, 4+!d
-3H = INV, 2+!h
-3S = INV, 6+!s
-3N = S/O
-4C = !SPL, 0--1!c, 2+!h
-4D = !SPL, 0--1!d, 2+!h
-4H = S/O, 2+!h
-4S = S/O, 6+!s
-
-1H-1S-2S-
-3C = G/T, 4+!c
-3D = G/T, 4+!d
-3H = G/T, 3+!h
-3S = INV, 5+!s
-4C = !SPL, 0--1!c
-4D = !SPL, 0--1!d
-4S = S/O
-
-The only occurrence of the impossible 2S in our system is 1H-1N-2D-2S.
-If responder cannot tolerate either red suit, there must be 6+ clubs.
-Consequently, 3D becomes a mixed raise.
 
 1H-1N-2D-
-2H = S/O S/P
+2H = S/P
 2S = !LIM, 4+!d
 2N = NAT INV
-3C = S/O, 6+!c, 0--1!h, 0--3!d
+3C = 6+!c, 8--9 HCP
 3D = 5+!d, 8--9 HCP
 3H = LIM, 3!h
-
-1H-1N-2H-
-2S = NAT WK 3055
-2N = INV, 0--1!h
-3C = S/O, 6+!c, 0!h
-3D = S/O, 6+!d, 0!h
-3H = INV, 2+!h
-
-1S-1N-2D-
-2H = 5+!h, 0--1!s, 0--3!d, 5--9 HCP
-2S = S/O S/P
-2N = NAT INV
-3C = S/O, 6+!c, 0--1!s, 0--2!d
-3D = LIM, 4+!d
-3H = INV, 6+!h
-3S = LIM, 3!s
-
-1S-1N-2H-
-2S = S/O S/P
-2N = NAT INV
-3C = S/O, 6+!c, 0--1!s, 0--2!h
-3D = S/O, 6+!d, 0--1!s, 0--2!h
-3H = LIM, 4+!h
-3S = LIM, 3!s
-
-1S-1N-2S-
-2N = INV, 0--1!s
-3C = S/O, 6+!c, 0!s
-3D = S/O, 6+!d, 0!s
-3H = S/O, 6+!h, 0!s
-3S = INV, 2+!s
 
 ** Jacoby 2N
 
