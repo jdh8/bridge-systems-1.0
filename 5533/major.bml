@@ -85,6 +85,9 @@ P  = 5!s, 2--3!h, 2--3!d, 2--3!c, 11--13 HCP
 
 *** Roudi
 
+Over 1X-1Y-1N, responder's 2C is Roudi, asking for support and strength.  Like
+New Minor Forcing, Roudi is useful in finding 3-5 fits.
+
 1H-1S-1N-
 2C = !Roudi, INV+
   2D = ! 2!s, MIN
@@ -97,7 +100,35 @@ P  = 5!s, 2--3!h, 2--3!d, 2--3!c, 11--13 HCP
 3H = LIM, 3!h
 3S = INV, 6+!s
 
+*** Courtesy raise
+
+Raising opener's new suit is only a courtesy raise.
+
+1S-1N-2C-
+2D = 5+!d
+2H = 5+!h
+2S = S/P
+2N = NAT INV
+3C = 4+!c, 8--9 HCP
+
+1S-1N-2D-
+2H = 5+!h
+2S = S/P
+2N = NAT INV
+3C = 6+!c
+3D = 4+!d, 8--9 HCP
+
+1S-1N-2H-
+2S = S/P
+2N = NAT INV
+3C = 6+!c
+3D = 6+!d
+3H = 4+!h, 8--10 points
+4H = 4+!h, 11+ points
+
 *** Impossible spades
+
+After denying spades with 1N, responder's 2S shows a limit raise.
 
 1H-1N-2C-
 2D = 5+!d
