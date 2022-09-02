@@ -27,12 +27,6 @@
 4D = FG, 6--7!d, 2--3!s, 2--3!h, 2--3!c, 12--15 HCP
 4M = PRE, good 7+#, 6--10 HCP
 
-1m-1M-
-2om = !(R), 0--3 oM, 16+ HCP
-      a) FG raise in M
-      b) Unbalanced w/o any 4-card major
-  2oM = !FG (R)
-
 1C-1D-
 1H = 4+!h, 11--17 HCP
 1S = 4+!s, 11--17 HCP
@@ -52,20 +46,23 @@
 1S = 4+!s, 11--15 HCP
 1N = 2--3!s, 2--3!h, 2--4!d, 3--5!c, 11--14 HCP
 2C = 5+!c, 11--15 HCP
-2D = !(R), 0--3!s, 16+ HCP
+2D = 4+!d, 16+ HCP
 2H = 4+!h, 12--16 points
 2S = 4+!s, 16+ HCP
 2N = 2--4!s, 2--3!h, 2--4!d, 3--5!c, 18--19 HCP
 3C = 6+!c, 14--15 HCP
 3D = 5+!d, 14--15 HCP
 3H = 4+!h, 17--18 points
-3S = 5+!s, 14--15 HCP
+3S = !SPL, 0--1!s, 4+!h, 19+ points
 3N = SOL 7+!c, partial stop in !s and !d
+4C = 6+!c, 4+!h, 19+ points
+4D = !SPL, 0--1!d, 4+!h, 19+ points
+4H = 4+!h, 2+!s, 2+!d, 19+ points
 
 1C-1S-
 1N = 2--3!s, 2--4!h, 2--4!d, 3--5!c, 11--14 HCP
 2C = 5+!c, 11--15 HCP
-2D = !(R), 0--3!h, 16+ HCP
+2D = 4+!d, 16+ HCP
 2H = 4+!h, 16+ HCP
 2S = 4+!s, 12--16 points
 2N = 2--3!s, 2--4!h, 2--4!d, 3--5!c, 18--19 HCP
@@ -74,30 +71,41 @@
 3H = 5+!h, 14--15 HCP
 3S = 4+!s, 17--18 points
 3N = SOL 7+!c, partial stop in !h and !d
+4C = 6+!c, 4+!s, 19+ points
+4D = !SPL, 0--1!d, 4+!s, 19+ points
+4H = !SPL, 0--1!h, 4+!s, 19+ points
+4S = 4+!s, 2+!h, 2+!d, 19+ points
 
 1D-1H-
 1S = 4+!s, 11--15 HCP
 1N = 2--3!s, 2--3!h, 4--5!d, 2--4!c, 11--14 HCP
-2C = !(R), 0--3!s, 16+ HCP
-2D = 5+!d, 11--15 HCP
+2C = 4+!c, 11--17 HCP
+2D = 5+!d, 11--16 HCP
 2H = 4+!h, 12--16 points
 2S = 4+!s, 16+ HCP
 2N = 2--4!s, 2--3!h, 2--5!d, 2--4!c, 18--19 HCP
-3C = ! 5+!c, 14--15 HCP
-3D = 6+!d, 14--15 HCP
+3C = 4+!c, 18+ HCP
+3D = 6+!d, 17+ HCP
 3H = 4+!h, 17--18 points
-3S = 5+!s, 14--15 HCP
+3S = !SPL, 0--1!s, 4+!h, 19+ points
 3N = SOL 7+!d, partial stop in !s and !c
+4C = !SPL, 0--1!c, 4+!h, 19+ points
+4D = 6+!d, 4+!h, 19+ points
+4H = 4+!h, 2+!s, 2+!c, 19+ points
 
 1D-1S-
 1N = 2--3!s 2--4!h 4--5!d 2--4!c or 1444, 11--15 HCP
-2C = !(R), 0--3!h, 16+ HCP
-2D = 5+!d, 11--15 HCP
+2C = 4+!c, 11--17 HCP
+2D = 5+!d, 11--16 HCP
 2H = 4+!h, 16+ HCP
 2S = 4+!s, 12--16 points
 2N = 2--3!s, 2--4!h, 2--5!d, 2--4!c, 18--19 HCP
-3C = ! 5+!c, 14--15 HCP
-3D = 6+!d, 14--15 HCP
+3C = 4+!c, 18+ HCP
+3D = 6+!d, 17+ HCP
 3H = 5+!h, 14--15 HCP
 3S = 4+!s, 17--18 points
 3N = SOL 7+!d, partial stop in !h and !c
+4C = !SPL, 0--1!c, 4+!s, 19+ points
+4D = 6+!d, 4+!s, 19+ points
+4H = !SPL, 0--1!h, 4+!s, 19+ points
+4S = 4+!s, 2+!h, 2+!c, 19+ points
