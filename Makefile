@@ -1,4 +1,4 @@
-all: 5533.bss 5533.htm precision.bss precision.htm
+all: 5533.bss 5533.htm precision.bss precision.htm wj.bss wj.htm
 	@:
 
 %.bml: %/*.bml
