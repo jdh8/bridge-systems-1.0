@@ -84,14 +84,36 @@ http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 * Polish 1C opening
 
 1C-
-1D = (R)
-1M = 4+#, 7+ HCP
-1N = 8--11 HCP, 0--3!s, 0--3!h
-2m = FG, 5+#
-2N = FG, 0--3!s, 0--3!h
-3m = INV, 6+#, 9--11 HCP
+1D = (R), 0--11 HCP
+1H = F, 4+!h, 7+ HCP
+1S = F, 4+!s, 7+ HCP
+1N = NF, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 8--11 HCP
+2C = FG, 5+!c
+2D = FG, 5+!d
+2H = Soloway jump shift, 5+!h, 17+ points
+2S = Soloway jump shift, 5+!s, 17+ points
+2N = FG, 2--3!s, 2--3!h, 2--4!d, 2--4!c
+3C = INV, 6+!c, 9--11 HCP
+3D = INV, 6+!d, 9--11 HCP
 3M = PRE, 7+#, 5--7 HCP
+3N = 33(43), 12--15 HCP
 4M = PRE, 8+#, 0--4 HCP
+
+#SEAT 34
+
+A passed hand cannot force to game.  We have a simpler structure for passed
+hand positives.
+
+1C-
+2C = INV, 5+!c
+2D = INV, 5+!d
+2H = INV, 5+!h
+2S = INV, 5+!s
+2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--5!c
+
+#SEAT 0
+
+** The 1D relay
 
 1C-1D-
 1H = 3+!h, 12--20 HCP

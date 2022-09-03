@@ -95,10 +95,15 @@ nonforcing auctions over 1C-1D.
 1H = !FG, not (4441), 8--11 HCP
 1S = !FG, 5+!s, 12+ HCP
 1N = !FG, 2--4!s, 2--4!h, 2--5!d, 2--5!c, 12+ HCP
-2X = !FG, 5+#, 12+ HCP
+2C = !FG, 5+!c, 12+ HCP
+2D = !FG, 5+!d, 12+ HCP
+2H = !FG, 5+!h, 12+ HCP
 2S = !FG PUP, (4441), 8--11 HCP
 2N = !FG PUP, (4441), 12+ HCP
-3X = !INV, 6+#, 3--7 HCP
+3C = !INV, 6+!c, 3--7 HCP
+3D = !INV, 6+!d, 3--7 HCP
+3H = !INV, 6+!h, 3--7 HCP
+3S = !INV, 6+!s, 3--7 HCP
 4M = PRE, 8+#, 0--4 HCP
 
 #SEAT 34
