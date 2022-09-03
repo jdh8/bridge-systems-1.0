@@ -84,18 +84,18 @@ http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 * Polish 1C opening
 
 1C-
-1D = (R), 0--11 HCP
+1D = !(R), 0--11 HCP
 1H = F, 4+!h, 7+ HCP
 1S = F, 4+!s, 7+ HCP
 1N = NF, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 8--11 HCP
-2C = FG, 5+!c
+2C = !FG, 5+!c
 2D = FG, 5+!d
 2H = Soloway jump shift, 5+!h, 17+ points
 2S = Soloway jump shift, 5+!s, 17+ points
-2N = FG, 2--3!s, 2--3!h, 2--4!d, 2--4!c
+2N = !FG, 2--3!s, 2--3!h, 2--4!d, 2--4!c
 3C = INV, 6+!c, 9--11 HCP
-3D = INV, 6+!d, 9--11 HCP
-3M = PRE, 7+#, 5--7 HCP
+3D = !INV, 6+!d, 9--11 HCP
+3M = !PRE, 7+#, 5--7 HCP
 3N = 33(43), 12--15 HCP
 4M = PRE, 8+#, 0--4 HCP
 
@@ -115,6 +115,12 @@ hand positives.
 
 ** The 1D relay
 
+In our version of Polish Club, the 1D relay denies game-forcing values.  There
+are two options in this relay.
+
+- 0--7 HCP
+- 8--11 HCP, unbalanced, no 4-card major
+
 1C-1D-
 1H = 3+!h, 12--20 HCP
 1S = 3+!s, 12--20 HCP
@@ -126,3 +132,11 @@ hand positives.
 2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 21--22 HCP
 3C = 5+!c, 18--22 HCP
 3D = 5+!d, 18--22 HCP
+
+With the weak option, opener can only rebid a major.  Opener never rebids clubs
+even in competition.  In this case, opener may have as few as 3 cards of the
+bid major.
+
+Within 12--20 HCP, opener should show their 4-card major before bidding a minor
+suit like in a natural system.  Bidding a notrump with a 4-card major is fine
+because of Stayman.
