@@ -89,11 +89,11 @@ http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 1S = F, 4+!s, 7+ HCP
 1N = NF, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 8--11 HCP
 2C = !FG, 5+!c
-2D = FG, 5+!d
+2D = !FG, 5+!d
 2H = Soloway jump shift, 5+!h, 17+ points
 2S = Soloway jump shift, 5+!s, 17+ points
 2N = !FG, 2--3!s, 2--3!h, 2--4!d, 2--4!c
-3C = INV, 6+!c, 9--11 HCP
+3C = !INV, 6+!c, 9--11 HCP
 3D = !INV, 6+!d, 9--11 HCP
 3M = !PRE, 7+#, 5--7 HCP
 3N = 33(43), 12--15 HCP
