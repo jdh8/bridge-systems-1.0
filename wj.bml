@@ -126,7 +126,7 @@ are two options in this relay.
 1S = 3+!s, 12--20 HCP
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18--20 HCP
 2C = 5+!c, 15--20 HCP
-2D = FG, 23+ HCP
+2D = !FG, 23+ HCP
 2H = 5+!h, 20--22 HCP
 2S = 5+!s, 20--22 HCP
 2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 21--22 HCP
@@ -134,9 +134,23 @@ are two options in this relay.
 3D = 5+!d, 18--22 HCP
 
 With the weak option, opener can only rebid a major.  Opener never rebids clubs
-even in competition.  In this case, opener may have as few as 3 cards of the
-bid major.
+even in competition.
 
 Within 12--20 HCP, opener should show their 4-card major before bidding a minor
-suit like in a natural system.  Bidding a notrump with a 4-card major is fine
-because of Stayman.
+suit.
+
+1C-1D-1H-
+1S = 4+!s, 5--7 HCP
+1N = 0--3!s, 0--3!h, 0--4!c, 5--7 HCP
+2C = 5+!c, 5--9 HCP
+2D = !NF, 5+!d, 8--11 HCP
+2H = 4+!h, 5--7 HCP
+3C = 5+!c, 10--11 HCP
+
+1C-1D-1S-
+1N = 0--3!s, 0--4!h, 0--4!c, 5--7 HCP
+2C = 5+!c, 5--9 HCP
+2D = !NF, 5+!d, 8--11 HCP
+2H = !NF, 5+!h, 5--7 HCP
+2S = 4+!s, 5--7 HCP
+3C = 5+!c, 10--11 HCP
