@@ -184,3 +184,7 @@ suit.
 3D = 5+!d, 5+!s, 18--20 HCP
 3H = 5+!h, 5+!s, 18--20 HCP
 3S = 7+!s, 18--20 HCP
+
+* Strong notrump opening
+
+#INCLUDE common/STR-NT.bml
