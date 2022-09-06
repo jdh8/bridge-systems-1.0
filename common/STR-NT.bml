@@ -213,6 +213,13 @@ suit preference.
 
 ** Competitive bidding
 
+We play Rubinsohl against overcalls below 2N, including 1N-(Dbl).
+
+- *2 of a suit*: weak signoff with 5+ cards
+- *From 2N to 3H*: transfer with 5+ cards
+- */Transfer/ to an adverse suit*: game-forcing Stayman/takeout
+- *3S*: 3N but with unstopped adverse suits
+
 Competition does not affect auctions at 3N and above.  These transfers are also
 consistent with our system since we use Rubinsohl.
 
@@ -222,44 +229,33 @@ consistent with our system since we use Rubinsohl.
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
 
-Over a natural double, a natural defense pretty suffices.  We need the chances
-to stop at 2m.
+Over a natural double, Rubinsohl degenates to a natural defense since Rdbl can
+take care of all invitational+ hands.  Over a conventional double, especially a
+nebulous one, bidding high can be beneficial because we prevent opponents from
+clarifying their hands.
 
 1N-(D)-
 R  = INV+
-2X = S/O, 5+ cards
-
-In most cases, we keep the *system on* over (2C).
-
-1N-(2C)-
-D  = STAY, may be Garbage
-2D = TRF, 5+!h
-2H = TRF, 5+!s
-2S = !TRF, 6+!c or S/T 5+!d 5+!c
-2N = NAT INV
-3C = !TRF, 6+!d
-3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
-3H = !SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
-3S = !SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
-3N = S/O
-
-If (2C) has one major anchor suit, transferring to that suit is asking for a
-stopper.  Take Astro 2C (!h + m) for example,
+2X = S/O, 5+#
+2N = !TRF, INV+, 5+!c
+3C = !TRF, INV+, 5+!d
+3D = !TRF, INV+, 5+!h
+3H = !TRF, INV+, 5+!s
+3S = FG, 3-suited
 
 1N-(2C)-
-2D = INV+, no !h stopper
-2N = NAT INV, !h stopper
-3N = S/O, !h stopper
-
-We use Rubinsohl over
-
-- 2DHS
-- 2C showing both majors
+D  = !INV+, 3--4!s, 3--4!h, 2--4!d, 2--3!c, cooperative T/O
+2X = S/O, 5+#
+2N = !FG STAY
+3C = !TRF, INV+, 5+!d
+3D = !TRF, INV+, 5+!h
+3H = !TRF, INV+, 5+!s
+3S = !F, no !c stopper
+3N = S/O, !c stopper
 
 1N-(2D)-
-D  = !INV+, 2--3!d, 3--4!s, 3--4!h, 2--4!c, cooperative T/O
-2H = S/O, 5+!h
-2S = S/O, 5+!s
+D  = !INV+, 3--4!s, 3--4!h, 2--3!d, 2--4!c, cooperative T/O
+2X = S/O, 5+#
 2N = !TRF, 5+!c
 3C = !FG STAY
 3D = !TRF, INV+, 5+!h
@@ -268,7 +264,7 @@ D  = !INV+, 2--3!d, 3--4!s, 3--4!h, 2--4!c, cooperative T/O
 3N = S/O, !d stopper
 
 1N-(2H)-
-D  = !INV+, 2--3!h, 3--4!s, 3--4!d, 3--4!c, cooperative T/O
+D  = !INV+, 3--4!s, 2--3!h, 3--4!d, 3--4!c, cooperative T/O
 2S = S/O, 5+!s
 2N = !TRF, 5+!c
 3C = !TRF, 5+!d
@@ -285,20 +281,6 @@ D  = !INV+, 2--3!s, 3--4!h, 3--4!d, 3--4!c, cooperative T/O
 3H = !FG STAY, 4!h
 3S = !F, no !s stopper
 3N = S/O, !s stopper
-
-If (2C) shows both majors, Stayman and Jacoby transfers lose their places.
-Many steps become useless.  That is also why our recommended defense to 1N
-contains the Landy 2C.
-
-1N-(2C)-
-D  = !INV+, 2--3!c, 3--4!s, 3--4!h, 2--4!d, cooperative T/O
-2D = S/O, 5+!d
-2H = INV+, !h stopper
-2S = INV+, !s stopper
-2N = !TRF, 5+!c
-3C = !TRF, INV+, 5+!d
-3S = !F, no MM stopper
-3N = S/O, MM stoppers
 
 Unusual vs. unusual does not apply to (2N) because we have not shown a suit.
 
