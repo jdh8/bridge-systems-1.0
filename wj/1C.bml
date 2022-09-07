@@ -50,11 +50,16 @@ are two options in this relay.
 3C = 5+!c, 18--22 HCP
 3D = 5+!d, 18--22 HCP
 
+*** Opener rebids 1M
+
 With the weak option, opener can only rebid a major.  Opener never rebids clubs
 even in competition.
 
 Within 12--20 HCP, opener should show their 4-card major before bidding a minor
 suit.
+
+The second response of 2D is constructive so opener can rebid 3C with
+intermediate hands.
 
 1C-1D-1H-
 1S = 4+!s, 5--7 HCP
@@ -97,7 +102,27 @@ suit.
 2D = 4+!d, 4+!s, 18--20 HCP
 2H = 4+!h, 5+!s, 18--20 HCP
 2S = 5+!s, 18--20 HCP
-3C = 5+!c, 5+!s, 18--20 HCP
+3C = 5+!c, 4+!s, 18--20 HCP
 3D = 5+!d, 5+!s, 18--20 HCP
 3H = 5+!h, 5+!s, 18--20 HCP
 3S = 7+!s, 18--20 HCP
+
+1C-1D-1H-2C-
+2D = 4+!d, 4+!h, 18--20 HCP
+2H = 5+!h, 18--20 HCP
+2S = 4+!s, 4+!h, 18--20 HCP
+2N = 5+!c, 4+!h, 18--20 HCP
+3C = 4+!c, 4+!h, 15--17 HCP
+3D = 5+!d, 5+!h, 18--20 HCP
+3H = 5+!h, 6+!c, 15--17 HCP
+3S = 5+!s, 6+!h, 18--20 HCP
+
+1C-1D-1S-2C-
+2D = 4+!d, 4+!s, 18--20 HCP
+2H = 4+!h, 5+!s, 18--20 HCP
+2S = 5+!s, 18--20 HCP
+2N = 5+!c, 4+!s, 18--20 HCP
+3C = 4+!c, 4+!s, 15--17 HCP
+3D = 5+!d, 5+!s, 18--20 HCP
+3H = 5+!h, 5+!s, 18--20 HCP
+3S = 5+!s, 6+!c, 15--17 HCP
