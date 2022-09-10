@@ -1,0 +1,19 @@
+#+TITLE: TpKotoba & jdh8's Blue Club
+
+#+AUTHOR: Ting-Yu (TpKotoba), Chen-Pang He (jdh8)
+
+#+DESCRIPTION: Our Blue Club bidding system
+
+1C = !STR F, 16+ HCP
+1D = 3+!d, 11--15 HCP
+1H = 4+!h, 11--15 HCP
+1S = 4+!s, 11--15 HCP
+1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 15--17 HCP
+2C = !NAT, 5+!c, 11--15 HCP
+2D = !PRE, 4+!s, 4+!h, 4--10 HCP
+2M = PRE, 5+#, 4--10 HCP
+2N = !UNT, 5+!d, 5+!c, 4--10 HCP
+3X = PRE, 7+#, 4--10 HCP
+3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
+
+#INCLUDE TpKotoba/1C.bml
