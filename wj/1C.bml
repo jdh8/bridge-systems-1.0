@@ -50,8 +50,6 @@ are two options in this relay.
 3C = 5+!c, 20--22 HCP
 3D = 5+!d, 20--22 HCP
 
-*** Opener rebids 1M
-
 With the weak option, opener can only rebid a major.  Opener never rebids clubs
 even in competition.
 
@@ -122,3 +120,49 @@ even in competition.
 3D = 5+!d, 5+!s, 18--20 HCP
 3H = 5+!h, 5+!s, 18--20 HCP
 3S = 5+!s, 6+!c, 15--17 HCP
+
+The bidding structure at 1C-1D-1N is similar to the 1N opening.
+
+1C-1D-1N-
+2C = STAY, may be Garbage
+2D = TRF, 5+!h
+2H = TRF, 5+!s
+2S = !TRF, 6+!c or S/T 5+!d 5+!c
+2N = NAT INV
+3C = !TRF, 6+!d
+3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
+3H = !SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
+3N = S/O
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4S = !FG, 5+!d, 5+!c
+4N = QUANT INV to 6N
+
+1C-1D-2C-
+2D = 4+!d, 7+ HCP
+2H = 5+!h, 7+ HCP
+2S = 5+!s, 7+ HCP
+2N = INV, 2--4!s, 2--4!h, 2--5!d, 2--3!c, 7--9 HCP
+3C = INV, 3+!c, 7--9 HCP
+
+1C-1D-2D-
+2H = (R)
+2S = 5+!s, 7+ points
+2N = 5+!h, 7+ points
+3C = 6+!c, 7+ points
+3D = 6+!d, 7+ points
+3H = 7+!h, 7+ points
+3S = 7+!s, 7+ points
+
+1C-1D-2N-
+3C = STAY
+3D = TRF, 5+!h
+3H = TRF, 5+!s
+3S = !TRF, 6+!c or S/T 5+!d 5+!c
+3N = S/O
+4C = !TRF, 6+!d
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4S = !FG, 5+!d, 5+!c
+4N = QUANT INV to 6N
