@@ -1,5 +1,5 @@
 We use the French-style 4-way transfers to preserve the natural invitation.  We
-invite naturally rather than via Stayman because 2N hides information of the
+invite naturally rather than via Stayman because 2NT hides information of the
 declarer.
 
 The responder tries to show a major first always (MAFIA).  The only exception
@@ -20,8 +20,8 @@ better idea.
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
-4N = QUANT INV to 6N
-5N = QUANT INV to 7N
+4N = QUANT INV to 6NT
+5N = QUANT INV to 7NT
 
 ** Stayman
 
@@ -37,13 +37,13 @@ Garbage Stayman.
 2S = 4!s, 2--3!h
 
 The Garbage Stayman takes advantage of that opener will eventually rebid within
-2SHD, so we can bid 2C as a weak takeout of clubs and pass in the next round.
+2!s!h!d, so we can bid 2!c as a weak takeout of clubs and pass in the next round.
 
 1N-2C-2X-
 P  = WK, 4!s, 4!h, 4--5!d, 0--1!c
 
 We only employ Smolen transfers at the 3-level.  The 2-level invitations are
-natrual so that we have a chance to stop at 2H.
+natrual so that we have a chance to stop at 2!h.
 
 1N-2C-2D-
 2H = INV, 5+!h, 4+!s
@@ -54,11 +54,11 @@ natrual so that we have a chance to stop at 2H.
 3H = !FG, Smolen TRF, 5+!s, 4+!h
 3S = !FG, Smolen TRF, 4+!s, 5+!h
 3N = S/O
-4N = QUANT INV to 6N
-5N = QUANT INV to 7N
+4N = QUANT INV to 6NT
+5N = QUANT INV to 7NT
 
-The step of 1N-2C-2H-2S allows us to always choose the better major fit.  This
-is why the opener rebids 2H with 44 majors.
+The step of 1NT-2!c-2!h-2!s allows us to always choose the better major fit.
+This is why the opener rebids 2!h with 44 majors.
 
 1N-2C-2H-
 2S = INV+, 5+!s, 4+!h
@@ -71,8 +71,8 @@ is why the opener rebids 2H with 44 majors.
 4C = !S/T SPL, 0--1!c, 4+!h
 4D = !S/T SPL, 0--1!d, 4+!h
 4H = S/O, 4+!h
-4N = QUANT INV to 6N, 0--3!h
-5N = QUANT INV to 7N, 0--3!h
+4N = QUANT INV to 6NT, 0--3!h
+5N = QUANT INV to 7NT, 0--3!h
 
 1N-2C-2S-
 2N = INV, 0--3!s, 4!h
@@ -84,14 +84,14 @@ is why the opener rebids 2H with 44 majors.
 4C = !S/T SPL, 0--1!c, 4+!s
 4D = !S/T SPL, 0--1!d, 4+!s
 4S = S/O, 4+!s
-4N = QUANT INV to 6N, 0--3!s
-5N = QUANT INV to 7N, 0--3!s
+4N = QUANT INV to 6NT, 0--3!s
+5N = QUANT INV to 7NT, 0--3!s
 
 ** Jacoby transfer
 
 The opener always accepts Jacoby transfers.  We super-accept with maximum and 4
 trumps.  We /hide/ the doubleton just below the trump to avoid retransferring
-problems like 1N-2D-3D!-3H?.
+problems like 1NT-2!d-3!d!-3!h?.
 
 1N-2D-
 2H = (R)
@@ -105,8 +105,8 @@ problems like 1N-2D-3D!-3H?.
   4C = !SPL, 0--1!c, 6+!h
   4D = !SPL, 0--1!d, 6+!h
   4H = Mild S/T, 6+!h, 2+!s, 2+!d, 2+!c
-  4N = QUANT INV to 6N
-  5N = QUANT INV to 7N
+  4N = QUANT INV to 6NT
+  5N = QUANT INV to 7NT
 2S = !MAX, 2!s, 4!h
   3D = !Retransfer
 2N = !MAX, 3433
@@ -127,8 +127,8 @@ problems like 1N-2D-3D!-3H?.
   4D = !SPL, 0--1!d, 6+!s
   4H = !SPL, 0--1!h, 6+!s
   4S = Mild S/T, 6+!s, 2+!h, 2+!d, 2+!c
-  4N = QUANT INV to 6N
-  5N = QUANT INV to 7N
+  4N = QUANT INV to 6NT
+  5N = QUANT INV to 7NT
 2N = !MAX, 4333
   3H = !Retransfer
 3C = !MAX, 2!c, 4!s
@@ -157,11 +157,11 @@ transfer to our longer major and then pass.
 
 **** Same lengths, 55+
 
-We choose the hearts from a weak two suiter for a chance to run out to 2S.
+We choose the hearts from a weak two suiter for a chance to run out to 2!s.
 
-- *Weak* = 2D (→!h); then pass
-- *Invitational* = 2D (→!h); then 2S
-- *Forcing to game* = 2H (→!s); then 3H
+- *Weak* = 2!d (→!h); then pass
+- *Invitational* = 2!d (→!h); then 2!s
+- *Forcing to game* = 2!h (→!s); then 3!h
 
 **** Difference = 1, (54)+
 
@@ -179,7 +179,7 @@ We choose the hearts from a weak two suiter for a chance to run out to 2S.
 ** Minor transfer
 
 We only show minor suits with a singleton or void.  We play minor contracts 2
-levels above notrump contracts (3m vs 1N and 5m vs 3N), so we need a pretty
+levels above notrump contracts (3m vs 1NT and 5m vs 3NT), so we need a pretty
 unbalanced hand.
 
 We use fragment bids instead of Splinters here to avoid lead-directing doubles.
@@ -203,7 +203,7 @@ We use fragment bids instead of Splinters here to avoid lead-directing doubles.
 3S = !FRAG, 0--1!h
 3N = !FRAG, 0--1!c
 
-We move the minor Stayman to the unallocated 4S.  Since the opener must have a
+We move the minor Stayman to the unallocated 4!s.  Since the opener must have a
 3+ card minor, 55 minors would ensure a minor fit.  The opener rebids based on
 suit preference.
 
@@ -213,14 +213,14 @@ suit preference.
 
 ** Competitive bidding
 
-We play Rubinsohl against overcalls below 2N, including 1N-(Dbl).
+We play Rubinsohl against overcalls below 2NT, including 1NT-(Dbl).
 
 - *2 of a suit*: weak signoff with 5+ cards
-- *From 2N to 3H*: transfer with 5+ cards
+- *From 2NT to 3!h*: transfer with 5+ cards
 - */Transfer/ to an adverse suit*: game-forcing Stayman/takeout
-- *3S*: 3N but with unstopped adverse suits
+- *3!s*: 3NT but with unstopped adverse suits
 
-Competition does not affect auctions at 3N and above.  These transfers are also
+Competition does not affect auctions at 3NT and above.  These transfers are also
 consistent with our system since we use Rubinsohl.
 
 1N-(2X)-
@@ -282,7 +282,7 @@ D  = !INV+, 2--3!s, 3--4!h, 3--4!d, 3--4!c, cooperative T/O
 3S = !F, no !s stopper
 3N = S/O, !s stopper
 
-Unusual vs. unusual does not apply to (2N) because we have not shown a suit.
+Unusual vs. unusual does not apply to (2NT) because we have not shown a suit.
 
 1N-(2N)-
 D  = INV+ BAL

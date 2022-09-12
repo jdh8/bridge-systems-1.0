@@ -6,9 +6,9 @@ slightly more consistent.
 The 2/1 responses from unpassed hands are 100% FG.  The 3-level jump shifts are
 invitational, removing the need to cancel a game force after 2/1.
 
-The 1N response is nonforcing aka semiforcing.  The strongest type of hands in
-1N is a 3-card limit raise.  When the opener has a balanced minimum, planning
-to reject a limit raise, the opener can pass that 1N response.
+The 1NT response is nonforcing aka semiforcing.  The strongest type of hands in
+1NT is a 3-card limit raise.  When the opener has a balanced minimum, planning
+to reject a limit raise, the opener can pass that 1NT response.
 
 1H-
 1S = 4+!s, 6+ points
@@ -85,8 +85,8 @@ P  = 5!s, 2--3!h, 2--3!d, 2--3!c, 11--13 HCP
 
 *** Roudi
 
-Over 1X-1Y-1N, responder's 2C is Roudi, asking for support and strength.  Like
-New Minor Forcing, Roudi is useful in finding 3-5 fits.
+Over 1X-1Y-1NT, responder's 2!c is Roudi, asking for support and strength.
+Like New Minor Forcing, Roudi is useful in finding 3-5 fits.
 
 1H-1S-1N-
 2C = !Roudi, INV+
@@ -128,7 +128,7 @@ Raising opener's new suit is only a courtesy raise.
 
 *** Impossible spades
 
-After denying spades with 1N, responder's 2S shows a limit raise.
+After denying spades with 1NT, responder's 2!s shows a limit raise.
 
 1H-1N-2C-
 2D = 5+!d
@@ -146,7 +146,7 @@ After denying spades with 1N, responder's 2S shows a limit raise.
 3D = 5+!d, 8--9 HCP
 3H = LIM, 3!h
 
-** Jacoby 2N
+** Jacoby 2NT
 
 1H-2N-
 3X = 0--1 card

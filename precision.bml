@@ -56,33 +56,33 @@ Notable conventions we use:
 4M = PRE, good 7+#
 4N = !UNT, 6+!d, 6+!c, 11--15 HCP
 
-Our 1D opening always has 4+ diamonds.  We pass BAL 11 HCP without a 5-card
+Our 1!d opening always has 4+ diamonds.  We pass BAL 11 HCP without a 5-card
 major.
 
-Note that the 5-club option of the Precision 2C must be accompanied with a
-4-card major.  With 2245, we open 1NT.  With (31)45, we open 1D.
+Note that the 5-club option of the Precision 2!c must be accompanied with a
+4-card major.  With 2245, we open 1NT.  With (31)45, we open 1!d.
 
-We replace the Precision 2D opening with more frequent Ekren 2D.  The Precision
-2C can describe most of the Precision 2D hands.  The only exception is 4414,
-with that distribution we open 1H, 1NT, or pass 11 counts.
+We replace the Precision 2!d opening with more frequent Ekren 2!d.  The
+Precision 2!c can describe most of the Precision 2!d hands.  The only exception
+is 4414, with that distribution we open 1!h, 1NT, or pass 11 counts.
 
-** Legal issue of the 2D preempt
+** Legal issue of the 2!d preempt
 
-If you cannot show both majors via 2D, revert to a natural weak 2D.
+If you cannot show both majors via 2!d, revert to a natural weak 2!d.
 
 2D = PRE, 5+!d, 4--10 HCP
 
 As per ACBL, artificial preempts are only allowed in the Open+ Chart.  Check
-your local regulations to see if you can use the Ekren 2D.
+your local regulations to see if you can use the Ekren 2!d.
 
 http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 
 ** The notrump ladder
 
-- *12--15*: 1N
-- *16--18*: 1C-1D-1N
-- *19--21*: 1C-1D-1H-1S-1N
-- *22+*: 1C-1D-1H-1S-2C-2DH-2N
-- *24+*: 1C-1D-1H-1S-2C-2H-3N
+- *12--15*: 1NT
+- *16--18*: 1!c-1!d-1NT
+- *19--21*: 1!c-1!d-1!h-1!s-1NT
+- *22+*: 1!c-1!d-1!h-1!s-2!c-2!d!h-2NT
+- *24+*: 1!c-1!d-1!h-1!s-2!c-2!h-3NT
 
 #INCLUDE precision/1C.bml

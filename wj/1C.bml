@@ -1,4 +1,4 @@
-* Polish 1C opening
+* Polish 1!c opening
 
 1C-
 1D = !(R), 0--11 HCP
@@ -30,9 +30,9 @@ hand positives.
 
 #SEAT 0
 
-** The 1D relay
+** The 1!d relay
 
-In our version of Polish Club, the 1D relay denies game-forcing values.  There
+In our version of Polish Club, the 1!d relay denies game-forcing values.  There
 are two options in this relay.
 
 - 0--7 HCP
@@ -121,7 +121,7 @@ even in competition.
 3H = 5+!h, 5+!s, 18--20 HCP
 3S = 5+!s, 6+!c, 15--17 HCP
 
-The bidding structure at 1C-1D-1N is similar to the 1N opening.
+The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 
 1C-1D-1N-
 2C = STAY, may be Garbage
@@ -137,7 +137,7 @@ The bidding structure at 1C-1D-1N is similar to the 1N opening.
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
-4N = QUANT INV to 6N
+4N = QUANT INV to 6NT
 
 1C-1D-2C-
 2D = 4+!d, 7+ HCP
@@ -165,7 +165,7 @@ The bidding structure at 1C-1D-1N is similar to the 1N opening.
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
-4N = QUANT INV to 6N
+4N = QUANT INV to 6NT
 
 ** Positive 1M responses
 
