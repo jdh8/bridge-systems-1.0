@@ -201,6 +201,28 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 4D = !SPL, 0--1!d, 4+!s, 18+ HCP
 4H = !SPL, 0--1!h, 4+!s, 18+ HCP
 
+1C-1H-1N-
+2C = !Roudi, INV+
+  2D = !MIN 2!h
+  2H = !MIN 3!h
+  2S = !MAX 3!h
+  2N = !MAX 2!h
+2H = 5+!h, 7--10 HCP
+2N = INV, 4!h
+3H = INV, 6+!h
+
+1C-1S-1N-
+2C = !Roudi, INV+
+  2D = !MIN 2!s
+  2H = !MIN 3!s
+  2S = !MAX 3!s
+  2N = !MAX 2!s
+2S = 5+!s, 7--10 HCP
+2N = INV, 4!s
+3S = INV, 6+!s
+
+*** XYZ over 1!c-1!h-1!s
+
 The only occurrence of XYZ in our system is over 1!c-1!h-1!s, the only
 unlimited 1X-1Y-1Z auction.
 
@@ -214,6 +236,10 @@ unlimited 1X-1Y-1Z auction.
 3C = 5+!c, 9--10 HCP
 3D = FG, 5+!d
 3H = FG, 6+!h
+3S = FG, 4+!s
+3N = 0--3!s, 4!h, 0--5!d, 0--5!c, 12--15 HCP
+
+#SEAT 12
 
 The 2!c response contains the following types of hands
 
@@ -239,6 +265,11 @@ P  = 5+!d, 7--8 HCP
 3D = INV, 5+!d
 3H = INV, 6+!h
 
+The 2!d response contains the following types of hands
+
+- Game forcing 5 hearts or unbalanced 5+ clubs, seeking a fit
+- Slam tries dependent on opener's strength
+
 1C-1H-1S-2D-
 2H = 3!h, 12--14 HCP
 2S = 5!s, 18+ HCP
@@ -248,6 +279,20 @@ P  = 5+!d, 7--8 HCP
 3H = 53xx, 18+ HCP
 3S = 4144, 18+ HCP
 3N = 42(52) or 42(43), 18+ HCP
+
+**** Turning off XYZ by a passed hand
+
+#SEAT 34
+
+XYZ is off by a passed hand because game-forcing options become impossible.
+
+1C-1H-1S-
+2C = NF, 5+!c
+2D = INV 4SF
+3C = INV, 5+!c
+3H = INV, 6+!h
+
+#SEAT 0
 
 *** Bubrotka
 
