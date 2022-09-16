@@ -207,9 +207,17 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
   2H = !MIN 3!h
   2S = !MAX 3!h
   2N = !MAX 2!h
+2D = 4+!d, 7--10 HCP
 2H = 5+!h, 7--10 HCP
+2S = FG, 4+!s
 2N = INV, 4!h
+3C = INV, 5+!c
+3D = FG, 4+!d
 3H = INV, 6+!h
+3S = !SPL, 0--1!s, 6+!h
+3N = 4!h, 12--15 HCP
+4C = !SPL, 0--1!c, 6+!h
+4D = !SPL, 0--1!d, 6+!h
 
 1C-1S-1N-
 2C = !Roudi, INV+
@@ -217,9 +225,18 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
   2H = !MIN 3!s
   2S = !MAX 3!s
   2N = !MAX 2!s
+2D = 4+!d, 7--10 HCP
+2H = 4+!h, 5+!s, 7--10 HCP
 2S = 5+!s, 7--10 HCP
 2N = INV, 4!s
+3C = INV, 5+!c
+3D = FG, 4+!d
+3H = FG, 4+!h, 5+!s
 3S = INV, 6+!s
+3N = 4!s, 12--15 HCP
+4C = !SPL, 0--1!c, 6+!s
+4D = !SPL, 0--1!d, 6+!s
+4H = !SPL, 0--1!h, 6+!s
 
 *** XYZ over 1!c-1!h-1!s
 
