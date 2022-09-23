@@ -312,6 +312,11 @@ XYZ is off by a passed hand because game-forcing options become impossible.
 
 *** Bubrotka
 
+Bubrotka is a variant of Odwrotka developed by Stanisław "Bubu" Gołębiowski.
+Same as Odwrotka, this 2!d rebid is a fit-reverse showing 18+ HCP and a 3+ card
+support.  Bubrotka tries to convey more information than strength and the
+length of the previously bid major.
+
 1C-1H-2D-
 2H = ! 4!h, 7--10 HCP
 2S = ! 4!h, 11+ HCP
@@ -333,7 +338,8 @@ XYZ is off by a passed hand because game-forcing options become impossible.
 3D = 4!s, 5+!d, 9--11 HCP
 3H = ! 5!s, not BAL, 7--10 HCP
 3S = ! 5!s, BAL, 7--10 HCP
-3N = 6+!s, 2+!h, 2+!d, 2+!c, 7--10 HCP
+3N = 6(322), 7--10 HCP
 4C = !SPL, 0--1!c, 6+!s, 7--10 HCP
 4D = !SPL, 0--1!d, 6+!s, 7--10 HCP
 4H = !SPL, 0--1!h, 6+!s, 7--10 HCP
+4S = 7222, 7--10 HCP
