@@ -48,9 +48,9 @@ are two options in this relay.
 2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 21--22 HCP
 3C = 5+!c, 20--22 HCP
 3D = 5+!d, 20--22 HCP
-3H = ! 3--4!s, 4!h, 4--5 m, 0--1 om, 20--22 HCP
-3S = ! 4!s, 0--1!h, 4--5!d, 4--5!c, 20--22 HCP
-3N = ! 0--1!s, 4!h, 4--5!d, 4--5!c, 20--22 HCP
+3H = !FRAG, 3--4!s, 4!h, 4--5 m, 0--1 om, 20--22 HCP
+3S = !FRAG, 4!s, 0--1!h, 4--5!d, 4--5!c, 20--22 HCP
+3N = !FRAG, 0--1!s, 4!h, 4--5!d, 4--5!c, 20--22 HCP
 
 With the weak option, opener can only rebid a major.  Opener never rebids clubs
 even in competition.
