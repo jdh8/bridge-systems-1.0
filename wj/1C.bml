@@ -139,20 +139,26 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 4N = QUANT INV to 6NT
 
 1C-1D-2C-
-2D = 4+!d, 7+ HCP
-2H = 5+!h, 7+ HCP
-2S = 5+!s, 7+ HCP
-2N = INV, 2--4!s, 2--4!h, 2--5!d, 2--3!c, 7--9 HCP
+2D = NF, 5+!d, 5--8 HCP
+2H = NF, 5+!h, 5--7 HCP
+2S = NF, 5+!s, 5--7 HCP
+2N = NAT INV, 7--9 HCP
 3C = INV, 3+!c, 7--9 HCP
+3D = FG, 5+!d, 9--11 HCP
+3H = !SPL, 0--1!h, 5+!c, 9--11 HCP
+3S = !SPL, 0--1!s, 5+!c, 9--11 HCP
+3N = 2--3!s, 2--3!h, 3--5!d, 2--4!c, 9--11 HCP
+4C = FG, 5+!c, 2+!s, 2+!h, 2+!d, 9--11 HCP
+4D = !SPL, 0--1!d, 5+!c, 9--11 HCP
 
 1C-1D-2D-
 2H = (R)
-2S = 5+!s, 7+ points
-2N = 5+!h, 7+ points
-3C = 6+!c, 7+ points
-3D = 6+!d, 7+ points
-3H = 7+!h, 7+ points
-3S = 7+!s, 7+ points
+2S = S/T, 5+!s, 7+ points
+2N = S/T, 5+!h, 7+ points
+3C = S/T, 6+!c, 7+ points
+3D = S/T, 6+!d, 7+ points
+3H = S/T, 7+!h, 7+ points
+3S = S/T, 7+!s, 7+ points
 
 1C-1D-2N-
 3C = STAY
