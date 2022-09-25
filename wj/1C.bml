@@ -177,16 +177,21 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 
 ** Positive 1M responses
 
+We use Ronald Kalf's Odwyrtka instead of the traditional Odwrotka.  The 3!d
+rebid is a fit reverse showing a game-forcing 4+ card support.  Moreover, I
+make 2!d and 2NT rebids as natural as possible.  A natural 2NT rebid has the
+strong opener decalare more often.
+
 1C-1H-
 1S = F, 4+!s
 1N = 2--3!s, 2--3!h, 12--14 HCP
 2C = 5+!c, 0--3!s, 0--3!h, 15--17 HCP
-2D = !FG, 3+!h, 18+ HCP, Bubrotka
+2D = 4+!d, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 6+!s, 18+ HCP
-2N = 0--3!s, 0--2!h, 18+ HCP
+2N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 18+ HCP
 3C = 6+!c, 18+ HCP
-3D = 6+!d, 18+ HCP
+3D = !FG, 4+!h, 18+ HCP
 3H = 4+!h, 4+!c, 15--17 HCP
 3S = !SPL, 0--1!s, 4+!h, 18+ HCP
 3N = SOL 7+!c, partial stops in !s and !d
@@ -196,12 +201,12 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 1C-1S-
 1N = 2--3!s, 12--14 HCP
 2C = 5+!c, 0--3!s, 15--17 HCP
-2D = !FG, 3+!s, 18+ HCP, Bubrotka
+2D = 3+!d, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
-2N = 0--2!s, 0--4!h, 18+ HCP
+2N = 2--3!s, 2--4!h, 1--5!d, 2--5!c, 18+ HCP
 3C = 6+!c, 18+ HCP
-3D = 6+!d, 18+ HCP
+3D = !FG, 4+!s, 18+ HCP
 3H = 7+!h, 18+ HCP
 3S = 4+!s, 4+!c, 15--17 HCP
 3N = SOL 7+!c, partial stops in !h and !d
@@ -318,37 +323,3 @@ XYZ is off by a passed hand because game-forcing options become impossible.
 3H = INV, 6+!h
 
 #SEAT 0
-
-*** Bubrotka
-
-Bubrotka is a variant of Odwrotka developed by Stanisław "Bubu" Gołębiowski.
-Same as Odwrotka, this 2!d rebid is a fit-reverse showing 18+ HCP and a 3+ card
-support.  Bubrotka tries to convey more information than strength and the
-length of the previously bid major.
-
-1C-1H-2D-
-2H = ! 4!h, 7--10 HCP
-2S = ! 4!h, 11+ HCP
-2N = ! 5!h, 11+ HCP
-3C = 4!h, 5+!c, 9--11 HCP
-3D = 4!h, 5+!d, 9--11 HCP
-3H = ! 5!h, not BAL, 7--10 HCP
-3S = ! 5!h, BAL, 7--10 HCP
-3N = 6+!h, 2+!s, 2+!d, 2+!c, 7--10 HCP
-4C = !SPL, 0--1!c, 6+!h, 7--10 HCP
-4D = !SPL, 0--1!d, 6+!h, 7--10 HCP
-4H = !SPL, 0--1!s, 6+!h, 7--10 HCP
-
-1C-1S-2D-
-2H = ! 4!s, 7--10 HCP
-2S = ! 4!s, 11+ HCP
-2N = ! 5!s, 11+ HCP
-3C = 4!s, 5+!c, 9--11 HCP
-3D = 4!s, 5+!d, 9--11 HCP
-3H = ! 5!s, not BAL, 7--10 HCP
-3S = ! 5!s, BAL, 7--10 HCP
-3N = 6(322), 7--10 HCP
-4C = !SPL, 0--1!c, 6+!s, 7--10 HCP
-4D = !SPL, 0--1!d, 6+!s, 7--10 HCP
-4H = !SPL, 0--1!h, 6+!s, 7--10 HCP
-4S = 7222, 7--10 HCP
