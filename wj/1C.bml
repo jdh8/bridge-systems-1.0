@@ -189,7 +189,7 @@ rebid has the strong opener decalare more often.
 2D = 4+!d, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 6+!s, 18+ HCP
-2N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 18+ HCP
+2N = 2--3!s, 2--3!h, 2--3!d, 4--5!c, 18+ HCP
 3C = 6+!c, 18+ HCP
 3D = !FG, 4+!h, 2+!s, 2+!d, 2+!c, 18+ HCP
 3H = 4+!h, 4+!c, 15--17 HCP
@@ -204,7 +204,7 @@ rebid has the strong opener decalare more often.
 2D = 3+!d, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
-2N = 2--3!s, 2--4!h, 1--5!d, 2--5!c, 18+ HCP
+2N = 2--3!s, 2--4!h, 1--3!d, 3--5!c, 18+ HCP
 3C = 6+!c, 18+ HCP
 3D = !FG, 4+!s, 2+!h, 2+!d, 2+!c, 18+ HCP
 3H = 7+!h, 18+ HCP
@@ -250,6 +250,11 @@ rebid has the strong opener decalare more often.
 4C = !SPL, 0--1!c, 6+!s
 4D = !SPL, 0--1!d, 6+!s
 4H = !SPL, 0--1!h, 6+!s
+
+Auctions over 1!c-1M-2NT are natural.  We don't use Roudi here since
+
+- Opener is unlimited
+- We may have a club slam
 
 *** XYZ over 1!c-1!h-1!s
 
