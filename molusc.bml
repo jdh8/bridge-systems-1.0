@@ -1,0 +1,42 @@
+#+TITLE: MOLUSC
+
+#+AUTHOR: Chen-Pang He (jdh8)
+
+#+DESCRIPTION: Major-oriented length-uncertain strong club, a meme bidding system
+
+* MOLUSC
+
+MOLUSC (major-oriented length-uncertain strong club) 是一個迷因叫牌制度。本制度由何震邦 (jdh8) 投稿至台大橋藝社，希望能作為 2022 年萬聖盃的隨機制度使用。
+
+本制度深受 Moscito 的概念啟發，當然也包括楊柏因教授的 Terrorist's Moscito。雖然是搞怪的制度，但是也希望能有不錯的表現，能和一般的叫牌制度一戰。
+
+本制度的特色在於
+
+1. 優先表達高花張數
+2. 牌組可能會有不確定是長是短的情況，例如可能是 0--2 張或 5 張以上
+
+* 開叫
+
+1C = 16+ HCP
+1D = Neither 3--4!s nor 3--4!h, 11--15 HCP
+1H = 3--4!h, not 3--4!s, 11--15 HCP
+1S = 3--4!s, not 3--4!h, 11--15 HCP
+1N = 3--4!s, 3--4!h, 11--15 HCP
+2C = 4+!s, 4+!h, 4--10 HCP
+2D = 5+M, 4--10 HCP
+
+** 判斷
+
+16+ HCP 強牌一律開叫 1!c
+
+11--15 HCP 中性力量：開叫其他一線叫品
+
+- 黑桃 3--4 張，紅心 3--4 張，開叫 1NT
+- 黑桃 3--4 張，紅心並非 3--4 張，開叫 1!s
+- 紅心 3--4 張，黑桃並非 3--4 張，開叫 1!h
+- 兩門高花都不是 3--4 張，開叫 1!d
+
+4--10 HCP 竄叫：竄叫並非義務。可以根據座位和身價決定不要開叫。
+
+- 兩門高花都 4 張以上，開叫 2!c
+- 一門高花 5 張以上，另一門 0--3 張，開叫 2!d
