@@ -220,7 +220,7 @@ rebid has the strong opener decalare more often.
   2H = !MIN 3!h
   2S = !MAX 3!h
   2N = !MAX 2!h
-2D = 4+!d, 7--10 HCP
+2D = 5+!d, 7--10 HCP
 2H = 5+!h, 7--10 HCP
 2S = FG, 4+!s
 2N = INV, 4!h
@@ -238,7 +238,7 @@ rebid has the strong opener decalare more often.
   2H = !MIN 3!s
   2S = !MAX 3!s
   2N = !MAX 2!s
-2D = 4+!d, 7--10 HCP
+2D = 5+!d, 7--10 HCP
 2H = 4+!h, 5+!s, 7--10 HCP
 2S = 5+!s, 7--10 HCP
 2N = INV, 4!s
