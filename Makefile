@@ -1,4 +1,4 @@
-all: TpKotoba.bss TpKotoba.htm 5533.bss 5533.htm precision.bss precision.htm wj.bss wj.htm molusc.bss molusc.htm
+all: TpKotoba.bss TpKotoba.htm 5533.bss 5533.htm precision.bss precision.htm wj.bss wj.htm
 	@:
 
 %.bss: %.bml %/*.bml common/*.bml
