@@ -316,3 +316,42 @@ XYZ is off by a passed hand because game-forcing options become impossible.
 3H = INV, 6+!h
 
 #SEAT 0
+
+** Higher responses
+
+Higher responses are pretty descriptive, so opener's rebids are mostly natural.
+
+1C-1N-
+2C = 4+!c, 15+ HCP
+2D = 4+!d, 18+ HCP
+2H = 5+!h, 18+ HCP
+2S = 5+!s, 18+ HCP
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18+ HCP
+3C = 6+!c, 18+ HCP
+3D = 6+!d, 18+ HCP
+3H = 7+!h, 18+ HCP
+3S = 7+!s, 18+ HCP
+3N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
+
+#SEAT 12
+
+1C-2S-
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18+ HCP
+3C = 4+!c, 15+ HCP
+3D = 4+!d, 18+ HCP
+3H = 5+!h, 18+ HCP
+3S = 5+!s, 18+ HCP
+3N = 12--14 HCP
+4C = 6+!c, 18+ HCP
+4D = 6+!d, 18+ HCP
+4H = 7+!h, 18+ HCP
+4S = 7+!s, 18+ HCP
+
+#SEAT 0
+
+1C-2N-
+3C = 4+!c, 15+ HCP
+3D = 4+!d, 18+ HCP
+3H = 5+!h, 18+ HCP
+3S = 5+!s, 18+ HCP
+3N = 13--14 or 18--19 HCP
