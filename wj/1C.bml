@@ -24,7 +24,11 @@ hand positives.
 1C-
 2C = INV, 5+!c
 2D = INV, 5+!d
+2H = INV, 5+!h, 0--3!s
 2S = INV, 5+!s, 0--3!h
+
+The unpassed 1!c-2!h is a subset of Ekren, so we reuse its passed counterpart
+as a natural invitation as well.
 
 #SEAT 0
 
@@ -363,9 +367,9 @@ Opener has only two chunks of notrump hands by denying the 1NT opening.
 
 #SEAT 0
 
-** The 2!h response
+** Unpassed 2!h response
 
-The 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
+An unpassed 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
 
 1C-2H-
 2S = S/P S/O, 2+!s, 12--15 HCP
