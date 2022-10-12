@@ -46,7 +46,7 @@ Notable conventions we use:
 1D = 4+!d, 12--19 HCP
 1H = 5+!h, 11--17 HCP
 1S = 5+!s, 11--17 HCP
-1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 15--17 HCP
+1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
 2C = !NAT, 5+!c, 11--14 HCP
 2D = !PRE, 4+!s, 4+!h, 4--10 HCP
 2M = PRE, 5+#, 4--10 HCP
