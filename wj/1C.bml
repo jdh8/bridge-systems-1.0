@@ -22,8 +22,8 @@ A passed hand cannot force to game.  We have a simpler structure for passed
 hand positives.
 
 1C-
-2C = INV, 5+!c
-2D = INV, 5+!d
+2C = INV, 5+!c, 0--3!s, 0--3!h
+2D = INV, 5+!d, 0--3!s, 0--3!h
 2H = INV, 5+!h, 0--3!s
 2S = INV, 5+!s, 0--3!h
 
@@ -365,7 +365,32 @@ Opener has only two chunks of notrump hands by denying the 1NT opening.
 4H = 7+!h, 18+ HCP
 4S = 7+!s, 18+ HCP
 
-#SEAT 0
+** Game-forcing 2m responses
+
+Like over 2/1 responses, opener jumps with extra values (15--17 HCP) to utilize
+higher steps to send information.  This avoids an awkward situation Bridge
+World calls "two temporizers and zero describers".
+
+1C-2C-
+2D = 4+!d, 15+ HCP
+2H = 4+!h, 12--14 or 18+ HCP
+2S = 4+!s, 12--14 or 18+ HCP
+2N = 2--3!s, 2--3!h, 12--14 HCP
+3C = 4+!c, 18+ HCP
+3D = 6+!d, 18+ HCP
+3H = 4+!h, 4+!c, 15--17 HCP
+3S = 4+!s, 4+!c, 15--17 HCP
+3N = 5+!c, 15--17 HCP
+
+1C-2D-
+2H = 4+!h, 12--14 or 18+ HCP
+2S = 4+!s, 12--14 or 18+ HCP
+2N = 2--3!s, 2--3!h, 12--14 HCP
+3C = 4+!c, 18+ HCP
+3D = 4+!d, 15+ HCP
+3H = 4+!h, 4+!c, 15--17 HCP
+3S = 4+!s, 4+!c, 15--17 HCP
+3N = 5+!c, 15--17 HCP
 
 ** Unpassed 2!h response
 
@@ -382,3 +407,5 @@ An unpassed 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
 4H = S/O, 4+!h, 18+ points
 4S = S/O, 3+!s, 18+ points
 4N = QUANT INV to 6NT
+
+#SEAT 0
