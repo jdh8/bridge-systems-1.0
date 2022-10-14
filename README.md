@@ -13,7 +13,6 @@ My experimental systems
 -----------------------
 All of my pet bidding systems are 2/1.  Weak twos show wild 5+ cards.
 
-- [Natural 2/1](https://jdh8.github.io/bridge-systems/5533.htm) (5533)
 - [Polish Club](https://jdh8.github.io/bridge-systems/wj.htm)
 - [Precision](https://jdh8.github.io/bridge-systems/precision.htm)
 
