@@ -409,3 +409,43 @@ An unpassed 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
 4N = QUANT INV to 6NT
 
 #SEAT 0
+
+** Proposed defense
+
+We believe the best defense to a forcing club is another forcing club system.
+We propose a defense similar to our Polish Club.  The defense was originally
+proposed by Gerben Dirksen at:
+
+https://bridgewinners.com/article/view/defense-against-polish-club/
+
+We have a more aggressive (1!c)-2!d and a more natural advancing structure over
+(1!c)-Dbl.
+
+(1C)-
+D  = T/O, 18+ HCP or 3+!s 3+!h 1+!d 1+!c 11+ HCP
+1X = 5+#, 11--17 HCP
+1N = 5+!c, 4+M, 11--17 HCP
+2C = 6+!c, 11--17 HCP
+2D = !Ekren, 4+!s, 4+!h, 4--10 HCP
+2M = PRE, 5+#, 4--10 HCP
+2N = !UNT, 5+!d, 5+!c, 4--10 or 16+ HCP
+
+(1C)-D-
+P  = 5+!c, 0--11 HCP
+1D = 4+!d, 0--8 HCP
+1H = 3+!h, 0--8 HCP
+1S = 4+!s, 0--8 HCP
+1N = 2--3!s, 2--3!h, 2--4!d, 2--5!c, 7--9 HCP
+2C = !FG, 12+ HCP
+2D = INV, 5+!d, 9--11 HCP
+2H = INV, 4+!h, 9--11 HCP
+2S = INV, 4+!s, 9--11 HCP
+2N = INV, 2--3!s, 2--3!h, 2--4!d, 2--5!c, 10--11 HCP
+3C = FG, 5+!c, 12+ HCP
+3D = FG, 5+!d, 12+ HCP
+3H = 6+!h, 7--9 points
+3S = 6+!s, 7--9 points
+3N = (32)44 or (4333), 12--14 HCP
+4D = !Choice of games, 5+!s, 5+!h, 9--11 HCP
+4H = 5+!h, 12--14 points
+4S = 5+!s, 12--14 points
