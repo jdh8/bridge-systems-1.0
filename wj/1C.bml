@@ -499,5 +499,26 @@ R  = 3+!c, 10+ HCP
 1N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 7--10 HCP
 2C = NF, 5+!c, 7--10 HCP
 2D = NF, 5+!d, 7--10 HCP
-2H = 4+!h, 5+!s, 7--9 HCP
+2H = !P/C, 4+!h, 5+!s, 7--9 HCP
 2S = !INV+, 5+!d, 11+ HCP
+2N = !FG, 6+!c, Truscott
+3C = !PRE, 7+!c, 5--7 HCP
+3D = !PRE, 7+!d, 5--7 HCP
+3M = !PRE, 7+#, 5--7 HCP
+4M = PRE, 8+#, 0--4 HCP
+
+1C-(1D)-
+D  = 4!h, 7+ HCP
+1H = 5+!h, 7+ HCP
+1S = 4+!s, 7+ HCP
+1N = 7--10 HCP, likely stop in !d
+2C = 5+!c, 7--10 HCP
+2D = !Michaels, 5+!s, 5+!h, 0--6 or 12+ HCP
+2H = !P/C, 4+!h, 5+!s, 7--9 HCP
+2S = !FG, 2--3!s, 2--3!h, 3--4!d, 3--4!c
+2N = INV, 10--11 HCP, likely stop in !d
+3C = INV, 6+!c, 9--11 HCP
+3D = !FG, 12+ HCP
+3M = !PRE, 7+#, 5--7 HCP
+3N = 12--15 HCP, likely stop in !d
+4M = PRE, 8+#, 0--4 HCP
