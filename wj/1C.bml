@@ -512,13 +512,42 @@ R  = INV+, 3+!c, 10+ HCP
 1C-(1D)-
 D  = !TRF, 4+!h, 7+ HCP
 1H = !TRF, 4+!s, 7+ HCP
-1S = !T/O, TRF to 1NT, 7+ HCP
+1S = !TRF to 1NT, 7+ HCP
 1N = 7--10 HCP, likely stop in !d
-2C = 5+!c, 7--11 HCP
+2C = !NF, 5+!c, 7--11 HCP
 2D = ! 5+!s, 4+!h, 7--9 HCP
-2M = PRE, 5+#, 5--7 HCP
+2M = INV, 5+#, 10--11 HCP
 2N = INV, 10--11 HCP, likely stop in !d
 3C = INV, 6+!c, 9--11 HCP
-3D = !FG, 12+ HCP
-3M = PRE, 7+#, 5--7 HCP
+3D = !FG, 0--3!s, 0--3!h, 12+ HCP
+3M = FG, 5+#, 12+ points
 3N = 12--15 HCP, likely stop in !d
+
+1C-(1H)-
+D  = !TRF, 4+!s, 7+ HCP
+1S = !TRF to 1NT, 7+ HCP
+1N = 7--10 HCP, likely stop in !h
+2C = !NF, 5+!c, 7--11 HCP
+2D = !NF, 5+!d, 7--11 HCP
+2H = !FG, 0--3!s, 12+ HCP
+2S = INV, 5+!s, 10--11 HCP
+2N = INV, 10--11 HCP, likely stop in !h
+3C = INV, 6+!c, 9--11 HCP
+3D = INV, 6+!d, 9--11 HCP
+3H = !FG, 6+!c, 12+ HCP
+3S = FG, 5+!s, 12+ points
+3N = 12--15 HCP, likely stop in !h
+
+1C-(1S)-
+D  = NEG, 4+!h, 7+ HCP
+1N = 7--10 HCP, likely stop in !s
+2C = !NF, 5+!c, 7--11 HCP
+2D = !NF, 5+!d, 7--11 HCP
+2H = !NF, 5+!h, 7--11 HCP
+2S = !FG, 0--3!h, 12+ HCP
+2N = INV, 10--11 HCP, likely stop in !h
+3C = INV, 6+!c, 9--11 HCP
+3D = INV, 6+!d, 9--11 HCP
+3H = FG, 5+!h, 12+ points
+3S = !FG, 6+!c, 12+ HCP
+3N = 12--15 HCP, likely stop in !s
