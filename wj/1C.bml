@@ -597,3 +597,42 @@ D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
 3H = !FG STAY, 4+!h
 3S = !FG
 3N = To play, likely stop in !s
+
+We have this special unusual vs. unusual structure like 1NT-(2NT) because we
+have not yet bid a suit.
+
+1C-(2N)-
+D  = INV+, 2--4!s, 2--4!h, 2+!d, 2+!c, 10+ HCP
+3C = INV+, 5+!h, 10+ points
+3D = INV+, 5+!s, 10+ points
+3H = S/O, 5+!h, 7--9 HCP
+3S = S/O, 5+!s, 7--9 HCP
+
+*** Against 1!c-(2!d)
+
+The 1!c-(2!d) we suggest, showing both majors, is harder to defend.  Our steps
+for major suits are virtually wasted.
+
+1C-(2D)-
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
+2H = INV+, likely stop in !h
+2S = INV+, likely stop in !s
+2N = !TRF INV, 5+!c, 9--11 HCP
+3C = !TRF INV, 5+!d, 9--11 HCP
+3D = !TRF FG, 5+!c
+3H = !TRF FG, 5+!d
+3S = !FG
+3N = To play, partial stop in each major
+
+We can easily defend a natural 1!c-(2!d) with plain Rubinsohl.
+
+1C-(2D)-
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
+2H = !NF, 5+!h, 7--11 HCP
+2S = !NF, 5+!s, 7--11 HCP
+2N = !TRF INV+, 5+!c
+3C = !FG STAY
+3D = !TRF INV+, 5+!h
+3H = !TRF INV+, 5+!s
+3S = !FG
+3N = To play, likely stop in !d

@@ -284,15 +284,12 @@ D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 3S = !FG
 3N = S/O, likely stop in !s
 
-Unusual vs. unusual does not apply to (2NT) because we have not shown a suit.
+We have a special unusual vs. unusual structure over 1NT-(2NT) because we have
+not yet shown a suit.
 
 1N-(2N)-
-D  = INV+ BAL
-3H = FG, 5+!h
-3S = FG, 5+!s
-
-1N-(2N)-(3X)-
-D  = PEN
-3H = INV, 5+!h
-3S = INV, 5+!s
-3N = S/O
+D  = INV+, 2--4!s, 2--4!h, 2+!d, 2+!c
+3C = INV+, 5+!h
+3D = INV+, 5+!s
+3H = S/O, 5+!h
+3S = S/O, 5+!s
