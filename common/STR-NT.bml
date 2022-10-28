@@ -246,7 +246,7 @@ R  = INV+
 3S = FG, 3-suited
 
 1N-(2C)-
-D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 2X = S/O, 5+#
 2N = !FG STAY
 3C = !TRF, INV+, 5+!d
@@ -256,7 +256,7 @@ D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c
 3N = S/O, likely stop in !c
 
 1N-(2D)-
-D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 2X = S/O, 5+#
 2N = !TRF, 5+!c
 3C = !FG STAY
@@ -266,7 +266,7 @@ D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c
 3N = S/O, likely stop in !d
 
 1N-(2H)-
-D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 2S = S/O, 5+!s
 2N = !TRF, 5+!c
 3C = !TRF, 5+!d
@@ -276,7 +276,7 @@ D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c
 3N = S/O, likely stop in !h
 
 1N-(2S)-
-D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 2N = !TRF, 5+!c
 3C = !TRF, 5+!d
 3D = !TRF, 5+!h

@@ -568,7 +568,7 @@ We play Rubinsohl over 1!c-(2!c) and 2-level jump overcalls.  This treatment
 makes invitational hands easier to bid.
 
 1C-(2C)-
-D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
 2D = !NF, 5+!d, 7--11 HCP
 2H = !NF, 5+!h, 7--11 HCP
 2S = !NF, 5+!s, 7--11 HCP
@@ -580,7 +580,7 @@ D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
 3N = To play, likely stop in !c
 
 1C-(2H)-
-D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
 2S = !NF, 5+!s, 7--11 HCP
 2N = !TRF INV+, 5+!c
 3C = !TRF INV+, 5+!d
@@ -590,7 +590,7 @@ D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
 3N = To play, likely stop in !h
 
 1C-(2S)-
-D  = !INV, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
+D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
 2N = !TRF INV+, 5+!c
 3C = !TRF INV+, 5+!d
 3D = !TRF INV+, 5+!h
