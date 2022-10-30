@@ -700,40 +700,143 @@ bidding.  The only difference is that opener accepts transfer with a minimum
 
 *** After 1!c-1!d
 
+1C-1D-(D)-
+R  = 20+ HCP
+1H = 4+!h, 12--20 HCP
+1S = 4+!s, 12--20 HCP
+1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18--20 HCP
+2C = 5+!c, 15--20 HCP
+2D = 5+!d, 18--22 HCP
+2H = 5+!h, 18--22 HCP
+2S = 5+!s, 18--22 HCP
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 21--22 HCP
+3C = 6+!c, 20--22 HCP
+3D = 6+!d, 20--22 HCP
+
 1C-1D-(1H)-
 D  = T/O, 18--20 HCP or 4+!s 4+!c 15--17 HCP
 1S = 5+!s, 18--22 HCP
-1N = NAT, 18--20 HCP, likely stop in !h
-2C = 5+!c, 15--22 HCP
+1N = 18--20 HCP, likely stop in !h
+2C = 5+!c, 15--20 HCP
 2D = 5+!d, 18--22 HCP
 2H = STR F, 20+ HCP
 2S = 7+!s, 18--22 HCP
-2N = NAT, 21--22 HCP, likely stop in !h
+2N = 21--22 HCP, likely stop in !h
 3C = 6+!c, 20--22 HCP
 3D = 6+!d, 20--22 HCP
 
 1C-1D-(1S)-
 D  = T/O, 18--20 HCP or 4+!h 4+!c 15--17 HCP
-1N = NAT, 18--20 HCP, likely stop in !s
-2C = 5+!c, 15--22 HCP
+1N = 18--20 HCP, likely stop in !s
+2C = 5+!c, 15--20 HCP
 2D = 5+!d, 18--22 HCP
 2H = 5+!h, 18--22 HCP
 2S = STR F, 20+ HCP
-2N = NAT, 21--22 HCP, likely stop in !s
+2N = 21--22 HCP, likely stop in !s
 3C = 6+!c, 20--22 HCP
 3D = 6+!d, 20--22 HCP
 
 *** After 1!c-1M
 
+1C-1H-(D)-
+R  = SUPP, 3+!h
+1S = F, 4+!s
+1N = BAL 2!h, 12--14 HCP
+2C = 5+!c, 0--3!s, 0--3!h, 15--17 HCP
+2D = 5+!d, 18+ HCP
+2H = 4!h, 12--14 HCP
+2S = 6+!s, 18+ HCP
+2N = 2--3!s, 1--2!h, 3--4!d, 4--5!c, 18+ HCP
+3C = 6+!c, 18+ HCP
+3D = 7+!d, 18+ HCP
+3H = 4+!h, 4+!c, 15--17 HCP
+
 1C-1H-(1S)-
 D  = SUPP, 3+!h
-1N = NAT, 12--14 HCP, likely stop in !s
+1N = BAL 2!h, 12--14 HCP, likely stop in !s
 2C = 5+!c, 0--2!h, 15--17 HCP
-2D = FG, 5+!d, 18+ HCP
-2H = 4+!h, 12--14 HCP
-2S = FG, 0--2!h, 18+ HCP
-2N = INV, 15--16 HCP, likely stop in !s
-3C = FG, 6+!c, 18+ HCP
-3D = FG, 7+!d, 18+ HCP
-3H = INV, 4+!h, 15--17 HCP
-3N = NAT, 17--20 HCP, likely stop in !s
+2D = 5+!d, 18+ HCP
+2H = 4!h, 12--14 HCP
+2S = 0--2!h, 18+ HCP
+2N = 18+ HCP, likely stop in !s
+3C = 6+!c, 18+ HCP
+3D = 7+!d, 18+ HCP
+3H = 4+!h, 4+!c, 15--17 HCP
+
+1C-1H-(1N)-
+D  = SUPP, 3+!h
+2C = 5+!c, 0--3!h, 15--17 HCP
+2D = 5+!d, 18+ HCP
+2H = 4!h, 12--14 HCP
+2S = 6+!s, 18+ HCP
+2N = 2--3!s, 1--2!h, 3--4!d, 4--5!c, 18+ HCP
+3C = 6+!c, 18+ HCP
+3D = 7+!d, 18+ HCP
+3H = 4+!h, 4+!c, 15--17 HCP
+
+1C-1H-(2C)-
+D  = SUPP, 3+!h
+2D = 5+!d, 18+ HCP
+2H = 4!h, 12--14 HCP
+2S = 5+!s, 18+ HCP
+2N = 18+ HCP, likely stop in !c
+3C = FG, 0--2!h, 18+ HCP
+3D = 7+!d, 18+ HCP
+3H = 4+!h, 4+!c, 15--17 HCP
+
+1C-1H-(2D)-
+D  = SUPP, 3+!h
+2H = 4!h, 12--14 HCP
+2S = 5+!s, 18+ HCP
+2N = 18+ HCP, likely stop in !d
+3C = 5+!c, 15--17 HCP
+3D = FG, 0--2!h, 18+ HCP
+3H = 4+!h, 4+!c, 15--17 HCP
+
+1C-1H-(2S)-
+D  = INV+ SUPP, 3+!h, 15+ HCP
+2N = 18+ HCP, likely stop in !s
+3C = 5+!c, 15--17 HCP
+3D = 5+!d, 18+ HCP
+3H = 4+!h, 12--14 HCP
+3S = FG, 0--2!h, 18+ HCP
+
+1C-1S-(D)-
+R  = SUPP, 3+!s
+1N = BAL 2!s, 12--14 HCP
+2C = 5+!c, 0--3!s, 15--17 HCP
+2D = 5+!d or 0445, 18+ HCP
+2H = 5+!h, 18+ HCP
+2S = 4!s, 12--14 HCP
+2N = 1--2!s, 2--4!h, 2--4!d, 3--5!c, 18+ HCP
+3C = 6+!c, 18+ HCP
+3D = 6+!d, 18+ HCP
+3H = 7+!h, 18+ HCP
+3S = 4+!s, 4+!c, 15--17 HCP
+
+1C-1S-(1N)-
+D  = SUPP, 3+!s
+2C = 5+!c, 0--3!s, 15--17 HCP
+2D = 5+!d or 0445, 18+ HCP
+2H = 5+!h, 18+ HCP
+2S = 4!s, 12--14 HCP
+2N = 1--2!s, 2--4!h, 2--4!d, 3--5!c, 18+ HCP
+3C = 6+!c, 18+ HCP
+3D = 6+!d, 18+ HCP
+3H = 7+!h, 18+ HCP
+3S = 4+!s, 4+!c, 15--17 HCP
+
+1C-1S-(3C)-
+D  = 18+ HCP
+3D = 5+!h, 18+ HCP
+3H = 5+!h, 18+ HCP
+3N = 18+ HCP, likely stop in !c
+
+1C-1S-(3D)-
+D  = 18+ HCP
+3H = 5+!h, 18+ HCP
+3N = 18+ HCP, likely stop in !d
+
+1C-1S-(3H)-
+D  = 18+ HCP
+3N = 18+ HCP, likely stop in !h
