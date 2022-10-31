@@ -801,6 +801,19 @@ D  = INV+ SUPP, 3+!h, 15+ HCP
 3H = 4+!h, 12--14 HCP
 3S = FG, 0--2!h, 18+ HCP
 
+1C-1H-(3C)-
+D  = 18+ HCP
+3D = 5+!d, 18+ HCP
+3N = 18+ HCP, likely stop in !c
+
+1C-1H-(3D)-
+D  = 18+ HCP
+3N = 18+ HCP, likely stop in !d
+
+1C-1H-(3HS)-
+D  = 18+ HCP
+3N = 18+ HCP, likely stop in !s
+
 1C-1S-(D)-
 R  = SUPP, 3+!s
 1N = BAL 2!s, 12--14 HCP
@@ -826,9 +839,39 @@ D  = SUPP, 3+!s
 3H = 7+!h, 18+ HCP
 3S = 4+!s, 4+!c, 15--17 HCP
 
+1C-1S-(2C)-
+D  = SUPP, 3+!s
+2D = 5+!d, 18+ HCP
+2H = 5+!h, 18+ HCP
+2S = 4!s, 12--14 HCP
+2N = 18+ HCP, likely stop in !c
+3C = FG, 0--2!s, 18+ HCP
+3D = 7+!d, 18+ HCP
+3H = 7+!h, 18+ HCP
+3S = 4+!s, 4+!c, 15--17 HCP
+
+1C-1S-(2D)-
+D  = SUPP, 3+!s
+2H = 5+!h, 18+ HCP
+2S = 4!s, 12--14 HCP
+2N = 18+ HCP, likely stop in !d
+3C = 5+!c, 15--17 HCP
+3D = FG, 0--2!s, 18+ HCP
+3H = 7+!h, 18+ HCP
+3S = 4+!s, 4+!c, 15--17 HCP
+
+1C-1S-(2H)-
+D  = SUPP, 3+!s
+2S = 4!s, 12--14 HCP
+2N = 18+ HCP, likely stop in !h
+3C = 5+!c, 15--17 HCP
+3D = 5+!d, 18+ HCP
+3H = FG, 0--2!s, 18+ HCP
+3S = 4+!s, 4+!c, 15--17 HCP
+
 1C-1S-(3C)-
 D  = 18+ HCP
-3D = 5+!h, 18+ HCP
+3D = 5+!d, 18+ HCP
 3H = 5+!h, 18+ HCP
 3N = 18+ HCP, likely stop in !c
 
@@ -837,6 +880,42 @@ D  = 18+ HCP
 3H = 5+!h, 18+ HCP
 3N = 18+ HCP, likely stop in !d
 
-1C-1S-(3H)-
+1C-1S-(3HS)-
 D  = 18+ HCP
 3N = 18+ HCP, likely stop in !h
+
+We still play the support double over 1C-1M-(2M).  We think the support double
+is superior to unusual vs. unusual.
+
+1C-1H-(2H)-
+D  = INV+ SUPP, 3+!h, 15+ HCP
+2S = FG, 0--2!h, 18+ HCP
+2N = 18+ HCP, likely stop in !s
+3C = 5+!c, 15--17 HCP
+3D = 5+!d, 18+ HCP
+3H = 4!h, 12--14 HCP
+
+1C-1S-(2S)-
+D  = INV+ SUPP, 3+!s, 15+ HCP
+2N = 18+ HCP, likely stop in !h
+3C = 5+!c, 15--17 HCP
+3D = 5+!d, 18+ HCP
+3H = FG, 0--2!s, 18+ HCP
+3S = 4!s, 12--14 HCP
+
+It is another story over 1C-1M-(2NT).  We have no chance to stop at 2NT after a
+double.
+
+1C-1H-(2N)-
+D  = PEN, 15+ HCP
+3C = INV, 4+!h, 15--17 HCP
+3D = FG, 3+!h, 18+ HCP
+3H = 4!h, 12--14 HCP
+3S = 5+!s, 18+ HCP
+
+1C-1S-(2N)-
+D  = PEN, 15+ HCP
+3C = INV, 4+!s, 15--17 HCP
+3D = FG, 3+!s, 18+ HCP
+3H = 5+!h, 18+ HCP
+3S = 4!s, 12--14 HCP
