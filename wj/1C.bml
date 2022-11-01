@@ -736,6 +736,63 @@ D  = T/O, 18--20 HCP or 4+!h 4+!c 15--17 HCP
 3C = 6+!c, 20--22 HCP
 3D = 6+!d, 20--22 HCP
 
+1C-1D-(1N)-
+D  = PEN, 18+ HCP
+2C = 4+!c, 15+ HCP
+2D = 5+!d, 18+ HCP
+2H = 5+!h, 18+ HCP
+2S = 5+!s, 18+ HCP
+
+1C-1D-(2C)-
+D  = OPT, 15+ HCP
+2D = 5+!d, 18--22 HCP
+2H = 5+!h, 18--22 HCP
+2S = 5+!s, 18--22 HCP
+2N = 21--22 HCP, likely stop in !c
+3C = FG, 23+ HCP or 24+ points
+3D = 7+!d, 18--20 HCP
+3H = 7+!h, 18--20 HCP
+3S = 7+!s, 18--20 HCP
+3N = 33(43), 23--25 HCP, likely stop in !c
+
+1C-1D-(2D)-
+D  = OPT, 15+ HCP
+2H = 5+!h, 18--22 HCP
+2S = 5+!s, 18--22 HCP
+2N = 21--22 HCP, likely stop in !d
+3C = 6+!c, 18--22 HCP
+3D = FG, 23+ HCP or 24+ points
+3H = 7+!h, 18--20 HCP
+3S = 7+!s, 18--20 HCP
+3N = 33(43), 23--25 HCP, likely stop in !d
+
+1C-1D-(2H)-
+D  = OPT, 15+ HCP
+2S = 5+!s, 18--22 HCP
+2N = 21--22 HCP, likely stop in !h
+3C = 6+!c, 18--22 HCP
+3D = 6+!d, 18--22 HCP
+3H = FG, 23+ HCP or 24+ points
+3S = 7+!s, 18--20 HCP
+3N = 3(433), 23--25 HCP, likely stop in !h
+
+1C-1D-(2S)-
+D  = OPT, 15+ HCP
+2N = 21--22 HCP, likely stop in !s
+3C = 6+!c, 18--22 HCP
+3D = 6+!d, 18--22 HCP
+3H = 5+!h, 18--22 HCP
+3S = FG, 23+ HCP or 24+ points
+3N = 3!h(433), 23--25 HCP, likely stop in !s
+
+1C-1D-(2N)-
+D  = OPT, 15+ HCP
+3C = !F, 5+!h, 21+ HCP
+3D = !F, 5+!s, 21+ HCP
+3H = 5+!h, 18--20 HCP
+3S = 5+!s, 18--20 HCP
+3N = 33(43), 22--25 HCP, partial stop in each minor
+
 *** After 1!c-1M
 
 1C-1H-(D)-
@@ -903,8 +960,8 @@ D  = INV+ SUPP, 3+!s, 15+ HCP
 3H = FG, 0--2!s, 18+ HCP
 3S = 4!s, 12--14 HCP
 
-It is another story over 1C-1M-(2NT).  We have no chance to stop at 2NT after a
-double.
+It is another story over 1C-1M-(2NT).  We no longer have a chance to stop at
+2NT after a double.
 
 1C-1H-(2N)-
 D  = PEN, 15+ HCP
