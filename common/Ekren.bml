@@ -1,0 +1,28 @@
+* Ekren 2!d
+
+Unlike natural preempts, we have 2NT as a nonforcing natural invitation.  Since
+Ekren hands can be fairly balanced, 2NT can be the sweet spot on misfit.
+
+On the other hand, we have 3!c/!d as !h/!s invitations respectively.  We have
+an Ogust-like structure that also helps seeking a spade fit while showing just
+4 hearts.
+
+2D-
+2N = NF NAT INV
+3C = !INV+, 3+!h
+  3D = !MIN, 4!h
+  3H = !MIN, 5+!h
+  3S = !MAX, 5+!s, 4!h
+  3N = !MAX, 4!s, 4!h
+  4C = !SPL, 0--1!c, 5+!h
+  4D = !SPL, 0--1!d, 5+!h
+  4H = !MAX, 5+!h, 2+!d, 2+!c
+3D = !INV+, 3+!s
+  3H = !MIN, 4!s
+  3S = !MIN, 5+!s
+  3N = !MAX, 4!s
+  4C = !SPL, 0--1!c, 5+!s
+  4D = !SPL, 0--1!d, 5+!s
+  4S = !MAX, 5+!s, 2+!d, 2+!c
+3M = S/O
+3N = S/O

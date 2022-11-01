@@ -101,3 +101,4 @@ http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 
 #INCLUDE wj/1C.bml
 #INCLUDE common/STR-NT.bml
+#INCLUDE common/Ekren.bml
