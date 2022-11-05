@@ -7,14 +7,14 @@ shrinking its range to 11--14 HCP.
 The bidding structure over 2!c resembles competitive bidding.  The 2!d relay
 takes care of 4-card majors and game forcing long minors like a negative
 double.  The 2NT puppet works like Lebensohl; responder passes 3!c as a
-preemptive raise or bids again with game forcing non-!c 5-5 two suiter.  The
-rest are virtually negative free bids.
+preemptive raise or bids again with FG options.  The rest are virtually
+negative free bids.
 
 2C-
 2D = !STAY
 2H = !NF, 5+!h, 7--11 HCP
 2S = !NF, 5+!s, 7--11 HCP
-2N = !PUP, 4+!c 5--9 HCP or FG two suiter
+2N = !PUP, 4+!c 5--9 HCP or FG
 3C = !INV, 3+!c, 9--11 HCP
 3D = !INV, 6+!d, 9--11 HCP
 3H = !FG, 5+!h, 11+ HCP
@@ -44,6 +44,7 @@ rest are virtually negative free bids.
 
 2C-2N-3C-
 P  = 4+!c, 5--9 HCP
-3D = !FG, 5+!d, 5+!h
-3H = !FG, 5+!h, 5+!s
-3S = !FG, 5+!s, 5+!d
+3D = !Soloway jump shift, 5+!d
+3H = !Soloway jump shift, 5+!h
+3S = !Soloway jump shift, 5+!s
+3N = !Choice of games, 3+!c
