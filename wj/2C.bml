@@ -1,20 +1,33 @@
 ** Precision 2!c
 
+Polish Club borrows this opening from Precision since it fits a 5-card major
+forcing club system well.  We accommodate the Precision 2!c by slightly
+shrinking its range to 11--14 HCP.
+
+The bidding structure over 2!c resembles competitive bidding.  The 2!d relay
+takes care of 4-card majors and game forcing long minors like a negative
+double.  The 2NT puppet works like Lebensohl; responder passes 3!c as a
+preemptive raise or bids again with game forcing non-!c 5-5 two suiter.  The
+rest are virtually negative free bids.
+
 2C-
 2D = !STAY
 2H = !NF, 5+!h, 7--11 HCP
 2S = !NF, 5+!s, 7--11 HCP
-2N = !PUP, 4+!c 5--9 HCP or FG 2-suiter
+2N = !PUP, 4+!c 5--9 HCP or FG two suiter
 3C = !INV, 3+!c, 9--11 HCP
 3D = !INV, 6+!d, 9--11 HCP
 3H = !FG, 5+!h, 11+ HCP
 3S = !FG, 5+!s, 11+ HCP
+3N = S/O, 12--17 HCP
+4D = !RKCB
+4N = QUANT INV to 6NT
 
 2C-2D-
 2H = 4+!h
 2S = 4+!s
 2N = (322)6
-3C = 6+!c
+3C = 6+!c, 0--3!s, 0--3!h
 
 2C-2H-
 2S = NF, 4+!s, 0--1!h
