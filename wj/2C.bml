@@ -25,14 +25,10 @@ https://bridgewinners.com/article/view/opening-precision-2c/
 3H = !FG, 5+!h, 11+ HCP
 3S = !FG, 5+!s, 11+ HCP
 3N = S/O, 12--17 HCP
+4C = S/T, 5+!c
 4D = !RKCB
+4M = S/O, 7+#
 4N = QUANT INV to 6NT
-
-2C-2D-
-2H = 4+!h
-2S = 4+!s
-2N = (322)6
-3C = 6+!c, 0--3!s, 0--3!h
 
 2C-2H-
 2S = NF, 4+!s, 0--1!h
@@ -53,3 +49,58 @@ P  = 4+!c, 5--9 HCP
 3H = !Soloway jump shift, 5+!h
 3S = !Soloway jump shift, 5+!s
 3N = !Choice of games, 3+!c
+4C = !S/T, 2--3!s, 2--3!h, 3--4!d, 3--4!c
+4D = !Exclusion RKCB, 0!d
+4H = !Exclusion RKCB, 0!h
+4S = !Exclusion RKCB, 0!s
+
+*** "Stayman" 2!d
+
+This relay helps us find a 4-4 major fit, so we classify it as a Stayman.
+Stayman also works better than a direct 3M when we have 4+ cards in each major.
+
+The more clubs we have, the fewer points we need to bid this 2!d.  In other
+words, we bid 2!d only if we can tolerate 3!c or force to game.
+
+- *Constructive* = a 4-card major and a 9-card club fit
+- *Invitational* = a 4-card major and a club fit or (54)+ in majors
+- *Forcing to game* = any 4-card major or 5+!d
+
+2C-2D-
+2H = 4+!h
+  2S = INV+, 5+!s, 4+!h
+  2N = !TRF, 3+!c, 0--3!h
+  3C = INV, 3+!c, 0--3!h
+  3D = FG, 5+!d, 0--3!h
+  3H = INV, 4!h
+  3S = !S/T, 4+!h
+2S = 4+!s
+  2N = !TRF, 3+!c, 0--3!s
+  3C = INV, 3+!c, 0--3!s
+  3D = FG, 5+!d, 0--3!s
+  3H = !S/T, 4+!s
+  3S = INV, 4!s
+2N = MAX, 6+!c, 0--3!s, 0--3!h
+  3C = S/O, 3+!c
+  3D = FG, 5+!d
+  3H = FG, 5+!h
+  3S = FG, 5+!s
+3C = MIN, 6+!c, 0--3!s, 0--3!h
+  3D = FG, 5+!d
+  3H = FG, 5+!h
+  3S = FG, 5+!s
+3D = 5+!d, 6+!c
+3H = MAX, 5+!h, 6+!c
+3S = MAX, 5+!s, 6+!c
+
+2C-2D-2H-2N-3C-
+3D = !SPL, 0--1!d, 4+!s, 3+!c
+3H = !SPL, 0--1!h, 4+!s, 3+!c
+3S = !S/T, 4+!s, 3+!c
+3N = !Choice of games, 4+!s, 3+!c
+
+2C-2D-2S-2N-3C-
+3D = !SPL, 0--1!d, 4+!h, 3+!c
+3H = !S/T, 4+!h, 3+!c
+3S = !SPL, 0--1!s, 4+!h, 3+!c
+3N = !Choice of games, 4+!h, 3+!c
