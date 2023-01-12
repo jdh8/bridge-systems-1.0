@@ -244,18 +244,6 @@ support.
 4D = !SPL, 0--1!d, 6+!s
 4H = !SPL, 0--1!h, 6+!s
 
-*** Checkback Stayman
-
-1C-1S-1N-2C-
-2D = 2!s, 12--13 HCP
-2H = 4!h
-  2S = 0--3!h, 9--10 HCP
-  2N = 0--3!h, 11 HCP
-2S = 3!s, 12--13 points
-2N = 2!s, 14 HCP
-3H = 4!h 3!s, 14--15 points
-3S = 3!s, 14--15 points
-
 *** Odwrotka (Bubrotka)
 
 Bubrotka is a set of conventional responses by Stanisława "Bubu" Gołę
@@ -357,6 +345,28 @@ XYZ is off by a passed hand because game-forcing options become impossible.
 3H = INV, 6+!h
 
 #SEAT 0
+
+*** Checkback Stayman
+
+The traditional approach works better over a weak notrump rebid than XYZ.
+Since opener is limited and balanced, responder can invite with a
+distributional hand of as few as 9 HCP.
+
+1C-1H-1N-2C-
+2D = 2!h, 12--13 HCP
+2H = MIN 3!h
+2N = 2!h, 14 HCP
+3H = MAX 3!h
+
+1C-1S-1N-2C-
+2D = 2!s, 12--13 HCP
+2H = 4!h
+  2S = 0--3!h, 9--10 HCP
+  2N = 0--3!h, 11 HCP
+2S = MIN 3!s
+2N = 2!s, 14 HCP
+3H = MAX 34xx
+3S = MAX 3!s
 
 ** Balanced positive responses
 
