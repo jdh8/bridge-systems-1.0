@@ -1,9 +1,10 @@
 Chen-Pang He (jdh8)'s bridge bidding systems
 ============================================
-This repository contains my bidding systems.  These documents are in Gert-Jan
-Paulissen's fork of the Bridge Bidding Markup Language (BML).
+This repository contains my bidding systems.  These documents are in the Bridge
+Bidding Markup Language (BML).  Please use [my fork][fork] for now until
+gpaulissen/bml#21 gets fixes.
 
-https://github.com/gpaulissen/bml
+[fork]: https://github.com/jdh8/bml
 
 Systems with a partner
 ----------------------
@@ -22,7 +23,8 @@ Building HTML and BSS files
 First, install the BML converters.
 
 ```sh
-pip install bridge-markup --upgrade
+git clone https://github.com/jdh8/bml.git
+pip install .
 ```
 
 Then, `make` whenever you want to generate or update files.

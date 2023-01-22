@@ -6,12 +6,7 @@
 
 * Introduction
 
-Welcome to Chen-Pang He (jdh8)'s experimental Polish Club!  This
-document is written in Gert-Jan Paulissen's fork of the Bridge Bidding Markup
-Language (BML).
-
-https://github.com/gpaulissen/bml
-
+Welcome to Chen-Pang He (jdh8)'s experimental Polish Club!
 We use the distribution syntax and abbreviations provided by WBF.
 
 http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
@@ -27,6 +22,7 @@ Larsson and my improvisation.
 
 Notable conventions we use:
 
+- Checkback Stayman
 - Negative free bids (from 2!c to 3!d)
 - Transfer Walsh over 1m-(1red)
 - Redwood (Kickback RKCB only for minors)
