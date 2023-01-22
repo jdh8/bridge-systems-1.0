@@ -6,16 +6,16 @@ gpaulissen/bml#21 gets fixes.
 
 [fork]: https://github.com/jdh8/bml
 
-Systems with a partner
-----------------------
-- [TpKotoba](https://jdh8.github.io/bridge-systems/TpKotoba.htm), based on Blue Club
-
 My experimental systems
 -----------------------
 All of my pet bidding systems are 2/1.  Weak twos show wild 5+ cards.
 
 - [Polish Club](https://jdh8.github.io/bridge-systems/wj.htm)
 - [Precision](https://jdh8.github.io/bridge-systems/precision.htm)
+
+Systems with a partner
+----------------------
+- [TpKotoba](https://jdh8.github.io/bridge-systems/TpKotoba.htm), based on Blue Club
 
 Building HTML and BSS files
 ---------------------------
