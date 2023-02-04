@@ -19,13 +19,11 @@ https://bridgewinners.com/article/view/opening-precision-2c/
 2D = !STAY
 2H = !NF, 5+!h, 7--11 HCP
 2S = !NF, 5+!s, 7--11 HCP
-2N = !PUP, 4+!c 5--9 HCP or FG
+2N = !PUP, 3+!c
 3C = !INV, 3+!c, 9--11 HCP
-3D = !INV, 6+!d, 9--11 HCP
-3H = !FG, 5+!h, 11+ HCP
-3S = !FG, 5+!s, 11+ HCP
+3X = !INV, 6+#, 9--11 HCP
 3N = S/O, 12--17 HCP
-4C = S/T, 5+!c
+4C = S/T, 3+!c, OPT Minorwood
 4D = !RKCB
 4M = S/O, 7+#
 4N = QUANT INV to 6NT
@@ -44,12 +42,12 @@ https://bridgewinners.com/article/view/opening-precision-2c/
 4S = S/O, 3+!s
 
 2C-2N-3C-
-P  = 4+!c, 5--9 HCP
-3D = !Soloway jump shift, 5+!d
-3H = !Soloway jump shift, 5+!h
-3S = !Soloway jump shift, 5+!s
-3N = !Choice of games, 3+!c
-4C = !S/T, 2--3!s, 2--3!h, 3--4!d, 3--4!c
+P  = PRE, 4+!c
+3D = FG, 5+!d
+3H = FG, 5+!h
+3S = FG, 5+!s
+3N = Choice of games, 3+!c
+4C = S/T, 3+!c, OPT Minorwood
 4D = !Exclusion RKCB, 0!d
 4H = !Exclusion RKCB, 0!h
 4S = !Exclusion RKCB, 0!s
@@ -64,43 +62,18 @@ words, we bid 2!d only if we can tolerate 3!c or force to game.
 
 - *Constructive* = a 4-card major and a 9-card club fit
 - *Invitational* = a 4-card major and a club fit or (54)+ in majors
-- *Forcing to game* = any 4-card major or 5+!d
+- *Forcing to game* = any
 
 2C-2D-
 2H = 4+!h
-  2S = F2NT, 5+!s, 4+!h
-  2N = !TRF, 3+!c, 0--3!h
-  3C = INV, 3+!c, 0--3!h
-  3D = FG, 5+!d, 0--3!h
-  3H = INV, 4!h
-  3S = !S/T, 4+!h
+  2S = FG (R)
 2S = 4+!s
-  2N = !TRF, 3+!c, 0--3!s
-  3C = INV, 3+!c, 0--3!s
-  3D = FG, 5+!d, 0--3!s
-  3H = !S/T, 4+!s
-  3S = INV, 4!s
+  2N = FG (R)
 2N = MAX, 6+!c, 0--3!s, 0--3!h
   3C = S/O, 3+!c
-  3D = FG, 5+!d
-  3H = FG, 5+!h
-  3S = FG, 5+!s
+  3D = FG (R)
 3C = MIN, 6+!c, 0--3!s, 0--3!h
-  3D = FG, 5+!d
-  3H = FG, 5+!h
-  3S = FG, 5+!s
-3D = 5+!d, 6+!c
-3H = MAX, 5+!h, 6+!c
-3S = MAX, 5+!s, 6+!c
-
-2C-2D-2H-2N-3C-
-3D = !SPL, 0--1!d, 4+!s, 3+!c
-3H = !SPL, 0--1!h, 4+!s, 3+!c
-3S = !S/T, 4+!s, 3+!c
-3N = !Choice of games, 4+!s, 3+!c
-
-2C-2D-2S-2N-3C-
-3D = !SPL, 0--1!d, 4+!h, 3+!c
-3H = !S/T, 4+!h, 3+!c
-3S = !SPL, 0--1!s, 4+!h, 3+!c
-3N = !Choice of games, 4+!h, 3+!c
+  3D = FG (R)
+3D = MAX, 4+!d, 6+!c
+3H = MAX, 4+!h, 6+!c
+3S = MAX, 4+!s, 6+!c
