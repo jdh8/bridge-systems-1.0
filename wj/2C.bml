@@ -66,7 +66,8 @@ words, we bid 2!d only if we can tolerate 3!c or force to game.
 
 2C-2D-
 2H = 4+!h
-  2S = FG (R)
+  2S = INV, 5+!s, 4+!h
+  2N = FG (R)
 2S = 4+!s
   2N = FG (R)
 2N = MAX, 6+!c, 0--3!s, 0--3!h
@@ -77,3 +78,16 @@ words, we bid 2!d only if we can tolerate 3!c or force to game.
 3D = MAX, 4+!d, 6+!c
 3H = MAX, 4+!h, 6+!c
 3S = MAX, 4+!s, 6+!c
+
+2C-2D-2H-2N-
+3C = 6+!c
+3D = 3+!d
+3H = ! 3!s
+3S = 4+!s
+3N = 2425
+
+2C-2D-2S-2N-
+3C = 6+!c
+3D = 3+!d
+3H = 3+!h
+3N = 4225
