@@ -1,0 +1,91 @@
+* Over natural (1X)
+
+(1Y)-
+D  = T/O 11+ HCP or any 17+ HCP
+1Z = 5+#, 10--17 HCP
+1N = 15--17 HCP w/ likely stop
+2X = 5+#, 12--17 HCP
+2Z = 5+#, 4--10 HCP
+2N = !UNT, 55+ in lowest two unbid suits, 10--15 HCP
+3X = 7+#, 5--9 HCP
+3Y = !Gambling, SOL 7+m, at most partial stop
+3Z = 7+#, 5--9 HCP
+3N = !Gambling, SOL 7+m w/ likely stop
+
+(1m)-
+2m = !Michaels, 5+!s, 5+!h, 8.5--6.0 NLTC
+
+(1H)-
+2H = !Michaels, 5+!s, 5+m, 10--15 HCP
+
+(1S)-
+2S = !Michaels, 5+!h, 5+m, 10--15 HCP
+
+Due to insufficient strength, 1NT by passed hand becomes unusual.
+
+#SEAT 4
+
+(1X)-
+1N = !UNT, 55+ in lowest two unbid suits
+
+#SEAT 0
+
+** Balancing overcall
+
+(1Y)-P-
+D  = T/O 9+ HCP or any 13+ HCP
+1Z = 4+#, 8--12 HCP
+2X = 5+#, 8--12 HCP
+2Z = 6+#, 8--12 HCP
+
+(1m)-
+2m = !Michaels, 5+!s, 5+!h, 9.0--7.5 NLTC
+
+(1H)-
+2H = !Michaels, 5+!s, 5+m, 8--12 HCP
+
+(1S)-
+2S = !Michaels, 5+!h, 5+m, 8--12 HCP
+
+*** Notrump overcalls
+
+#SEAT 1
+
+(1X)-P-
+1N = 13--15 HCP w/ stop
+2N = 19--21 HCP w/ stop
+
+#SEAT 0
+
+Like a direct overcall, 1NT by passed hand is unusual.
+
+(1X)-P-
+1N = !UNT, 55+ in lowest two unbid suits
+
+** After (1X)-1NT
+
+(1X)-1N-
+2N = NAT INV
+3N = S/O
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4N = QUANT INV to 6NT
+5N = QUANT INV to 7NT
+
+(1m)-1N-
+2C = !STAY, may be Garbage
+2D = !TRF, 5+!h
+2H = !TRF, 5+!s
+2S = !TRF, 5+om
+
+(1H)-1N-
+2C = !TRF, 5+!d
+2D = !STAY, INV+ 4!s
+2H = !TRF, 5+!s
+2S = !TRF, 6+!c
+
+(1S)-1N-
+2C = !TRF, 5+!d
+2D = !TRF, 5+!h
+2H = !STAY, INV+ 4!h
+2S = !TRF, 6+!c

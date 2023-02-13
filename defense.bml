@@ -1,0 +1,17 @@
+#+TITLE: Defensive bidding
+
+#+AUTHOR: Chen-Pang He (jdh8)
+
+#+DESCRIPTION: My pet defensive bidding system
+
+* Introduction
+
+Welcome to Chen-Pang He (jdh8)'s experimental defensive bidding system!
+We use the distribution syntax and abbreviations provided by WBF.
+
+http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
+
+This bidding system is based on /Good, Better, Best/ by Jan Eric Larsson and my
+improvisation.
+
+#INCLUDE defense/1X.bml

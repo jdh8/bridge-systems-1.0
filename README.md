@@ -13,6 +13,11 @@ All of my pet bidding systems are 2/1.  Weak twos show wild 5+ cards.
 - [Polish Club](https://jdh8.github.io/bridge-systems/wj.htm)
 - [Precision](https://jdh8.github.io/bridge-systems/precision.htm)
 
+There is also my [defensive bidding system][defense].  Defense depends more on
+opponents' bidding system than on ours.
+
+[defense]: https://jdh8.github.io/bridge-systems/defense.htm
+
 Systems with a partner
 ----------------------
 - [TpKotoba](https://jdh8.github.io/bridge-systems/TpKotoba.htm), based on Blue Club
