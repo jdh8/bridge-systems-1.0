@@ -67,8 +67,6 @@ Like a direct overcall, 1NT by passed hand is unusual.
 (1X)-1N-
 2N = NAT INV
 3N = S/O
-4D = !Texas TRF, 6+!h
-4H = !Texas TRF, 6+!s
 4N = QUANT INV to 6NT
 5N = QUANT INV to 7NT
 
@@ -77,15 +75,26 @@ Like a direct overcall, 1NT by passed hand is unusual.
 2D = !TRF, 5+!h
 2H = !TRF, 5+!s
 2S = !TRF, 5+om
+3m = !FG, 5+!s, 5+!h
+3om = !FG, 5+#, 5+M
+3M = FG, 6+#
 
 (1H)-1N-
 2C = !TRF, 5+!d
 2D = !STAY, INV+ 4!s
 2H = !TRF, 5+!s
 2S = !TRF, 6+!c
+3C = !FG, 5+!c, 5+!s
+3D = !FG, 5+!d, 5+!s
+3H = !FG, 5+!d, 5+!c
+3S = FG, 6+!s
 
 (1S)-1N-
 2C = !TRF, 5+!d
 2D = !TRF, 5+!h
 2H = !STAY, INV+ 4!h
 2S = !TRF, 6+!c
+3C = !FG, 5+!c, 5+!h
+3D = !FG, 5+!d, 5+!h
+3H = FG, 6+!h
+3S = !FG, 5+!d, 5+!c
