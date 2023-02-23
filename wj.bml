@@ -29,6 +29,8 @@ Notable conventions we use:
 
 ** System references
 
+- Krzysztof Jassem & Tomek Brus.  Polish Club 2020: Expert.  ISBN 978-1771402248
+- Krzysztof Jassem & Tomek Brus.  Polish Club 2020: Standard.  ISBN 978-1771402231
 - Krzysztof Jassem.
   [Wspólny Język 2020 Standard](https://jassem.pl/wp-content/uploads/2019/12/wj2020-25-59.pdf)
 - Piotr Cegielski.
@@ -47,9 +49,9 @@ Notable conventions we use:
 1H = 5+!h, 11--17 HCP
 1S = 5+!s, 11--17 HCP
 1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
-2C = !NAT, 5+!c, 11--14 HCP
-2D = !PRE, 4+!s, 4+!h, 4--10 HCP
-2M = PRE, 5+#, 4--10 HCP
+2C = !PRE, 4+!s, 4+!h, 4--10 HCP
+2D = !PRE, 6+M, 4--10 HCP
+2M = PRE, 5#, 4--10 HCP
 2N = !UNT, 5+!d, 5+!c, 4--10 HCP
 3X = PRE, 7+#, 4--10 HCP
 3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
@@ -58,34 +60,11 @@ Notable conventions we use:
 4M = PRE, good 7+#
 4N = !UNT, 6+!d, 6+!c, 11--15 HCP
 
-The Polish 1!c opening has 3 options:
-
-- *12--14 HCP*: 2--4!s, 2--4!h, 1--3!d, 2--5!c
-- *15--17 HCP*: 4+!c
-- *18+ HCP*: any
-
-The 2!c opening is /Precision/, 6+ clubs or just 5 clubs and a 4-card major.
-With 4 diamonds and 5 clubs we open 1!d as in Precision.
-
-Note that 1NT and 2!c are more descriptive than 1!c.  If a hand fits 1NT or 2!c,
-do not open 1!c.
-
 With a strong hand led by diamonds, we open 1!d if it may be hard to rebid
 after 1!c.  These hands fit all of the following requirements:
 
 - 5+!d, 0--3!s, 0--3!h, 0--4!c, 18--19 HCP
 - 6+!d or any singleton or void
-
-** Legal issue of the 2!d preempt
-
-If you cannot show both majors via 2!d, revert to a natural weak 2!d.
-
-2D = PRE, 5+!d, 4--10 HCP
-
-As per ACBL, artificial preempts are only allowed in the Open+ Chart.  Check
-your local regulations to see if you can use the Ekren 2!d.
-
-http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 
 ** The notrump ladder
 
@@ -98,4 +77,3 @@ http://web2.acbl.org/documentLibrary/about/convention-charts.pdf
 #INCLUDE wj/1C.bml
 #INCLUDE common/STR-NT.bml
 #INCLUDE wj/2C.bml
-#INCLUDE common/Ekren.bml

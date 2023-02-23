@@ -1,93 +1,29 @@
-** Precision 2!c
+* Ekren 2!c
 
-Polish Club borrows this opening from Precision since it fits a 5-card major
-forcing club system well.  We accommodate the Precision 2!c by slightly
-shrinking its range to 11--14 HCP.
+Ekren is an artificial preempt showing 4+ cards in each major.  This preempt is
+not only frequent (5--6%) but also frees major preempts from the other major.
+Ekren is slightly less frequent than a wild 5-card natural preempt (6--7%) but
+much more frequent than a traditional 6-card preempt (2.2--2.7%).
 
-The bidding structure over 2!c resembles competitive bidding.  The 2!d relay
-takes care of 4-card majors and game forcing long minors like a negative
-double.  The 2NT puppet works like Lebensohl; responder passes 3!c as a
-preemptive raise or bids again with FG options.  The rest are virtually
-negative free bids.
+Ekren is originally at 2!d.  We move it to 2!c to fill in the removed
+/Precision/ and leave space for Multi.
 
-We do not use 2NT as a balanced invitation in this system according to an
-analysis on the Precision 2!c.
-
-https://bridgewinners.com/article/view/opening-precision-2c/
+Unlike natural preempts, we have 2NT as a nonforcing natural invitation.  Since
+Ekren hands can be fairly balanced, 2NT can be the sweet spot on misfit.
 
 2C-
-2D = !STAY
-2H = !NF, 5+!h, 7--11 HCP
-2S = !NF, 5+!s, 7--11 HCP
-2N = !PUP, 3+!c
-3C = !INV, 3+!c, 9--11 HCP
-3X = !INV, 6+#, 9--11 HCP
-3N = S/O, 12--17 HCP
-4C = S/T, 3+!c, OPT Minorwood
-4D = !RKCB
-4M = S/O, 7+#
-4N = QUANT INV to 6NT
-
-2C-2H-
-2S = NF, 4+!s, 0--1!h
-2N = MAX, 1--3!s, 0--2!h, 1+!d, likely stop in !s and !d
-3C = NF, 6+!c, 0--1!h
-3H = INV, 3+!h
-4H = S/O, 3+!h
-
-2C-2S-
-2N = MAX, 0--2!s, 1--3!h, 1+!d, likely stop in !h and !d
-3C = NF, 6+!c, 0--1!h
-3S = INV, 3+!s
-4S = S/O, 3+!s
-
-2C-2N-3C-
-P  = PRE, 4+!c
-3D = FG, 5+!d
-3H = FG, 5+!h
-3S = FG, 5+!s
-3N = Choice of games, 3+!c
-4C = S/T, 3+!c, OPT Minorwood
-4D = !Exclusion RKCB, 0!d
-4H = !Exclusion RKCB, 0!h
-4S = !Exclusion RKCB, 0!s
-
-*** "Stayman" 2!d
-
-This relay helps us find a 4-4 major fit, so we classify it as a Stayman.
-Stayman also works better than a direct 3M when we have 4+ cards in each major.
-
-The more clubs we have, the fewer points we need to bid this 2!d.  In other
-words, we bid 2!d only if we can tolerate 3!c or force to game.
-
-- *Constructive* = a 4-card major and a 9-card club fit
-- *Invitational* = a 4-card major and a club fit or (54)+ in majors
-- *Forcing to game* = any
-
-2C-2D-
-2H = 4+!h
-  2S = INV, 5+!s, 4+!h
-  2N = FG (R)
-2S = 4+!s
-  2N = FG (R)
-2N = MAX, 6+!c, 0--3!s, 0--3!h
-  3C = S/O, 3+!c
-  3D = FG (R)
-3C = MIN, 6+!c, 0--3!s, 0--3!h
-  3D = FG (R)
-3D = MAX, 4+!d, 6+!c
-3H = MAX, 4+!h, 6+!c
-3S = MAX, 4+!s, 6+!c
-
-2C-2D-2H-2N-
-3C = 6+!c
-3D = 3+!d
-3H = ! 3!s
-3S = 4+!s
-3N = 2425
-
-2C-2D-2S-2N-
-3C = 6+!c
-3D = 3+!d
-3H = 3+!h
-3N = 4225
+2D = !(R)
+  2H = MIN
+  2S = MIN, 5+!s
+  2N = !MAX, 5+!s, 5+!h
+  3C = !MAX, 44(xx)
+  3D = !MAX TRF, 5+!h
+  3H = !MAX TRF, 5+!s
+2M = S/O
+2N = !NF NAT
+3C = !FG (R)
+  3D = ! 44(xx)
+  3H = ! 5+!s
+  3S = ! 5+!h
+  3N = ! 5+!s, 5+!h
+3D = !NF NAT
