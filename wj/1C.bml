@@ -55,9 +55,6 @@ are two options in this relay.
 3S = !FRAG, 4!s, 0--1!h, 4--5!d, 4--5!c, 20--23 HCP
 3N = !FRAG, 0--1!s, 4!h, 4--5!d, 4--5!c, 20--23 HCP
 
-With the weak option, opener can only rebid a major.  Opener never rebids clubs
-even in competition.
-
 1C-1D-1H-
 1S = 4+!s, 4--6 HCP
 1N = 0--3!s, 0--3!h, 0--4!c, 5--7 HCP
@@ -181,7 +178,7 @@ support.
 1C-1H-
 1S = F, 4+!s
 1N = 2--3!s, 2--3!h, 2--3!d, 4--5!c, 12--14 HCP
-2C = 5+!c, 0--3!s, 0--3!h, 15--17 HCP
+2C = 5+!c, 0--3!s, 0--3!h, 12--17 HCP
 2D = !FG, 3+!h, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 6+!s, 18+ HCP
@@ -196,7 +193,7 @@ support.
 
 1C-1S-
 1N = 2--3!s, 2--4!h, 2--3!d, 3--5!c, 12--14 HCP
-2C = 5+!c, 0--3!s, 15--17 HCP
+2C = 5+!c, 0--3!s, 12--17 HCP
 2D = !FG, 3+!s, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
@@ -653,7 +650,7 @@ bidding.  The only difference is that opener accepts transfer with a minimum
 1H = BAL 3!h, 12--14 HCP
 1S = F, 4+!s
 1N = BAL 2!h, 12--14 HCP
-2C = 5+!c, 0--3!s, 0--3!h, 15--17 HCP
+2C = 5+!c, 0--3!s, 0--3!h, 12--17 HCP
 2D = !FG, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 6+!s, 18+ HCP
@@ -665,7 +662,7 @@ bidding.  The only difference is that opener accepts transfer with a minimum
 1C-(1D)-1H-
 1S = BAL 3!s, 12--14 HCP
 1N = BAL 2!s, 12--14 HCP
-2C = 5+!c, 0--3!s, 15--17 HCP
+2C = 5+!c, 0--3!s, 12--17 HCP
 2D = !FG, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
@@ -686,7 +683,7 @@ bidding.  The only difference is that opener accepts transfer with a minimum
 1C-(1H)-D-
 1S = BAL 3!s, 12--14 HCP
 1N = BAL 2!s, 12--14 HCP
-2C = 5+!c, 0--3!s, 15--17 HCP
+2C = 5+!c, 0--3!s, 12--17 HCP
 2D = 5+!d, 18+ HCP
 2H = !FG, 18+ HCP
 2S = 4!s, 12--14 HCP
@@ -711,7 +708,7 @@ R  = 20+ HCP
 1H = 4+!h, 12--20 HCP
 1S = 4+!s, 12--20 HCP
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18--20 HCP
-2C = 5+!c, 15--20 HCP
+2C = 5+!c, 12--19 HCP
 2D = 5+!d, 18--22 HCP
 2H = 5+!h, 18--22 HCP
 2S = 5+!s, 18--22 HCP
@@ -723,7 +720,7 @@ R  = 20+ HCP
 D  = T/O, 18--20 HCP or 4+!s 4+!c 15--17 HCP
 1S = 5+!s, 18--22 HCP
 1N = 18--20 HCP, likely stop in !h
-2C = 5+!c, 15--20 HCP
+2C = 5+!c, 12--19 HCP
 2D = 5+!d, 18--22 HCP
 2H = STR F, 20+ HCP
 2S = 7+!s, 18--22 HCP
@@ -734,7 +731,7 @@ D  = T/O, 18--20 HCP or 4+!s 4+!c 15--17 HCP
 1C-1D-(1S)-
 D  = T/O, 18--20 HCP or 4+!h 4+!c 15--17 HCP
 1N = 18--20 HCP, likely stop in !s
-2C = 5+!c, 15--20 HCP
+2C = 5+!c, 12--19 HCP
 2D = 5+!d, 18--22 HCP
 2H = 5+!h, 18--22 HCP
 2S = STR F, 20+ HCP
@@ -805,7 +802,7 @@ D  = OPT, 15+ HCP
 R  = SUPP, 3+!h
 1S = F, 4+!s
 1N = BAL 2!h, 12--14 HCP
-2C = 5+!c, 0--3!s, 0--3!h, 15--17 HCP
+2C = 5+!c, 0--3!s, 0--3!h, 12--17 HCP
 2D = 5+!d, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 6+!s, 18+ HCP
@@ -817,7 +814,7 @@ R  = SUPP, 3+!h
 1C-1H-(1S)-
 D  = SUPP, 3+!h
 1N = BAL 2!h, 12--14 HCP, likely stop in !s
-2C = 5+!c, 0--2!h, 15--17 HCP
+2C = 5+!c, 0--2!h, 12--17 HCP
 2D = 5+!d, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 0--2!h, 18+ HCP
@@ -828,7 +825,7 @@ D  = SUPP, 3+!h
 
 1C-1H-(1N)-
 D  = SUPP, 3+!h
-2C = 5+!c, 0--3!h, 15--17 HCP
+2C = 5+!c, 0--3!h, 12--17 HCP
 2D = 5+!d, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 6+!s, 18+ HCP
@@ -880,7 +877,7 @@ D  = 18+ HCP
 1C-1S-(D)-
 R  = SUPP, 3+!s
 1N = BAL 2!s, 12--14 HCP
-2C = 5+!c, 0--3!s, 15--17 HCP
+2C = 5+!c, 0--3!s, 12--17 HCP
 2D = 5+!d or 0445, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
@@ -892,7 +889,7 @@ R  = SUPP, 3+!s
 
 1C-1S-(1N)-
 D  = SUPP, 3+!s
-2C = 5+!c, 0--3!s, 15--17 HCP
+2C = 5+!c, 0--3!s, 12--17 HCP
 2D = 5+!d or 0445, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
