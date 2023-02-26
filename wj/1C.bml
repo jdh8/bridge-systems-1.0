@@ -236,6 +236,22 @@ support.
 4D = !SPL, 0--1!d, 6+!s
 4H = !SPL, 0--1!h, 6+!s
 
+1C-1H-2C-
+2D = !F INV+
+2H = 5+!h, 7--9 HCP
+2S = !INV, 3+!c
+2N = NAT INV
+3C = NF, 9--11 HCP
+3D = NF, 6+!d
+
+1C-1S-2C-
+2D = !F INV+
+2H = INV, 4+!h, 5+!s
+2S = 5+!s, 7--9 HCP
+2N = NAT INV
+3C = NF, 9--11 HCP
+3D = NF, 6+!d
+
 *** Odwrotka (Bubrotka)
 
 Bubrotka is a set of conventional responses by Stanisława "Bubu" Gołę
