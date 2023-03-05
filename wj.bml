@@ -15,22 +15,28 @@ The ACBL convention card of this system is at
 
 https://bridgewinners.com/convention-card/print/polish-club-jdh8/98013
 
-Polish Club is a 5-card major small club bidding system, where the 1C opening
+Polish Club is a 5-card major small club bidding system, where the 1!c opening
 is forcing but not necessarily strong.  This bidding system is largely based on
-Polish Club and 2/1.  Changes are made with /Good, Better, Best/ by Jan Eric
-Larsson and my improvisation.
+/Polish Club 2020: Expert./  Changes are made with /Good, Better, Best/ and my
+improvisation.
 
-Notable conventions we use:
+** Notable differences from /Polish Club 2020: Expert/
 
-- Checkback Stayman
-- Negative free bids (from 2!c to 3!d)
-- Transfer Walsh over 1m-(1red)
-- Kickback RKCB 0314
+- 2/1 FG: 1Y-2X are forcing to game
+- For consistency, 1X-2NT by unpassed hand are all FG raises.  Diamond raises
+  are standard, not inverted.
+- The 2M preempts contain balanced hands.  This treatment is proven useful in
+  /Good, Better, Best./
+- We use kickback and exclusion RKCB 1430 for all suits.  Uncovered by the book,
+  we also suggest using the non-serious 3NT, Optional Minorwood, and Last Train
+  in slam tries.
 
-** System references
+** References
 
-- Krzysztof Jassem & Tomek Brus.  Polish Club 2020: Expert.  ISBN 978-1771402248
-- Krzysztof Jassem & Tomek Brus.  Polish Club 2020: Standard.  ISBN 978-1771402231
+- Krzysztof Jassem & Tomek Brus.  /Polish Club 2020: Expert./  ISBN 978-1771402248
+- Krzysztof Jassem & Tomek Brus.  /Polish Club 2020: Standard./  ISBN 978-1771402231
+- Jan Eric Larsson.  /Good, Better, Best: A comparison of bridge bidding
+  systems and conventions by computer simulation./  ISBN 978-1771402415
 - Krzysztof Jassem.
   [Wspólny Język 2020 Standard](https://jassem.pl/wp-content/uploads/2019/12/wj2020-25-59.pdf)
 - Piotr Cegielski.
@@ -63,8 +69,9 @@ Notable conventions we use:
 With a strong hand led by diamonds, we open 1!d if it may be hard to rebid
 after 1!c.  These hands fit all of the following requirements:
 
-- 5+!d, 0--3!s, 0--3!h, 0--4!c, 18--19 HCP
-- 6+!d or any singleton or void
+- < 20 HCP
+- Diamonds is the only longest suit
+- 7+!d or any singleton or void
 
 ** The notrump ladder
 
