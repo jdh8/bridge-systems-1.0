@@ -8,29 +8,13 @@
 2C = !FG, 5+!c
 2D = !FG, 5+!d
 2H = !P/C, 4+!h, 5+!s, 7--9 HCP
-2S = !FG, 2--3!s, 2--3!h, 3--4!d, 3--4!c
-2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 10--11 HCP
+2S = !INV+, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 10+ HCP
+2N = !FG, 2--3!s, 2--3!h, 3--4!d, 3--4!c
 3C = !INV, 6+!c, 9--11 HCP
 3D = !INV, 6+!d, 9--11 HCP
 3M = !PRE, 7+#, 5--7 HCP
 3N = 33(43), 12--15 HCP
 4M = PRE, 8+#, 0--4 HCP
-
-#SEAT 34
-
-A passed hand cannot force to game.  We have a simpler structure for passed
-hand positives.
-
-1C-
-2C = INV, 5+!c, 0--3!s, 0--3!h
-2D = INV, 5+!d, 0--3!s, 0--3!h
-2H = INV, 5+!h, 0--3!s
-2S = INV, 5+!s, 0--3!h
-
-The unpassed 1!c-2!h is a subset of Ekren, so we reuse its passed counterpart
-as a natural invitation as well.
-
-#SEAT 0
 
 ** The 1!d relay
 
@@ -390,33 +374,21 @@ mostly natural.
 3S = 7+!s, 18+ HCP
 3N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
 
-1C-2N-
+1C-2S-
+2N = 12--13 HCP
 3C = 4+!c, 15+ HCP
 3D = 4+!d, 18+ HCP
 3H = 5+!h, 18+ HCP
 3S = 5+!s, 18+ HCP
 3N = 13--14 or 18--19 HCP
-4C = 6+!c, 18+ HCP
-4D = 6+!d, 18+ HCP
-4H = 7+!h, 18+ HCP
-4S = 7+!s, 18+ HCP
 
-#SEAT 12
-
-Over a game-forcing balancd 2!s, opener rebids 3NT to show the weak option.
-Opener has only two chunks of notrump hands by denying the 1NT opening.
-
-1C-2S-
-2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18+ HCP
-3C = 4+!c, 15+ HCP
+1C-2N-
+3C = 4+!c
 3D = 4+!d, 18+ HCP
 3H = 5+!h, 18+ HCP
 3S = 5+!s, 18+ HCP
 3N = 12--14 HCP
-4C = 6+!c, 18+ HCP
-4D = 6+!d, 18+ HCP
-4H = 7+!h, 18+ HCP
-4S = 7+!s, 18+ HCP
+4N = QUANT INV to 6NT, 18--19 HCP
 
 ** Game-forcing 2m responses
 
@@ -445,9 +417,9 @@ World calls "two temporizers and zero describers".
 3S = 4+!s, 4+!c, 15--17 HCP
 3N = 5+!c, 15--17 HCP
 
-** Unpassed 2!h response
+** The 2!h response
 
-An unpassed 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
+The 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
 
 1C-2H-
 2S = S/P S/O, 2+!s, 12--15 HCP
@@ -460,8 +432,6 @@ An unpassed 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
 4H = S/O, 4+!h, 18+ points
 4S = S/O, 3+!s, 18+ points
 4N = QUANT INV to 6NT
-
-#SEAT 0
 
 ** Proposed defense
 
