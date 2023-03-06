@@ -22,14 +22,27 @@ improvisation.
 
 ** Notable differences from /Polish Club 2020: Expert/
 
-- 2/1 FG: 1Y-2X are forcing to game
-- For consistency, 1X-2NT by unpassed hand are all FG raises.  Diamond raises
-  are standard, not inverted.
+*** Constructive auctions
+
+- We use natural 2/1.  1Y-2X are forcing to game.  1Y-3X are invitational jump
+  shifts.
+- For consistency, 1X-2NT by unpassed hand are all FG raises.
+- Diamond raises are standard, not inverted.
+- XYZ (two-way checkback) is only on after 1!c!d-1!h-1!s.  We use plain
+  checkback in the other cases.
+
+*** Preempts
+
 - The 2M preempts contain balanced hands.  This treatment is proven useful in
   /Good, Better, Best./
-- We use kickback and exclusion RKCB 1430 for all suits.  Uncovered by the book,
-  we also suggest using the non-serious 3NT, Optional Minorwood, and Last Train
-  in slam tries.
+- We modified continuations after the 2X preempts.
+- Namyats replaces natural 4m.
+
+*** Slam try
+
+- We use kickback and exclusion RKCB 1430 for all suits.
+- Uncovered by the book, we also suggest using the non-serious 3NT, Optional
+  Minorwood, and Last Train in slam tries.
 
 ** References
 
