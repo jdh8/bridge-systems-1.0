@@ -695,35 +695,35 @@ R  = 20+ HCP
 1S = 4+!s, 12--20 HCP
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18--20 HCP
 2C = 5+!c, 12--19 HCP
-2D = 5+!d, 18--22 HCP
-2H = 5+!h, 18--22 HCP
-2S = 5+!s, 18--22 HCP
-2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 21--22 HCP
-3C = 6+!c, 20--22 HCP
-3D = 6+!d, 20--22 HCP
+2D = 5+!d, 18--23 HCP
+2H = 5+!h, 18--23 HCP
+2S = 5+!s, 18--23 HCP
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 21--23 HCP
+3C = 6+!c, 20--23 HCP
+3D = 6+!d, 20--23 HCP
 
 1C-1D-(1H)-
 D  = T/O, 18--20 HCP or 4+!s 4+!c 15--17 HCP
-1S = 5+!s, 18--22 HCP
+1S = 5+!s, 18--23 HCP
 1N = 18--20 HCP, likely stop in !h
 2C = 5+!c, 12--19 HCP
-2D = 5+!d, 18--22 HCP
+2D = 5+!d, 18--23 HCP
 2H = STR F, 20+ HCP
-2S = 7+!s, 18--22 HCP
-2N = 21--22 HCP, likely stop in !h
-3C = 6+!c, 20--22 HCP
-3D = 6+!d, 20--22 HCP
+2S = 7+!s, 18--23 HCP
+2N = 21--23 HCP, likely stop in !h
+3C = 6+!c, 20--23 HCP
+3D = 6+!d, 20--23 HCP
 
 1C-1D-(1S)-
 D  = T/O, 18--20 HCP or 4+!h 4+!c 15--17 HCP
 1N = 18--20 HCP, likely stop in !s
 2C = 5+!c, 12--19 HCP
-2D = 5+!d, 18--22 HCP
-2H = 5+!h, 18--22 HCP
+2D = 5+!d, 18--23 HCP
+2H = 5+!h, 18--23 HCP
 2S = STR F, 20+ HCP
-2N = 21--22 HCP, likely stop in !s
-3C = 6+!c, 20--22 HCP
-3D = 6+!d, 20--22 HCP
+2N = 21--23 HCP, likely stop in !s
+3C = 6+!c, 20--23 HCP
+3D = 6+!d, 20--23 HCP
 
 1C-1D-(1N)-
 D  = PEN, 18+ HCP
@@ -734,45 +734,45 @@ D  = PEN, 18+ HCP
 
 1C-1D-(2C)-
 D  = OPT, 15+ HCP
-2D = 5+!d, 18--22 HCP
-2H = 5+!h, 18--22 HCP
-2S = 5+!s, 18--22 HCP
-2N = 21--22 HCP, likely stop in !c
-3C = FG, 23+ HCP or 24+ points
+2D = 5+!d, 18--23 HCP
+2H = 5+!h, 18--23 HCP
+2S = 5+!s, 18--23 HCP
+2N = 21--23 HCP, likely stop in !c
+3C = ART FG
 3D = 7+!d, 18--20 HCP
 3H = 7+!h, 18--20 HCP
 3S = 7+!s, 18--20 HCP
-3N = 33(43), 23--25 HCP, likely stop in !c
+3N = 33(43), 24--26 HCP, likely stop in !c
 
 1C-1D-(2D)-
 D  = OPT, 15+ HCP
-2H = 5+!h, 18--22 HCP
-2S = 5+!s, 18--22 HCP
-2N = 21--22 HCP, likely stop in !d
-3C = 6+!c, 18--22 HCP
-3D = FG, 23+ HCP or 24+ points
+2H = 5+!h, 18--23 HCP
+2S = 5+!s, 18--23 HCP
+2N = 21--23 HCP, likely stop in !d
+3C = 6+!c, 18--23 HCP
+3D = ART FG
 3H = 7+!h, 18--20 HCP
 3S = 7+!s, 18--20 HCP
-3N = 33(43), 23--25 HCP, likely stop in !d
+3N = 33(43), 24--26 HCP, likely stop in !d
 
 1C-1D-(2H)-
 D  = OPT, 15+ HCP
-2S = 5+!s, 18--22 HCP
-2N = 21--22 HCP, likely stop in !h
-3C = 6+!c, 18--22 HCP
-3D = 6+!d, 18--22 HCP
-3H = FG, 23+ HCP or 24+ points
+2S = 5+!s, 18--23 HCP
+2N = 21--23 HCP, likely stop in !h
+3C = 6+!c, 18--23 HCP
+3D = 6+!d, 18--23 HCP
+3H = ART FG
 3S = 7+!s, 18--20 HCP
-3N = 3(433), 23--25 HCP, likely stop in !h
+3N = 3(433), 24--26 HCP, likely stop in !h
 
 1C-1D-(2S)-
 D  = OPT, 15+ HCP
-2N = 21--22 HCP, likely stop in !s
-3C = 6+!c, 18--22 HCP
-3D = 6+!d, 18--22 HCP
-3H = 5+!h, 18--22 HCP
-3S = FG, 23+ HCP or 24+ points
-3N = 3!h(433), 23--25 HCP, likely stop in !s
+2N = 21--23 HCP, likely stop in !s
+3C = 6+!c, 18--23 HCP
+3D = 6+!d, 18--23 HCP
+3H = 5+!h, 18--23 HCP
+3S = ART FG
+3N = 3!h(433), 24--26 HCP, likely stop in !s
 
 1C-1D-(2N)-
 D  = OPT, 15+ HCP
