@@ -236,38 +236,7 @@ support.
 3C = NF, 9--11 HCP
 3D = NF, 6+!d
 
-*** Odwrotka (Bubrotka)
-
-Bubrotka is a set of conventional responses by Stanisława "Bubu" Gołę
-biowskiego.  This treatment uses bidding space more evenly than traditional
-Odwrotka.
-
-https://pl.wikipedia.org/wiki/Bubrotka
-
-#CUT Bubrotka
-2H = ! 4\M, 7--10 HCP
-2S = ! 4\M, 11+ HCP
-2N = ! 5+\M, 11+ HCP
-3C = ! 5+!c, 4\M, 9--11 HCP
-3D = ! 5+!d, 4\M, 9--11 HCP
-3H = ! 5+\M, not BAL, 7--10 HCP
-3S = !BAL 5\M, 7--10 HCP
-3N = ! 6+\M, 2+\oM, 2+!d, 2+!c, 7--10 HCP
-4C = !SPL, 0--1!c, 6+\M, 7--10 HCP
-4D = !SPL, 0--1!d, 6+\M, 7--10 HCP
-4H = !SPL, 0--1\oM, 6+\M, 7--10 HCP
-#ENDCUT
-
-1C-1H-2D-
-#PASTE Bubrotka \M=!h \oM=!s
-
-1C-1S-2D-
-#PASTE Bubrotka \M=!s \oM=!h
-
 *** XYZ over 1!c-1!h-1!s
-
-The only occurrence of XYZ in our system is over 1!c-1!h-1!s, the only
-unlimited 1X-1Y-1Z auction.
 
 1C-1H-1S-
 1N = 0--3!s, 7--10 HCP
@@ -356,6 +325,66 @@ distributional hand of as few as 9 HCP.
 2N = 2!s, 14 HCP
 3H = MAX 34xx
 3S = MAX 3!s
+
+*** Odwrotka with the strong 2!h relay
+
+We use the relay structure in /Polish Club 2020: Expert./  The 2!h response to
+Odwrotka is a slam try with 11+ HCP or a certain fit and <= 8.0 NLTC.
+
+1C-1M-2D-
+2H = !S/T (R)
+  2S = (R)
+2S = ! 4M, 7--10 HCP
+  2N = (R)
+2N = ! 5M, not BAL, 7--10 HCP
+  3C = (R)
+3C = ! 5+!c, 4M, 9--11 HCP
+3D = ! 5+!d, 4M, 9--11 HCP
+3M = !BAL 5M, 7--10 HCP
+3oM = !SPL, 0--1#, 6+M, 7--10 HCP
+3N = ! 6+M, 2+oM, 2+!d, 2+!c, 7--10 HCP
+4C = !SPL, 0--1!c, 6+M, 7--10 HCP
+4D = !SPL, 0--1!d, 6+M, 7--10 HCP
+
+1C-1M-2D-2H-2S-
+2N = 4M
+  3C = (R)
+3C = 4+!c, 5M
+3D = 4+!d, 5M
+3M = !BAL 5M
+3oM = 4+#, 5M
+3N = !6+M, 2+!d, 2+!c
+4C = !SPL, 0--1!c, 6+M
+4D = !SPL, 0--1!d, 6+M
+
+1C-1H-2D-2H-2S-2N-3C-
+3D = 4!d
+3H = 4!c
+3S = 44(xx)
+3N = 3433
+
+1C-1S-2D-2H-2S-2N-3C-
+3D = 4!d
+3S = 4!c
+3N = 4333
+
+1C-1H-2D-2S-2N-
+3C = 5+!c, 7--8 HCP
+3D = 5+!d, 7--8 HCP
+3H = 1444
+3S = 44(xx)
+3N = BAL
+
+1C-1S-2D-2S-2N-
+3C = 5+!c, 7--8 HCP
+3D = 5+!d, 7--8 HCP
+3S = 4144
+3N = BAL
+
+1C-1M-2D-2N-3C-
+3D = 4+!d
+3M = 4+!c
+3oM = 4+#
 
 ** Balanced positive responses
 
