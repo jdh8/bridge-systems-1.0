@@ -12,7 +12,7 @@
 2N = !FG, 2--3!s, 2--3!h, 3--4!d, 3--4!c
 3C = !INV, 6+!c, 9--11 HCP
 3D = !INV, 6+!d, 9--11 HCP
-3M = !PRE, 7+#, 5--7 HCP
+3M = !PRE, 7+#, 3--6 HCP
 3N = 33(43), 12--15 HCP
 4M = PRE, 8+#, 0--4 HCP
 
@@ -52,7 +52,7 @@ are two options in this relay.
 1N = 0--3!s, 0--4!h, 0--4!c, 5--7 HCP
 2C = 5+!c, 5--11 HCP
 2D = !NF, 5+!d, 5--9 HCP
-2H = !NF, 5+!h, 5--7 HCP
+2H = !NF, 5+!h, 4--6 HCP
 2S = 4+!s, 4--6 HCP
 2N = !INV, 5!d, 4+!c, 9--11 HCP
 
@@ -159,37 +159,40 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 Opener's 2!d rebid is Odwrotka, a fit reverse showing a game-forcing 3+ card
 support.
 
+The jump reverse of the other major shows a game-forcing minor two suiter to
+alleviate the burden on 2NT.
+
 1C-1H-
 1S = F, 4+!s
 1N = 2--3!s, 2--3!h, 2--3!d, 4--5!c, 12--14 HCP
 2C = 5+!c, 0--3!s, 0--3!h, 12--17 HCP
-2D = !FG, 3+!h, 18+ HCP
+2D = !FG, 3+!h
 2H = 4!h, 12--14 HCP
-2S = 6+!s, 18+ HCP
-2N = 1--3!s, 0--2!h, 3--5!d, 3--5!c, 18+ HCP
+2S = !FG, 5+!d, 5+!c, 18+ HCP
+2N = 2--3!s, 1--2!h, 3--5!d, 3--5!c, 18+ HCP
 3C = 6+!c, 18+ HCP
 3D = 6+!d, 18+ HCP
 3H = 4+!h, 4+!c, 15--17 HCP
-3S = !SPL, 0--1!s, 4+!h, 18+ HCP
+3S = !SPL, 0--1!s, 4+!h
 3N = SOL 7+!c, partial stops in !s and !d
-4C = !SPL, 0--1!c, 4+!h, 18+ HCP
-4D = !SPL, 0--1!d, 4+!h, 18+ HCP
+4C = !SPL, 0--1!c, 4+!h
+4D = !SPL, 0--1!d, 4+!h
 
 1C-1S-
 1N = 2--3!s, 2--4!h, 2--3!d, 3--5!c, 12--14 HCP
 2C = 5+!c, 0--3!s, 12--17 HCP
-2D = !FG, 3+!s, 18+ HCP
+2D = !FG, 3+!s
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
-2N = 0--2!s, 1--4!h, 2--5!d, 2--5!c, 18+ HCP
+2N = 0--2!s, 2--4!h, 2--5!d, 2--5!c, 18+ HCP
 3C = 6+!c, 18+ HCP
 3D = 6+!d, 18+ HCP
-3H = 7+!h, 18+ HCP
+3H = !FG, 5+!d, 5+!c, 18+ HCP
 3S = 4+!s, 4+!c, 15--17 HCP
 3N = SOL 7+!c, partial stops in !h and !d
-4C = !SPL, 0--1!c, 4+!s, 18+ HCP
-4D = !SPL, 0--1!d, 4+!s, 18+ HCP
-4H = !SPL, 0--1!h, 4+!s, 18+ HCP
+4C = !SPL, 0--1!c, 4+!s
+4D = !SPL, 0--1!d, 4+!s
+4H = !SPL, 0--1!h, 4+!s
 
 1C-1H-1N-
 2C = !Checkback, INV 5+!h or FG
@@ -333,11 +336,11 @@ Odwrotka is a slam try with 11+ HCP or a certain fit and <= 8.0 NLTC.
 
 1C-1M-2D-
 2H = !S/T (R)
-  2S = (R)
+  2S = !(R)
 2S = ! 4M, 7--10 HCP
-  2N = (R)
+  2N = !(R)
 2N = ! 5M, not BAL, 7--10 HCP
-  3C = (R)
+  3C = !(R)
 3C = ! 5+!c, 4M, 9--11 HCP
 3D = ! 5+!d, 4M, 9--11 HCP
 3M = !BAL 5M, 7--10 HCP
@@ -347,44 +350,44 @@ Odwrotka is a slam try with 11+ HCP or a certain fit and <= 8.0 NLTC.
 4D = !SPL, 0--1!d, 6+M, 7--10 HCP
 
 1C-1M-2D-2H-2S-
-2N = 4M
-  3C = (R)
-3C = 4+!c, 5M
-3D = 4+!d, 5M
+2N = ! 4M
+  3C = !(R)
+3C = ! 4+!c, 5M
+3D = ! 4+!d, 5M
 3M = !BAL 5M
-3oM = 4+#, 5M
+3oM = ! 4+#, 5M
 3N = !6+M, 2+!d, 2+!c
 4C = !SPL, 0--1!c, 6+M
 4D = !SPL, 0--1!d, 6+M
 
 1C-1H-2D-2H-2S-2N-3C-
-3D = 4!d
-3H = 4!c
-3S = 44(xx)
-3N = 3433
+3D = ! 4!d
+3H = ! 4!c
+3S = ! 44(xx)
+3N = ! 3433
 
 1C-1S-2D-2H-2S-2N-3C-
-3D = 4!d
-3S = 4!c
-3N = 4333
+3D = ! 4!d
+3S = ! 4!c
+3N = ! 4333
 
 1C-1H-2D-2S-2N-
-3C = 5+!c, 7--8 HCP
-3D = 5+!d, 7--8 HCP
-3H = 1444
-3S = 44(xx)
+3C = ! 5+!c, 7--8 HCP
+3D = ! 5+!d, 7--8 HCP
+3H = ! 1444
+3S = ! 44(xx)
 3N = BAL
 
 1C-1S-2D-2S-2N-
-3C = 5+!c, 7--8 HCP
-3D = 5+!d, 7--8 HCP
-3S = 4144
+3C = ! 5+!c, 7--8 HCP
+3D = ! 5+!d, 7--8 HCP
+3S = ! 4144
 3N = BAL
 
 1C-1M-2D-2N-3C-
-3D = 4+!d
-3M = 4+!c
-3oM = 4+#
+3D = ! 4+!d
+3M = ! 4+!c
+3oM = ! 4+#
 
 ** Balanced positive responses
 
@@ -522,16 +525,19 @@ D  = T/O, (43)+MM or STR
 ** Competitive bidding
 
 1C-(D)-
-R  = INV+, 3+!c, 10+ HCP
-1D = 5+!d, 7+ HCP
-1H = 4+!h, 7+ HCP
-1S = 4+!s, 7+ HCP
-1N = 2--3!s, 2--3!h, 2--5!d, 2--5!c, 7--10 HCP
+R  = BAL 3+!c, 10+ HCP
+1D = !NF, 5+!d, 0--6 HCP
+1H = F, 4+!h, 7+ HCP
+1S = F, 4+!s, 7+ HCP
+1N = NF, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 7--10 HCP
 2C = !NF, 5+!c, 7--11 HCP
-2D = ! 5+!s, 4+!h, 7--9 HCP
-2M = PRE, 5+#, 5--7 HCP
-2N = !INV+, 5+!c, 9+ HCP, Truscott
-3C = PRE, 7+!c, 5--7 HCP
+2D = !NF, 5+!d, 7--11 HCP
+2H = !P/C, 4+!h, 5+!s, 7--9 HCP
+2S = !BAL INV or FG 5+!d
+2N = !FG, 2--3!s, 2--3!h, 3--4!d, 3--4!c
+3C = !INV, 6+!c, 9--11 HCP
+3D = !INV, 6+!d, 9--11 HCP
+3M = !PRE, 7+#, 3--6 HCP
 
 1C-(1D)-
 D  = !TRF, 4+!h, 7+ HCP
@@ -539,10 +545,11 @@ D  = !TRF, 4+!h, 7+ HCP
 1S = !TRF to 1NT, 7+ HCP
 1N = 7--10 HCP, likely stop in !d
 2C = !NF, 5+!c, 7--11 HCP
-2D = !FG, 0--3!s, 0--3!h, 12+ HCP
-2M = FG, 5+#, 12+ points
+2D = INV+, ask for !d stopper
+2M = PRE, 6+#, 4--6 HCP
 2N = INV, 10--11 HCP, likely stop in !d
-3N = 33(43), 12--15 HCP, likely stop in !d
+3C = INV, 6+!c, 9--11 HCP
+3M = INV, 6+#, 9--11 HCP
 
 1C-(1H)-
 D  = !TRF, 4+!s, 7+ HCP
@@ -550,12 +557,12 @@ D  = !TRF, 4+!s, 7+ HCP
 1N = 7--10 HCP, likely stop in !h
 2C = !NF, 5+!c, 7--11 HCP
 2D = !NF, 5+!d, 7--11 HCP
-2H = !FG, 0--3!s, 12+ HCP
-2S = FG, 5+!s, 12+ points
+2H = INV+, ask for !h stopper
+2S = PRE, 6+!s, 4--6 HCP
 2N = INV, 10--11 HCP, likely stop in !h
-3C = FG, 6+!c, 12+ HCP
-3D = FG, 6+!d, 12+ HCP
-3N = 33(43), 12--15 HCP, likely stop in !h
+3C = INV, 6+!c, 9--11 HCP
+3D = INV, 6+!d, 9--11 HCP
+3S = INV, 6+!s, 9--11 HCP
 
 1C-(1S)-
 D  = NEG, 4+!h, 7+ HCP
@@ -563,12 +570,11 @@ D  = NEG, 4+!h, 7+ HCP
 2C = !NF, 5+!c, 7--11 HCP
 2D = !NF, 5+!d, 7--11 HCP
 2H = !NF, 5+!h, 7--11 HCP
-2S = !FG, 0--3!h, 12+ HCP
-2N = INV, 10--11 HCP, likely stop in !h
-3C = FG, 6+!c, 12+ HCP
-3D = FG, 6+!d, 12+ HCP
-3H = FG, 6+!h, 12+ points
-3N = 33(43), 12--15 HCP, likely stop in !s
+2S = INV+, ask for !s stopper
+2N = INV, 10--11 HCP, likely stop in !s
+3C = INV, 6+!c, 9--11 HCP
+3D = INV, 6+!d, 9--11 HCP
+3H = INV, 6+!h, 9--11 HCP
 
 We treat 1!c-(1NT) like a *weak* notrump because nobody has bid a suit yet and
 a penalty double is sensible.
@@ -658,30 +664,37 @@ D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
 *** Over Transfer Walsh
 
 The bidding structure over Transfer Walsh is largely the same as constructive
-bidding.  The only difference is that opener accepts transfer with a minimum
-3-card support.
+bidding.  Opener accepts transfer with a minimum 3-card support.
+
+Deviating from /Polish Club 2020: Expert,/ we don't keep Odwrotka here.  The
+simple cuebid asks for a stopper, and the jump cuebid shows a forcing raise.
+
+1. Over 1!c-(1!d)-Dbl/1M, 2!d is the only way to show a big balanced hand
+   without a diamond stopper.
+2. Over 1!c-(1!h)-Dbl/1!s, showing 5+ diamonds is pretty useful especially when
+   we don't have a heart stopper.
 
 1C-(1D)-D-
-1H = BAL 3!h, 12--14 HCP
+1H = 3!h, 12--14 HCP
 1S = F, 4+!s
 1N = BAL 2!h, 12--14 HCP
 2C = 5+!c, 0--3!s, 0--3!h, 12--17 HCP
 2D = !FG, 18+ HCP
 2H = 4!h, 12--14 HCP
 2S = 6+!s, 18+ HCP
-2N = FG, 18+ HCP, likely stop in !d
+2N = FG, 18+ HCP, stop in !d
 3C = 6+!c, 18+ HCP
 3D = !FG, 4+!h, 2+!s, 2+!d, 2+!c, 18+ HCP
 3H = 4+!h, 4+!c, 15--17 HCP
 
 1C-(1D)-1H-
-1S = BAL 3!s, 12--14 HCP
+1S = 3!s, 12--14 HCP
 1N = BAL 2!s, 12--14 HCP
 2C = 5+!c, 0--3!s, 12--17 HCP
 2D = !FG, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 4!s, 12--14 HCP
-2N = FG, 18+ HCP, likely stop in !d
+2N = FG, 18+ HCP, stop in !d
 3C = 6+!c, 18+ HCP
 3D = !FG, 4+!s, 2+!h, 2+!d, 2+!c, 18+ HCP
 3H = 7+!h, 18+ HCP
@@ -692,7 +705,7 @@ bidding.  The only difference is that opener accepts transfer with a minimum
 2D = !FG, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 5+!s, 18+ HCP
-2N = FG, 18+ HCP, likely stop in !d
+2N = FG, 18+ HCP, stop in !d
 3C = 6+!c, 18+ HCP
 
 1C-(1H)-D-
@@ -702,7 +715,7 @@ bidding.  The only difference is that opener accepts transfer with a minimum
 2D = 5+!d, 18+ HCP
 2H = !FG, 18+ HCP
 2S = 4!s, 12--14 HCP
-2N = FG, 18+ HCP, likely stop in !h
+2N = FG, 18+ HCP, stop in !h
 3C = 6+!c, 18+ HCP
 3D = 7+!d, 18+ HCP
 3H = !FG, 4+!s, 2+!h, 2+!d, 2+!c, 18+ HCP
@@ -713,7 +726,7 @@ bidding.  The only difference is that opener accepts transfer with a minimum
 2D = 5+!d, 18+ HCP
 2H = !FG, 18+ HCP
 2S = 5+!s, 18+ HCP
-2N = FG, 18+ HCP, likely stop in !h
+2N = FG, 18+ HCP, stop in !h
 3C = 6+!c, 18+ HCP
 
 *** After 1!c-1!d
