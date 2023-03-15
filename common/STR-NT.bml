@@ -19,6 +19,11 @@ better idea.
 3H = !SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
 3S = !SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
 3N = S/O
+4C = !Gerber, ask for aces
+  4D = 0 or 4 aces
+  4H = 1 ace
+  4S = 2 aces
+  4N = 3 aces
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
@@ -53,9 +58,12 @@ natrual so that we have a chance to stop at 2!h.
 2N = INV
 3C = FG, 5+!c
 3D = FG, 5+!d
-3H = !FG, Smolen TRF, 5+!s, 4+!h
-3S = !FG, Smolen TRF, 4+!s, 5+!h
+3H = !FG, Smolen TRF, 54(xx)
+3S = !FG, Smolen TRF, 45(xx)
 3N = S/O
+4C = !Gerber, ask for aces
+4D = !Texas TRF, 6+!h, 4+!s
+4H = !Texas TRF, 6+!s, 4+!h
 4N = QUANT INV to 6NT
 5N = QUANT INV to 7NT
 
