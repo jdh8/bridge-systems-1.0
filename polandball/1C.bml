@@ -1,0 +1,125 @@
+* Polandball 1!c opening
+
+1C-
+1D = !NF NEG, 0--11 HCP
+1H = F, 4+!h, 7+ HCP
+1S = F, 4+!s, 7+ HCP
+1N = NF, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 7--10 HCP
+2C = !FG, 5+!c
+2D = !FG, 5+!d
+2H = !P/C, 4+!h, 5+!s, 7--9 HCP
+2S = !INV+, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 10+ HCP
+2N = !FG, 2--3!s, 2--3!h, 3--4!d, 3--4!c
+3C = !INV, 6+!c, 9--11 HCP
+3D = !INV, 6+!d, 9--11 HCP
+3M = !PRE, 7+#, 3--6 HCP
+3N = 33(43), 12--15 HCP
+4M = PRE, 8+#, 0--4 HCP
+
+** The 1!d relay
+
+In Polandball Club, the 1!d relay denies game-forcing values.  There are two
+options in this relay.
+
+- 0--6 HCP
+- 7--11 HCP, unbalanced, no 4-card major
+
+1C-1D-
+P  = 5+!d, 12--13 HCP
+1H = 3+!h, 12--20 HCP
+1S = 4+!s, 12--20 HCP
+1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 18--20 HCP
+2C = !ART STR, 21+ HCP
+2D = 5+!d, 14--17 HCP
+2H = !FRAG, 0--1!s, 2--3!h, 4--5!d, 4--5!c, 18--20 HCP
+2S = !FRAG, 0--1!h, 2--3!s, 4--5!d, 4--5!c, 18--20 HCP
+2N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 21--22 HCP
+3C = 6+!c, 18--20 HCP
+3D = 6+!d, 18--20 HCP
+
+1C-1D-1H-
+1S = 4+!s, 4--6 HCP
+1N = 0--3!s, 0--3!h, 0--4!c, 5--7 HCP
+2C = !NF, 5+!c, 5--9 HCP
+2D = !NF, 5+!d, 5--9 HCP
+2H = 4+!h, 4--6 HCP
+2S = !INV, (xx)54, 9--11 HCP
+2N = !INV, 4!d, 5+!c, 9--11 HCP
+
+1C-1D-1S-
+1N = 0--3!s, 0--4!h, 0--4!c, 5--7 HCP
+2C = !NF, 5+!c, 5--9 HCP
+2D = !NF, 5+!d, 5--9 HCP
+2H = !NF, 5+!h, 4--6 HCP
+2S = 4+!s, 4--6 HCP
+2N = !INV, 4--5!d, 4--5!c, 9--11 HCP
+
+1C-1D-1H-1S-
+1N = 2!s, 12--14 HCP
+2C = 4+!c, 4+!h, 18--20 HCP
+2D = 5+!d, 4+!h, 12--17 HCP
+2H = 5+!h, 18--20 HCP
+2S = 4414, 15--17 HCP
+3C = 5+!c, 4+!h, 18--20 HCP
+3D = 5+!d, 5+!h, 18--20 HCP
+3S = 4+!s, 4+!h, 18--20 HCP
+
+1C-1D-1H-1N-
+2C = 4+!c, 4+!h, 18--20 HCP
+2D = 5+!d, 4+!h, 12--17 HCP
+2H = 5+!h, 18--20 HCP
+2S = 4+!s, 4+!h, 18--20 HCP
+2N = 4+!c, 4+!h, 16--18 HCP
+3C = 5+!c, 4+!h, 18--20 HCP
+3D = 5+!d, 5+!h, 18--20 HCP
+3H = 7+!h, 18--20 HCP
+3S = 5+!s, 6+!h, 18--20 HCP
+
+1C-1D-1S-1N-
+2C = 4+!c, 4+!s, 18--20 HCP
+2D = 5+!d, 4+!s, 12--17 HCP
+2H = 4+!h, 5+!s, 18--20 HCP
+2S = 5+!s, 18--20 HCP
+2N = 4+!c, 4+!h, 16--18 HCP
+3C = 5+!c, 4+!s, 18--20 HCP
+3D = 5+!d, 5+!s, 18--20 HCP
+3H = 5+!h, 5+!s, 18--20 HCP
+3S = 7+!s, 18--20 HCP
+
+The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
+
+1C-1D-1N-
+2C = STAY, may be Garbage
+2D = TRF, 5+!h
+2H = TRF, 5+!s
+2S = !TRF, 6+!c or S/T 5+!d 5+!c
+2N = NAT INV
+3C = !TRF, 6+!d
+3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
+3H = !SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
+3N = S/O
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4S = !FG, 5+!d, 5+!c
+4N = QUANT INV to 6NT
+
+1C-1D-2C-
+2D = !FG, 3+ HCP
+2H = !NF NEG, 0--3 HCP
+2S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c, 7+ HCP
+2N = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c, 7+ HCP
+3C = 6+!c, 7+ HCP
+3D = 6+!d, 7+ HCP
+
+1C-1D-2N-
+3C = STAY
+3D = TRF, 5+!h
+3H = TRF, 5+!s
+3S = !TRF, 6+!c or S/T 5+!d 5+!c
+3N = S/O
+4C = !TRF, 6+!d
+4D = !Texas TRF, 6+!h
+4H = !Texas TRF, 6+!s
+4S = !FG, 5+!d, 5+!c
+4N = QUANT INV to 6NT
