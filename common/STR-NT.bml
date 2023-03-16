@@ -16,8 +16,8 @@ better idea.
 2N = NAT INV
 3C = !TRF, 6+!d
 3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
-3H = !SPL, 0--1!h, 4!s, 4--5!d, 4--5!c
-3S = !SPL, 0--1!s, 4!h, 4--5!d, 4--5!c
+3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 3N = S/O
 4C = !Gerber, ask for aces
   4D = 0 or 4 aces
@@ -235,6 +235,7 @@ consistent with our system since we use Rubinsohl.
 
 1N-(2X)-
 3N = S/O
+4C = !Gerber, ask for aces
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
