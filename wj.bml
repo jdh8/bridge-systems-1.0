@@ -25,9 +25,9 @@ improvisation.
 *** Constructive auctions
 
 - We use natural 2/1.  1Y-2X are forcing to game.  1Y-3X are invitational jump
-  shifts.
-- For consistency, 1X-2NT by unpassed hand are all FG raises.
-- Diamond raises are standard, not inverted.
+  shifts except 1!d-3!c.
+- We use Truscott/Jordan 2NT.  1M-2NT is at least a 4-card limit raise.  1M-3M
+  is a mixed raise.
 - XYZ (two-way checkback) is only on after 1!c!d-1!h-1!s.  We use plain
   checkback in the other cases.
 
@@ -64,7 +64,7 @@ improvisation.
 * Opening bids
 
 1C = !F, 18+ HCP or 2+!c 12+ HCP
-1D = 4+!d, 12--19 HCP
+1D = 5+!d or 4!d(441), 12--17 HCP
 1H = 5+!h, 11--17 HCP
 1S = 5+!s, 11--17 HCP
 1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
@@ -73,18 +73,11 @@ improvisation.
 2M = PRE, 5#, 4--10 HCP
 2N = !UNT, 5+!d, 5+!c, 4--10 HCP
 3X = PRE, 7+#, 4--10 HCP
-3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
+3N = !Gambling, SOL 7+m, 0--1 outside CTRL
 4C = !Namyats, S-SOL 7+!h, 4.5--5.5 NLTC
 4D = !Namyats, S-SOL 7+!s, 4.5--5.5 NLTC
 4M = PRE, good 7+#
 4N = !UNT, 6+!d, 6+!c, 11--15 HCP
-
-With a strong hand led by diamonds, we open 1!d if it may be hard to rebid
-after 1!c.  These hands fit all of the following requirements:
-
-- < 20 HCP
-- Diamonds is the only longest suit
-- 7+!d or any singleton or void
 
 ** The notrump ladder
 
