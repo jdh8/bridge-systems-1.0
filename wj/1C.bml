@@ -464,63 +464,6 @@ The 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
 4S = S/O, 3+!s, 18+ points
 4N = QUANT INV to 6NT
 
-** Proposed defense
-
-We believe the best defense to a forcing club is another forcing club system.
-We propose a defense similar to our Polish Club.  The defense was originally
-proposed by Gerben Dirksen at:
-
-https://bridgewinners.com/article/view/defense-against-polish-club/
-
-We have a more aggressive (1!c)-2!d and a more natural advancing structure over
-(1!c)-Dbl.
-
-(1C)-
-D  = T/O, (43)+MM or STR
-1X = 5+#, 10--17 HCP
-1N = NAT 15--17 HCP
-2C = 5+!c, 12--17 HCP
-2D = !Michaels, 5+!s, 5+!h
-2M = PRE, 5+#, 4--10 HCP
-2N = !UNT, 5+!d, 5+!c
-3C = PRE, 7+!c
-3X = PRE, 7+#
-3N = !Gambling, SOL 7+m
-
-We don't regard clubs as an adverse suit in principle.  However, we use
-(1!c)-Dbl-2!c as a cuebid since we pass or bid 2NT with a club invitation.
-
-(1C)-D-
-1D = WK 4+!d
-1M = WK 3+#
-2C = !FG
-2N = NAT INV
-3C = !FG, 4+!s, 4+!h
-4C = !Leaping, 5+!s, 5+!h
-4D = !Leaping, 4+!d, 5+M
-
-(1C)-(1D)-
-D  = T/O, (43)+MM or STR
-1M = 5+#, 10--17 HCP
-1N = NAT 15--17 HCP
-2C = 5+!c, 12--17 HCP
-2D = 5+!d, 12--17 HCP
-2M = PRE, 5+#, 4--10 HCP
-2N = !UNT, 5+!d, 5+!c
-3C = PRE, 7+!c
-3D = PRE, 7+!d
-3M = PRE, 7+#
-3N = !Gambling, SOL 7+m
-
-(1C)-(1D)-D-
-1M = WK 3+#
-2C = WK 4+!c
-2D = !FG
-2N = NAT INV
-3D = !FG, 4+!s, 4+!h
-4C = !Leaping, 4+!c, 5+M
-4D = !Leaping, 5+!s, 5+!h
-
 ** Competitive bidding
 
 1C-(D)-
@@ -587,20 +530,8 @@ D  = PEN, 10+ HCP
 2N = !UNT, 5+!d, 5+!c
 3C = 6+!c
 
-We play Rubinsohl over 1!c-(2!c) and 2-level jump overcalls.  This treatment
-makes invitational hands easier to bid.
-
-1C-(2C)-
-D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
-2D = !NF, 5+!d, 7--11 HCP
-2H = !NF, 5+!h, 7--11 HCP
-2S = !NF, 5+!s, 7--11 HCP
-2N = !FG STAY
-3C = !TRF INV+, 5+!d
-3D = !TRF INV+, 5+!h
-3H = !TRF INV+, 5+!s
-3S = !FG
-3N = To play, likely stop in !c
+We play Transfer Lebensohl over 2-level suit overcalls.  This treatment makes
+invitational hands easier to bid.
 
 1C-(2H)-
 D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
@@ -630,35 +561,6 @@ D  = INV+, 2--4!s, 2--4!h, 2+!d, 2+!c, 10+ HCP
 3D = INV+, 5+!s, 10+ points
 3H = S/O, 5+!h, 7--9 HCP
 3S = S/O, 5+!s, 7--9 HCP
-
-*** Against 1!c-(2!d)
-
-The 1!c-(2!d) we suggest, showing both majors, is harder to defend.  Our steps
-for major suits are virtually wasted.
-
-1C-(2D)-
-D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
-2H = INV+, likely stop in !h
-2S = INV+, likely stop in !s
-2N = !TRF INV, 5+!c, 9--11 HCP
-3C = !TRF INV, 5+!d, 9--11 HCP
-3D = !TRF FG, 5+!c
-3H = !TRF FG, 5+!d
-3S = !FG
-3N = To play, partial stop in each major
-
-We can easily defend a natural 1!c-(2!d) with plain Rubinsohl.
-
-1C-(2D)-
-D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10--11 HCP
-2H = !NF, 5+!h, 7--11 HCP
-2S = !NF, 5+!s, 7--11 HCP
-2N = !TRF INV+, 5+!c
-3C = !FG STAY
-3D = !TRF INV+, 5+!h
-3H = !TRF INV+, 5+!s
-3S = !FG
-3N = To play, likely stop in !d
 
 *** Over Transfer Walsh
 
