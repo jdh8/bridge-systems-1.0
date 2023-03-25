@@ -223,15 +223,7 @@ suit preference.
 
 ** Competitive bidding
 
-We play Rubinsohl against overcalls below 2NT, including 1NT-(Dbl).
-
-- *2 of a suit*: weak signoff with 5+ cards
-- *From 2NT to 3!h*: transfer with 5+ cards
-- */Transfer/ to an adverse suit*: game-forcing Stayman/takeout
-- *3!s*: 3NT but with unstopped adverse suits
-
-Competition does not affect auctions at 3NT and above.  These transfers are also
-consistent with our system since we use Rubinsohl.
+Competition does not affect auctions at 3NT and above.
 
 1N-(2X)-
 3N = S/O
@@ -240,57 +232,68 @@ consistent with our system since we use Rubinsohl.
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
 
-Over a natural double, Rubinsohl degenates to a natural defense since Rdbl can
-take care of all invitational+ hands.  Over a conventional double, especially a
-nebulous one, bidding high can be beneficial because we prevent opponents from
-clarifying their hands.
+We keep things simple over 1NT-(Dbl).  Everything is natural.
 
 1N-(D)-
 R  = INV+
-2X = S/O, 5+#
-2N = !TRF, INV+, 5+!c
-3C = !TRF, INV+, 5+!d
-3D = !TRF, INV+, 5+!h
-3H = !TRF, INV+, 5+!s
-3S = FG, 3-suited
+2X = 5+#
+
+We play "systems on" over 1NT-(2!c).  Most bids keep the same meaning.
 
 1N-(2C)-
-D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
-2X = S/O, 5+#
-2N = !FG STAY
-3C = !TRF, INV+, 5+!d
-3D = !TRF, INV+, 5+!h
-3H = !TRF, INV+, 5+!s
-3S = !FG
-3N = S/O, likely stop in !c
+D  = !STAY, may be Garbage
+2D = !TRF, 5+!h
+2H = !TRF, 5+!s
+2S = !TRF, 6+!d
+2N = NAT INV
+3C = !SPL, 0--1!c, 4!s, 4!h, 4--5!d
+3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
+3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
+
+We play Transfer Lebensohl against overcalls 2!d!h!s.
 
 1N-(2D)-
 D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 2X = S/O, 5+#
-2N = !TRF, 5+!c
+2N = !PUP, TRF Lebensohl
+  3C = !NF (R)
+    3D = !FG, 5+!c, at most partial stop in !d
+    3H = !FG, 5+!h, likely stop in !d
+    3S = !FG, 5+!s, likely stop in !d
+    3N = !FG, 5+!c, likely stop in !d
 3C = !FG STAY
 3D = !TRF, INV+, 5+!h
 3H = !TRF, INV+, 5+!s
-3S = !FG
+3S = !FG, usually short !d
 3N = S/O, likely stop in !d
 
 1N-(2H)-
 D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 2S = S/O, 5+!s
-2N = !TRF, 5+!c
+2N = !PUP, TRF Lebensohl
+  3C = !NF (R)
+    3D = S/O
+    3H = !FG, 5+!c, at most partial stop in !h
+    3S = !FG, 5+!s, likely stop in !h
+    3N = !FG, 5+!c, likely stop in !h
 3C = !TRF, 5+!d
 3D = !FG STAY, 4+!s
 3H = !TRF, INV+, 5+!s
-3S = !FG
+3S = !FG, usually short !h
 3N = S/O, likely stop in !h
 
 1N-(2S)-
 D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
-2N = !TRF, 5+!c
-3C = !TRF, 5+!d
-3D = !TRF, 5+!h
+2N = !PUP, TRF Lebensohl
+  3C = !NF (R)
+    3DH = S/O
+    3S = !FG, 5+!c, at most partial stop in !s
+    3N = !FG, 5+!c, likely stop in !s
+3C = !TRF, INV+, 5+!d
+3D = !TRF, INV+, 5+!h
 3H = !FG STAY, 4+!h
-3S = !FG
+3S = !FG, usually short !s
 3N = S/O, likely stop in !s
 
 We have a special unusual vs. unusual structure over 1NT-(2NT) because we have
