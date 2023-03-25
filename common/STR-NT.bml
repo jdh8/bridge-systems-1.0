@@ -254,8 +254,8 @@ D  = !STAY, may be Garbage
 We play Transfer Lebensohl against overcalls 2!d!h!s.
 
 1N-(2D)-
-D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
-2X = S/O, 5+#
+D  = !OPT, BAL INV
+2M = S/O, 5+#
 2N = !PUP, TRF Lebensohl
   3C = !NF (R)
     3D = !FG, 5+!c, at most partial stop in !d
@@ -269,7 +269,7 @@ D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 3N = S/O, likely stop in !d
 
 1N-(2H)-
-D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
+D  = !OPT, BAL INV
 2S = S/O, 5+!s
 2N = !PUP, TRF Lebensohl
   3C = !NF (R)
@@ -284,7 +284,7 @@ D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
 3N = S/O, likely stop in !h
 
 1N-(2S)-
-D  = !OPT, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 7--8 HCP
+D  = !OPT, BAL INV
 2N = !PUP, TRF Lebensohl
   3C = !NF (R)
     3DH = S/O
