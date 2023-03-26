@@ -223,7 +223,13 @@ alleviate the burden on 2NT.
 4H = !SPL, 0--1!h, 6+!s
 
 1C-1H-2C-
-2D = !F INV+
+2D = !INV+ 5+!h or FG (R)
+  2H = NF, 2--3!h
+  2S = !FG, 6+!c, 0--2!h
+  2N = NF NAT
+  3C = NF, 6+!c
+  3D = FG, 4+!d
+  3H = FG, 3!h
 2H = 5+!h, 7--9 HCP
 2S = !INV, 3+!c
 2N = NAT INV
@@ -231,7 +237,13 @@ alleviate the burden on 2NT.
 3D = NF, 6+!d
 
 1C-1S-2C-
-2D = !F INV+
+2D = !INV+ 5+!s or FG (R)
+  2H = !FG, 6+!c, 0--2!s
+  2S = NF, 2--3!s
+  2N = NF NAT
+  3C = NF, 6+!c
+  3D = FG, 4+!d
+  3S = FG, 3!s
 2H = INV, 4+!h, 5+!s
 2S = 5+!s, 7--9 HCP
 2N = NAT INV
