@@ -1,19 +1,15 @@
-#+TITLE: Polandball Club
+#+TITLE: Redpill Polish Club
 
-#+AUTHOR: Chen-Pang He (jdh8), Ting-Yu Ye (TpKotoba)
+#+AUTHOR: Chen-Pang He (jdh8)
 
-#+DESCRIPTION: Polish Club with swapped natural meanings of minor suit openings
+#+DESCRIPTION: My pet Polish Club bidding system
 
 * Introduction
 
-Welcome to Polandball Club!  We swap the natural meanings of 1!c and 1!d
-openings.  The name 'Polandball' is a metaphor of this interchange since
-Polandball wears an upside-down Polish flag.
-
-Polish Club is a 5-card major small club bidding system, where the 1!c opening
-is forcing but not necessarily strong.  This bidding system is largely based on
-/Polish Club 2020: Expert./  Changes are made with /Good, Better, Best/ and our
-improvisation.
+Welcome to Redpill Polish Club!  Polish Club is a 5-card major small club
+bidding system, where the 1!c opening is forcing but not necessarily strong.
+This bidding system is largely based on /Polish Club 2020: Expert./  Changes
+are made with /Good, Better, Best/ and my improvisation.
 
 We use the distribution syntax and abbreviations provided by WBF.
 
@@ -21,16 +17,16 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
 The ACBL convention card of this system is at
 
-https://bridgewinners.com/convention-card/print/polish-club-jdh8/98013
+https://bridgewinners.com/convention-card/print/redpill-polish-club/98013
 
 ** Notable differences from /Polish Club 2020: Expert/
 
 *** Constructive auctions
 
 - We use natural 2/1.  1Y-2X are forcing to game.  1Y-3X are invitational jump
-  shifts.
-- For consistency, 1X-2NT by unpassed hand are all FG raises.
-- Diamond raises are standard, not inverted.
+  shifts except 1!d-3!c.
+- We use Truscott/Jordan 2NT.  1M-2NT is at least a 4-card limit raise.  1M-3M
+  is a mixed raise.
 - XYZ (two-way checkback) is only on after 1!c!d-1!h-1!s.  We use plain
   checkback in the other cases.
 
@@ -66,8 +62,8 @@ https://bridgewinners.com/convention-card/print/polish-club-jdh8/98013
 
 * Opening bids
 
-1C = !F, 18+ HCP or 2+!d 12+ HCP
-1D = !TRF, 5+!c or 4414, 11--17 HCP
+1C = !F, 18+ HCP or 2+!c 12+ HCP
+1D = 5+!d or 4!d(441), 12--17 HCP
 1H = 5+!h, 11--17 HCP
 1S = 5+!s, 11--17 HCP
 1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
@@ -76,7 +72,7 @@ https://bridgewinners.com/convention-card/print/polish-club-jdh8/98013
 2M = PRE, 5#, 4--10 HCP
 2N = !UNT, 5+!d, 5+!c, 4--10 HCP
 3X = PRE, 7+#, 4--10 HCP
-3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
+3N = !Gambling, SOL 7+m, 0--1 outside CTRL
 4C = !Namyats, S-SOL 7+!h, 4.5--5.5 NLTC
 4D = !Namyats, S-SOL 7+!s, 4.5--5.5 NLTC
 4M = PRE, good 7+#
@@ -87,10 +83,11 @@ https://bridgewinners.com/convention-card/print/polish-club-jdh8/98013
 - *12--14*: 1!c-1!d-1M
 - *15--17*: 1NT
 - *18--20*: 1!c-1!d-1NT
-- *21--22*: 1!c-1!d-2NT
-- *23+*: 1!c-1!d-2!c-2!d!h-2NT
-- *25+*: 1!c-1!d-2!c-2!h-3NT
+- *21--23*: 1!c-1!d-2NT
+- *24+*: 1!c-1!d-2!d-2!h-2NT
 
-#INCLUDE polandball/1C.bml
+#INCLUDE redpill/1C.bml
+#INCLUDE redpill/1D.bml
+#INCLUDE redpill/1M.bml
 #INCLUDE common/STR-NT.bml
-#INCLUDE wj/2C.bml
+#INCLUDE redpill/2C.bml

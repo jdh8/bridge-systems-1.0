@@ -1,7 +1,6 @@
 all: TpKotoba.bss TpKotoba.htm \
-     precision.bss precision.htm \
-     polandball.bss polandball.htm \
-     wj.bss wj.htm \
+     redpill.bss redpill.htm \
+     bluepill.bss bluepill.htm \
      defense.bss defense.htm
 	@:
 

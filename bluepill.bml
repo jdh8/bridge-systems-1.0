@@ -1,0 +1,51 @@
+#+TITLE: Bluepill Club
+
+#+AUTHOR: Chen-Pang He (jdh8)
+
+#+DESCRIPTION: My pet Blue Club bidding system
+
+* Introduction
+
+Welcome to Bluepill Club!  This bidding system is largely based on Cottontail
+Club in /Good, Better, Best/ by Jan Eric Larsson, which in turn descends from
+Blue Club.  Changes are made with my improvisation.
+
+We use the distribution syntax and abbreviations provided by WBF.
+
+http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
+
+The BBO ACBL convention card of this system is at
+
+https://webutil.bridgebase.com/v2/acblcc/acblCC.html?x=656469743d6e266b65793d4143424c2532464e2532466a646838253246313636313936363138335f333735302532463136363139363631383326706172746e65723d266d6f62696c653d79
+
+Notable conventions we use:
+
+- Kickback RKCB 1430
+
+#INCLUDE common/evaluation.bml
+
+* Opening bids
+
+1C = !STR F, 17+ HCP
+1D = 3+!d, 12--16 HCP
+1H = 4+!h, 12--16 HCP
+1S = 4+!s, 12--16 HCP
+1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
+2C = !NAT, 5+!c, 12--16 HCP
+2D = !PRE, 6+M, 4--10 HCP
+2M = PRE, 5+#, 4--10 HCP
+2N = !UNT, 5+!d, 5+!c, 4--10 HCP
+3X = PRE, 7+#, 4--10 HCP
+3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
+4C = !Namyats, S-SOL 7+!h, 4.5--5.5 NLTC
+4D = !Namyats, S-SOL 7+!s, 4.5--5.5 NLTC
+4M = PRE, good 7+#
+4N = !UNT, 6+!d, 6+!c, 11--15 HCP
+
+** The notrump ladder
+
+- *12--14*: 1!d!h!s or 2!c
+- *15--17*: 1NT
+- *18--20*: 1!c-1!d-1NT
+
+#INCLUDE bluepill/1C.bml
