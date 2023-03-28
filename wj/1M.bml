@@ -8,11 +8,13 @@
 2H = 3+!h, 8.5--9.5 NLTC
 2S = !INV, (54)+ in minors, 9--11 HCP
 2N = !INV+, 4+!h, Truscott
-3m = INV, 6+#, 9--11 HCP
+3C = INV, 6+!c, 9--11 HCP
+3D = INV, 6+!d, 9--11 HCP
 3H = !Mixed raise, 4+!h, 8.5--9.0 NLTC
 3S = !SPL, 0--1!s, 12--15 HCP
 3N = !Choice of games, 33(43), 12--15 HCP
-4m = !SPL, 0--1#, 12--15 HCP
+4C = !SPL, 0--1!c, 12--15 HCP
+4D = !SPL, 0--1!d, 12--15 HCP
 4H = PRE, 4+!h
 
 1S-

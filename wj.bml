@@ -88,6 +88,7 @@ improvisation.
 - *24+*: 1!c-1!d-2!d-2!h-2NT
 
 #INCLUDE wj/1C.bml
+#INCLUDE wj/1D.bml
 #INCLUDE wj/1M.bml
 #INCLUDE common/STR-NT.bml
 #INCLUDE wj/2C.bml
