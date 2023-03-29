@@ -8,6 +8,9 @@ gpaulissen/bml#21 gets fixes.
 
 *Pill* bidding systems
 ----------------------
+My pet forcing club bidding systems.  I believe bidding 1♣ for all strong hands
+is a superior treatment.  The color of a pill corresponds to its WBF colored
+sticker.
 
 - [Redpill Polish Club](https://jdh8.github.io/bridge-systems/redpill.htm)
 - [Bluepill Club](https://jdh8.github.io/bridge-systems/bluepill.htm)
