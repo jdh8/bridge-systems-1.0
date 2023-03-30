@@ -91,3 +91,4 @@ https://bridgewinners.com/convention-card/print/redpill-polish-club/98013
 #INCLUDE redpill/1M.bml
 #INCLUDE common/STR-NT.bml
 #INCLUDE redpill/2C.bml
+#INCLUDE common/Multi.bml
