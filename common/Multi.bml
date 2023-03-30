@@ -43,6 +43,8 @@ hearts in the next round.
 3C = !NF, 5+!c
 3D = !NF, 5+!d
 3S = FG, 5+!s
+4C = !Leaping Michaels, 4+!c, 5+!s
+4D = !Leaping Michaels, 4+!d, 5+!s
 4S = !RKCB 1430
 
 2S-
@@ -50,6 +52,8 @@ hearts in the next round.
 3C = !NF, 5+!c
 3D = !NF, 5+!d
 3H = !NF, 6+!h
+4C = !Leaping Michaels, 4+!c, 5+!h
+4D = !Leaping Michaels, 4+!d, 5+!h
 
 2M-2N-
 3C = !MIN, bad suit
