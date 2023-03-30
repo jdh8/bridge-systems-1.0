@@ -27,7 +27,7 @@
 2N = 2!h6!d(32), 15--17 HCP
 3C = 5+!c, 5+!d, 15--17 HCP
 3D = 6+!d, 15--17 HCP
-3H = INV 4+!h
+3H = INV, 4+!h
 3N = SOL 7+!d, partial stops in !s and !c
 
 1D-1S-
@@ -40,7 +40,7 @@
 3C = 5+!c, 5+!d, 15--17 HCP
 3D = 6+!d, 15--17 HCP
 3H = 5+!h, 6+!d, 12--14 HCP
-3S = INV 4+!s
+3S = INV, 4+!s
 3N = SOL 7+!d, partial stops in !h and !c
 
 *** Wolff signoff
@@ -49,13 +49,13 @@ Wolff signoff is a conventional 3!c over opener's reverse or 2NT rebid.
 Such 3!c puppets to 3!d, and responder is ready to sign off at the 3-level.
 
 1D-1H-2N-
-3C = !PUP to play 3!d or 3!h
+3C = !PUP, to play 3!d or 3!h
 3D = FG, 2+!d
 3H = FG, 6+!h
 3S = FG, 5+!s, 6+!h
 
 1D-1S-2N-
-3C = !PUP to play 3!d or 3!s
+3C = !PUP, to play 3!d or 3!s
 3D = FG, 2+!d
 3H = FG, 5+!h, 5+!s
 3S = FG, 6+!s
@@ -65,7 +65,7 @@ and 6+!d, responder may find a weak misfit and try to stop at 2NT or 3!c.
 
 1D-1H-2S-
 2N = NF, 4+!c
-3C = !PUP to play 3!d or 3!h
+3C = !PUP, to play 3!d or 3!h
 3D = FG, 2+!d
 3H = FG, 5+!h
 
@@ -81,7 +81,7 @@ their hand.
   3H = ! 3!s, 4+!h
   3S = 3!s, 6+!d
   3N = 2452
-3C = !PUP to play 3!d
+3C = !PUP, to play 3!d
 3D = FG, 3+!d
 3H = FG, 4+!h
 3S = FG, 6+!s

@@ -12,8 +12,8 @@ Our Multi 2!d shows a 6-card weak two of either major.
 3S = P/C
 3N = S/O
 4C = !(R)
-  4D = TRF 6+!h
-  4H = TRF 6+!s
+  4D = TRF, 6+!h
+  4H = TRF, 6+!s
 4D = !(R)
   4H = 6+!h
   4S = 6+!s
@@ -21,7 +21,7 @@ Our Multi 2!d shows a 6-card weak two of either major.
 4S = S/O
 
 2D-2N-
-3C = !MIN 6+!h
-3D = !MIN 6+!s
-3H = !MAX 6+!s
-3S = !MAX 6+!h
+3C = !MIN, 6+!h
+3D = !MIN, 6+!s
+3H = !MAX, 6+!s
+3S = !MAX, 6+!h

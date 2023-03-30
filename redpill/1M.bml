@@ -62,7 +62,7 @@ R  = BAL 2--3!h or 4144, 10+ HCP
 1N = !TRF, 5+!c
 2C = !TRF, 5+!d
 2D = !FG or weak, 3+!h
-2H = CONST 3+!h, 8.5--9.0 NLTC
+2H = CONST, 3+!h, 8.5--9.0 NLTC
 2S = !INV, (54)+ in minors, 9--11 HCP
 2N = !INV+, 4+!h, Truscott
 
@@ -72,5 +72,5 @@ R  = BAL 2--3!s or 1444, 10+ HCP
 2C = !TRF, 5+!d
 2D = !TRF, 5+!h
 2H = !FG or weak, 3+!s
-2S = CONST 3+!s, 8.5--9.0 NLTC
+2S = CONST, 3+!s, 8.5--9.0 NLTC
 2N = !INV+, 4+!h, Truscott
