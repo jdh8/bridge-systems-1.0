@@ -1,15 +1,10 @@
 * Strong 1!c opening
 
-We follow the philosophy of Conttontail Club.
+We follow the philosophy of Cottontail Club.
 
 - Opener bids naturally.
 - Responder's (!h, !s, NT) transfer to (!s, NT, !h).
-- Responder's minors are natural by default.
-- When opener has bid a major, the other major and notrump transfer to each
-  other.
-
-The above are principles.  There are a few exceptions.  The main idea is to let
-the strong hand declare.
+- Responder's minors are natural.
 
 1C-
 1D = !NEG, 0--7 HCP
@@ -22,16 +17,45 @@ the strong hand declare.
 ** Negative 1!d response
 
 1C-1D-
-1H = 4+!h, 17--20 HCP
-1S = 4+!s, 17--20 HCP
+1H = !FG or 4+!h 17--20 HCP
+1S = 5+!s or 4144, 17--20 HCP
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18--20 HCP
 2C = 5+!c, 17--20 HCP
 2D = 5+!d, 17--20 HCP
-2H = F1, 5+!h 21+ HCP or FG 4!h
-2S = F1, 5+!s 21+ HCP or FG 4!s
+2H = 5+!h, 21--23 HCP
+2S = 5+!s, 21--23 HCP
 2N = 1--4!s, 1--4!h, 1--5!d, 1--5!c, 21--23 HCP
 3C = 5+!c, 21--23 HCP
 3D = 5+!d, 21--23 HCP
-3H = !FG FRAG, 0--1!s
-3S = !FG FRAG, 0--1!h
-3N = 2--3!s, 2--3!h, 24--27 HCP
+
+The second response depends on opener's rebid.
+
+- *Opener bid notrump*: treat as a notrump opening
+- *Opener bid a major*: the other major and notrump transfer to each other
+- *Opener bid a minor*: (!h, !s, NT) transfer to (!s, NT, !h)
+
+The responses to 1!c-1!d-1!h resembles Kaplan interchange.  Responder with a
+weak hand is forced to choose between 1!s and 1NT.  Opener with a game-forcing
+hand improvises a natural bid out of the table.
+
+1C-1D-1H-
+1S = TRF to 1NT
+  1N = 2--4!s, 5!h, 1--3!d, 1--3!c, 17--20 HCP
+  2C = 4+!c, 17--20 HCP
+  2D = 4+!d, 17--20 HCP
+  2H = 6+!h, 17--20 HCP
+1N = TRF, 5+!s
+  2C = 4+!c, 17--20 HCP
+  2D = 4+!d, 17--20 HCP
+  2H = 6+!h, 17--20 HCP
+  2S = 2+!s, 17--20 HCP
+2C = 5+!c, 5--7 HCP
+2D = 5+!d, 5--7 HCP
+2H = INV, 4+!h
+
+1C-1D-1S-
+1N = 5+!h, 5--7 HCP
+2C = 5+!c, 5--7 HCP
+2D = 5+!d, 5--7 HCP
+2H = 1--3!s, 2--4!h, 2--4!d, 2--4!c, 5--7 HCP
+2S = INV, 3+!s
