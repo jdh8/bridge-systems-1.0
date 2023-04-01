@@ -13,7 +13,7 @@ is a superior treatment.  The color of a pill corresponds to its WBF colored
 sticker.
 
 - [Redpill Polish Club](https://jdh8.github.io/bridge-systems/redpill.htm) 🔴 💊 🇵🇱
-- [Bluepill Club](https://jdh8.github.io/bridge-systems/bluepill.htm) 🔵 💊 🇮🇹
+- [Bluepill Cottontail Club](https://jdh8.github.io/bridge-systems/bluepill.htm) 🔵 💊 🇸🇪
 - [Defensive bidding system](https://jdh8.github.io/bridge-systems/defense.htm) 🛡
 
 Systems with a partner
