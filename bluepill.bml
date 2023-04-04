@@ -18,9 +18,14 @@ The ACBL convention card of this system is at
 
 https://bridgewinners.com/convention-card/print/bluepill-cottontail-club/99274
 
-Notable conventions we use:
+** References
 
-- Kickback RKCB 1430
+- Jan Eric Larsson.  /Good, Better, Best: A comparison of bridge bidding
+  systems and conventions by computer simulation./  ISBN 978-1771402415
+- Jan Eric Larsson, Anu Uus, and George Wang.
+  [Kaninklöver / Cottontail Club: A Cheatsheet (2022)](https://github.com/Egroegw/Kaninklover)
+- Arturo Franco, Marco Pancotti, and Daniel J. Neill.
+  [Blue Team Club](https://bridgewithdan.com/wp-content/uploads/2019/07/BTC2000_gmeier.pdf)
 
 #INCLUDE common/evaluation.bml
 
@@ -66,5 +71,6 @@ non-club two suiters, planning to reverse in the primary suit later.
 - *22--23*: 1!c-1!d-1!h-1!s-2NT
 
 #INCLUDE bluepill/1C.bml
+#INCLUDE bluepill/1M.bml
 #INCLUDE common/Multi.bml
 #INCLUDE common/UNT.bml
