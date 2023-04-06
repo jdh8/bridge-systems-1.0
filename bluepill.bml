@@ -73,5 +73,6 @@ non-club two suiters, planning to reverse in the primary suit later.
 #INCLUDE bluepill/1C.bml
 #INCLUDE bluepill/1D.bml
 #INCLUDE bluepill/1M.bml
+#INCLUDE common/STR-NT.bml
 #INCLUDE common/Multi.bml
 #INCLUDE common/UNT.bml
