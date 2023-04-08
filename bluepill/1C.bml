@@ -14,7 +14,7 @@ natural.
 
 1C-
 1D = !NEG, 0--7 HCP
-1H = !FG, not (4441), 8--11 HCP
+1H = !FG, 8--11 HCP
 1S = !S/T, 5+!s, 12+ HCP
 1N = !S/T, 2--4!s, 2--4!h, 2--5!d, 2--5!c, 12+ HCP
 2C = !S/T, 5+!c, 12+ HCP
@@ -33,13 +33,13 @@ want to cede declarership.
 
 ** Cottontail Club by passed hand
 
-#SEAT 34
-
 The philosophy of Cottontail Club is:
 
 - Opener bids naturally.
-- Responder's (!h, !s, NT) transfer to (!s, NT, !h).
+- Responder's transfer cycle: !h → !s → NT → !h
 - Responder's minors are natural.
+
+#SEAT 34
 
 1C-
 1D = !NEG, 0--7 HCP
@@ -50,6 +50,12 @@ The philosophy of Cottontail Club is:
 2D = !FG, 5+!d
 
 #SEAT 0
+
+The second response depends on opener's rebid.
+
+- *Opener bid notrump*: respond as if it were a notrump opening
+- *Opener bid a major*: the cycle degenerates to mutual transfers (oM ↔ NT)
+- *Opener bid a minor*: the cycle remains intact (!h → !s → NT → !h)
 
 ** Negative 1!d response
 
@@ -70,12 +76,6 @@ Cottontail Club here.
 3H = 44(41), 21--23 HCP
 3S = 4144, 21--23 HCP
 3N = 1444, 21--23 HCP
-
-The second response depends on opener's rebid.
-
-- *Opener bid notrump*: treat as a notrump opening
-- *Opener bid a major*: the other major and notrump transfer to each other
-- *Opener bid a minor*: (!h, !s, NT) transfer to (!s, NT, !h)
 
 The responses to 1!c-1!d-1!h resembles Kaplan interchange.  Responder with a
 weak hand is forced to choose between 1!s and 1NT.  Opener with a game-forcing
@@ -104,3 +104,41 @@ hand improvises a natural bid out of the table.
 2D = 5+!d, 5--7 HCP
 2H = 1--3!s, 2--4!h, 2--4!d, 2--4!c, 5--7 HCP
 2S = INV, 3+!s
+
+** The 1!h minimum game force
+
+We invert the transfer cycle to minimize the probabiltity to declare since we
+already bid 1!h.
+
+- *Inverted transfer cycle*: NT → !s → !h → NT
+
+#SEAT 12
+
+1C-1H-
+1S = !(R) 4+!s or 21+ HCP
+1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 17--19 HCP
+2C = 5+!c, 16--20 HCP
+2D = 5+!d, 16--20 HCP
+2H = 5+!h, 16--20 HCP
+2S = 6+!s, 16--20 HCP
+2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
+3C = 6+!c, 21--23 HCP
+3D = 6+!d, 21--23 HCP
+3H = 6+!h, 21--23 HCP
+3S = 6+!s, 21--23 HCP
+
+1C-1H-1S-
+1N = !TRF, 5+!h
+2C = 5+!c
+2D = 5+!d
+2H = !TRF to NT, 1--2!s, 3--4!h, 3--5!d, 3--5!c
+2S = 3+!s
+
+1C-1H-2C-
+2D = 5+!d
+2H = !TRF to NT
+2S = !TRF, 5+!h
+2N = !TRF, 5+!s
+3C = 3+!c
+
+#SEAT 0
