@@ -116,7 +116,7 @@ already bid 1!h.
 
 1C-1H-
 1S = !(R) 4+!s or 21+ HCP
-1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 17--19 HCP
+1N = 1--4!s, 2--4!h, 2--5!d, 2--5!c, 16--19 HCP
 2C = 5+!c, 16--20 HCP
 2D = 5+!d, 16--20 HCP
 2H = 5+!h, 16--20 HCP
@@ -131,14 +131,48 @@ already bid 1!h.
 1N = !TRF, 5+!h
 2C = 5+!c
 2D = 5+!d
-2H = !TRF to NT, 1--2!s, 3--4!h, 3--5!d, 3--5!c
+2H = !T/O, 1--2!s, 3--4!h, 3--5!d, 3--5!c
 2S = 3+!s
+
+1C-1H-1N-
+2C = !STAY
+2D = !TRF, 5+!h
+2H = !TRF, 5+!s
+2S = !Minor STAY, 4+!d, 4+!c
+2N = !TRF, 6+!c
+3C = !TRF, 6+!d
+3D = !Choice of games, 5+!s, 5+!h
 
 1C-1H-2C-
 2D = 5+!d
-2H = !TRF to NT
+2H = !T/O, 3--4!s, 3--4!h, 3--5!d, 1--3!c
 2S = !TRF, 5+!h
 2N = !TRF, 5+!s
 3C = 3+!c
+
+1C-1H-2D-
+2H = !T/O, 3--4!s, 3--4!h, 1--3!d, 3--5!c
+2S = !TRF, 5+!h
+2N = !TRF, 5+!s
+3C = 5+!c
+3D = 3+!d
+
+1C-1H-2H-
+2S = !T/O, 3--4!s, 1--2!h, 3--5!d, 3--5!c
+2N = !TRF, 5+!s
+3C = 5+!c
+3D = 5+!d
+3H = 3+!h
+
+1C-1H-2S-
+2N = !TRF, 5+!h
+3C = 5+!c
+3D = 5+!d
+3H = !T/O, 0--1!s, 4!h, 4--5!d, 4--5!c
+
+1C-1H-2N-
+3C = !STAY
+3D = !TRF, 5+!h
+3H = !TRF, 5+!s
 
 #SEAT 0
