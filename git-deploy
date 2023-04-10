@@ -1,0 +1,13 @@
+#!/bin/sh
+# Usage: git-deploy [make arguments e.g. -j8]
+# This script will deploy the main branch to gh-pages
+
+set -e
+REF="$(git symbolic-ref --short HEAD)"
+
+git checkout gh-pages
+git merge --no-commit main
+make "$@"
+git commit --no-edit
+git push
+git checkout "$REF"
