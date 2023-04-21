@@ -6,11 +6,11 @@
 2C = FG, 4+!c
 2D = FG, 4+!d
 2H = 3+!h, 8.5--9.5 NLTC
-2S = !INV, (54)+ in minors, 9--11 HCP
-2N = !INV+, 4+!h, Truscott
-3C = INV, 6+!c, 9--11 HCP
-3D = INV, 6+!d, 9--11 HCP
-3H = !Mixed raise, 4+!h, 8.5--9.0 NLTC
+2S = !FG, 4+!h
+2N = !INV or S/T, 0--1!c or 0--1!d, 4+!h
+3C = !INV or S/T, 0--1!s, 4+!h
+3D = !INV or S/T, 4+!h
+3H = !CONST, 4+!h
 3S = !FG SPL, 0--1!s, 4+!h
 3N = !Choice of games, 33(43), 12--15 HCP
 4C = !FG SPL, 0--1!c, 4+!h
@@ -23,12 +23,26 @@
 2D = FG, 4+!d
 2H = FG, 5+!h
 2S = 3+!s, 8.5--9.5 NLTC
-2N = !INV+, 4+!h, Truscott
-3X = INV, 6+#, 9--11 HCP
-3S = !Mixed raise, 4+!s, 8.5--9.0 NLTC
+2N = !FG, 4+!s
+3C = !INV or S/T, 0--1!d or 0--1!h, 4+!s
+3D = !INV or S/T, 0--1!c, 4+!s
+3H = !INV or S/T, 4+!s
+3S = !CONST, 4+!s
 3N = !Choice of games, 3(433), 12--15 HCP
 4X = !FG SPL, 0--1#, 4+!s
 4S = PRE, 4+!s
+
+Our 4-card support step responses by Ting-Yu Ye (TpKotoba) cover the forcing
+raise (Kickback Jacoby), mini-Splinters, and the mixed raise.
+
+1M-
+6steps = !FG w/o introducing shortness
+7steps = !INV or S/T, SPL of M−1 or M−2
+  1step  = Strength in this suit
+  2steps = Strength in this suit
+8steps = !INV or S/T, SPL of the other suit
+9steps = !INV or S/T w/o introducing shortness
+3M = !Mixed raise
 
 ** Natural invitational 2/1 by passed hand
 
