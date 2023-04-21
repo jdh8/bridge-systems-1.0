@@ -8,6 +8,6 @@ REF="$(git symbolic-ref --short HEAD)"
 git checkout gh-pages
 git merge --no-commit main
 make "$@"
-git commit --no-edit
+git commit -a --amend --no-edit
 git push
 git checkout "$REF"
