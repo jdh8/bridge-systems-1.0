@@ -254,11 +254,11 @@ alleviate the burden on 2NT.
 
 1C-1H-1S-
 1N = 0--3!s, 7--10 HCP
-2C = !F, 7--11 HCP, XYZ
-2D = !FG, XYZ
-2H = 5+!h, 7--10 HCP
-2S = 4+!s, 7--10 points
-2N = INV, 1--3!s, 4!h, 10--11 HCP
+2C = !NF XYZ (R), 7--11 HCP
+2D = !FG XYZ (R)
+2H = INV, 5!h, 10--11 HCP
+2S = INV, 4+!s
+2N = !TRF, 6+!c, 7--9 HCP
 3C = INV, 5+!c, 9--11 HCP
 3D = INV, 5+!d, 9--11 HCP
 3H = INV, 6+!h
@@ -269,25 +269,26 @@ alleviate the burden on 2NT.
 
 The 2!c response contains the following types of hands
 
-- 6+!d, 7--8 HCP, planning to pass the 2!d relay
-- 6+!c, 7--10 HCP, planning to stop at 3!c
-- Invitational 4+!s support
-- Invitational 5+!h
+- Minimum 6+!d, planning to pass the 2!d relay
+- Minimum 5+!h, planning to rebid 2!h
+- Minimum 4+!s support, planning to rebid 2!s
+- Balanced invitation, planning to rebid 2NT
 
 1C-1H-1S-2C-
+P  = 6+!c, 12--13 HCP
 2D = !NF (R), 12--16 HCP
 2H = FG, 53xx, 18+ HCP
 2S = FG, 5!s, 18+ HCP
-2N = FG, 4!s, 18+ HCP
-3C = FG, 5+!c, 17+ HCP
+2N = INV, 4!s, 15--17 HCP
+3C = INV, 5+!c, 15--17 HCP
 3D = FG, 5+!d, 18+ HCP
+3N = S/O, 17+ HCP
 
 1C-1H-1S-2C-2D-
-P  = 6+!d, 7--8 HCP
-2H = INV, 5!h, 10--11 HCP
-2S = INV, 4+!s, 10--11 HCP
-2N = !TRF, 6+!c, 7--8 HCP
-3C = 6+!c, 9--10 HCP
+P  = MIN, 6+!d, 7--10 HCP
+2H = MIN, 5+!h, 7--10 HCP
+2S = MIN, 4+!s
+2N = INV, 1--3!s, 4!h, 10--11 HCP
 
 The 2!d response contains the following types of hands
 
