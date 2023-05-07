@@ -265,8 +265,6 @@ alleviate the burden on 2NT.
 3S = FG, 4+!s
 3N = 0--3!s, 4!h, 0--5!d, 0--5!c, 12--15 HCP
 
-#SEAT 12
-
 The 2!c response contains the following types of hands
 
 - Minimum 6+!d, planning to pass the 2!d relay
@@ -290,6 +288,8 @@ P  = MIN, 6+!d, 7--10 HCP
 2S = MIN, 4+!s
 2N = INV, 1--3!s, 4!h, 10--11 HCP
 
+#SEAT 12
+
 The 2!d response contains the following types of hands
 
 - Game forcing 5 hearts or unbalanced 5+ clubs, seeking a fit
@@ -305,17 +305,16 @@ The 2!d response contains the following types of hands
 3S = 4144, 18+ HCP
 3N = 42(52) or 42(43), 18+ HCP
 
-**** Turning off XYZ by a passed hand
+**** Turning off FG XYZ by a passed hand
 
 #SEAT 34
 
-XYZ is off by a passed hand because game-forcing options become impossible.
+FG XYZ is off by a passed hand because game-forcing options become impossible.
+We simply move the 3!d response to 2!d.
 
 1C-1H-1S-
-2C = NF, 5+!c
-2D = INV 4SF
-3C = INV, 5+!c
-3H = INV, 6+!h
+2D = INV, 5+!d, 9--11 HCP
+
 
 #SEAT 0
 
