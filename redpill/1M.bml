@@ -6,11 +6,11 @@
 2C = FG, 4+!c
 2D = FG, 4+!d
 2H = 3+!h, 8.5--9.5 NLTC
-2S = !FG, 4+!h
-2N = !INV or S/T, 0--1!c or 0--1!d, 4+!h
-3C = !INV or S/T, 0--1!s, 4+!h
-3D = !INV or S/T, 4+!h
-3H = !CONST, 4+!h
+2S = !INV, (54)+ in minors, 9--11 HCP
+2N = !FG, 4+!h
+3C = !INV, 4+!h
+3D = !CONST, 4+!h
+3H = !PRE, 4+!h
 3S = !FG SPL, 0--1!s, 4+!h
 3N = !Choice of games, 33(43), 12--15 HCP
 4C = !FG SPL, 0--1!c, 4+!h
@@ -32,17 +32,22 @@
 4X = !FG SPL, 0--1#, 4+!s
 4S = PRE, 4+!s
 
-Our 4-card support step responses by Ting-Yu Ye (TpKotoba) cover the forcing
-raise (Kickback Jacoby), mini-Splinters, and the mixed raise.
+Note that we use difference 4-card raising structures for 1!h and 1!s.  Our
+spade raises cover all mini-Splinters and a mixed raise.  On the other hand, we
+use reverse Bergen raises for hearts for several reasons:
 
-1M-
-6steps = !FG w/o introducing shortness
-7steps = !INV or S/T, SPL of M−1 or M−2
-  1step  = Strength in this suit
-  2steps = Strength in this suit
-8steps = !INV or S/T, SPL of the other suit
-9steps = !INV or S/T w/o introducing shortness
-3M = !Mixed raise
+1. We have more preemptive uses for 1!h-2!s such as invitational both minors or
+   a weak jump shift.
+2. As a corollary, we don't have enough room to discriminate all mini-Splinters.
+3. We need 1!h-3!h to preempt a potential spade fit while 1!s-2!s is usually
+   enough for a heart fit.
+
+1S-3C-
+3D = INV, decline a !d SPL
+3H = INV, decline a !h SPL
+
+1S-3D-
+3H = F1, 4+!h
 
 ** Natural invitational 2/1 by passed hand
 
