@@ -1,0 +1,36 @@
+* Over strong (1!c)
+
+We use DOSC, our self-made defense inspired by DONT and Terrorist's Moscito.
+
+(1C)-
+D  = ! 4+!h, 12--16 HCP
+1D = ! 4+!s, 12--16 HCP
+1H = ! 4+!h, 4+X, 5--11 HCP
+1S = ! 4+!s, 4+m, 5--11 HCP
+1N = ! 5+m, 12--16 HCP
+2C = ! 4+!c, 4+!d, 5--11 HCP
+2D = ! 6+M, 5--11 HCP
+2M = 5M(332), 5--11 HCP
+2N = !UNT, 5+!d, 5+!c, 5--11 HCP
+
+(1C)-D-
+1D = !NF (R), 0--2!h, 0--10 HCP
+1H = 3+!h, 0--10 HCP
+1S = F, 4+!s
+1N = !INV+ TRF, 4+!c
+2C = !INV+ TRF, 4+!d
+2D = !INV+ TRF, 4+!h
+2H = 4+!h, 0--10 HCP
+2N = !INV+, 5+!h
+3H = 5+!h, 0--10 HCP
+
+(1C)-1D-
+1H = !NF (R), 0--2!s, 0--10 HCP
+1S = 3+!s, 0--10 HCP
+1N = !INV+ TRF, 4+!c
+2C = !INV+ TRF, 4+!d
+2D = !INV+ TRF, 5+!h
+2H = !INV+ TRF, 3+!s
+2S = 4+!s, 0--10 HCP
+2N = !INV+, 5+!s
+3S = 5+!s, 0--10 HCP
