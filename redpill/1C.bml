@@ -138,16 +138,22 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 
 1C-1D-2D-
 2H = TRF, 5+!s
-2S = PUP
+2S = TRF to 2NT
+  2N = 2--4!s, 2--4!h, 2--6!d, 2--6!c
+    3C = !STAY, may be Garbage
+    3D = !TRF, 5!h(332), choice of games
+    4D = !Texas TRF, 6+!h
+  3C = 5+!c, not BAL
+  3D = 5+!d, not BAL
+  3H = 44(41)
+  3S = 4144
+  3N = 1444
 2N = TRF, 6+!c or S/T 5+!d 5+!c
 3C = TRF, 6+!d
 3D = TRF, 5+!h
 3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
 3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 3N = !Choice of games, 22(54)
-
-1C-1D-2D-2S-2N-
-3C = STAY, may be Garbage
 
 1C-1D-2N-
 3C = PUP STAY
