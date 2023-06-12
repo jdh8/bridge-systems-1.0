@@ -6,8 +6,8 @@
 
 * Introduction
 
-Welcome to Bluepill Club!  This bidding system is largely based on Blue Club
-and Meckwell Lite.  Changes are made with my improvisation.
+Welcome to Bluepill Club!  This bidding system is largely based on Blue Club.
+Changes are made with my improvisation.
 
 We use the distribution syntax and abbreviations provided by WBF.
 
@@ -27,6 +27,8 @@ https://bridgewinners.com/convention-card/print/bluepill-club/99274
   [Kaninklöver / Cottontail Club: A Cheatsheet (2022)](https://github.com/Egroegw/Kaninklover)
 - Arturo Franco, Marco Pancotti, and Daniel J. Neill.
   [Blue Team Club](https://bridgewithdan.com/wp-content/uploads/2019/07/BTC2000_gmeier.pdf)
+- Edward Piwowar.
+  [PC - Meckwell Lite Precision Club](https://sites.google.com/view/bbaenglish/description-of-systems/pc-meckwell-lite-precision-club)
 
 #INCLUDE common/evaluation.bml
 

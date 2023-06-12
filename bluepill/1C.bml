@@ -1,46 +1,30 @@
 * Strong 1!c opening
 
-We bid like Meckwell Lite by default.  We use the transfer system from
-Cottontail Club over 1!c-1!d.
+We use Polish style responses to the 1!c opening.  These responses are
+described as /canapé style/ in "PC - Meckwell Lite Precision Club" by
+Edward Piwowar:
 
-The feature of Meckwell Lite is 1!c-1!h as the minimum game-forcing step.  This
-treatment also let opener declare often.  The rest of the system is mostly
-natural.
+https://sites.google.com/view/bbaenglish/description-of-systems/pc-meckwell-lite-precision-club
 
 1C-
 1D = !NEG, 0--7 HCP
-1H = !FG, 8--11 HCP
-1S = S/T, 5+!s, 12+ HCP
-1N = S/T, 2--4!s, 2--4!h, 2--5!d, 2--5!c, 12+ HCP
-2C = S/T, 5+!c, 12+ HCP
-2D = S/T, 5+!d, 12+ HCP
-2H = S/T, 5+!h, 12+ HCP
-2S = !FG PUP, (4441), 8--11 HCP
-2N = !S/T PUP, (4441), 12+ HCP
-3C = !INV, 6+!c, 3--7 HCP
-3D = !INV, 6+!d, 3--7 HCP
-3H = !INV, 6+!h, 3--7 HCP
-3S = !INV, 6+!s, 3--7 HCP
-4M = PRE, 8+#, 0--4 HCP
-
-The (mixed) preempts beyond 2NT are optional.  We bid the negative 1!d if we
-want to cede declarership.
-
-** Positive responses by passed hand
-
-#SEAT 34
-
-1C-
-1H = FG, 5+!h
-1S = FG, 5+!s
-1N = FG, 2--4!s, 2--4!h, 2--5!d, 2--5!c
+1H = FG, 4+!h
+1S = FG, 4+!s
+1N = FG, 2--3!s, 2--3!h, 2--5!d, 2--5!c
 2C = FG, 5+!c
 2D = FG, 5+!d
-2H = !FG, 44(41)
-2S = !FG, 4144
-2N = !FG, 1444
+2H = 5+!h, 8--11 or 15+ HCP
+2S = 5+!s, 8--11 or 15+ HCP
+2N = 33(43), 12--14 HCP
+3C = INV, 7+!c, 4--7 HCP
+3D = INV, 7+!d, 4--7 HCP
+3H = INV, 7+!h, 4--7 HCP
+3S = INV, 7+!s, 4--7 HCP
+3N = 33(43), 8--11 HCP
+4M = PRE, 8+#, 0--4 HCP
 
-#SEAT 0
+This response scheme is canapé with a minimum game force.  With a 4-card major,
+a 5-card minor, and 8--11 HCP, responder bids the major first.
 
 ** Negative 1!d response
 
