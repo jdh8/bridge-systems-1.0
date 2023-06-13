@@ -1,6 +1,5 @@
-all: TpKotoba.bss TpKotoba.htm \
+all: bluepill.bss bluepill.htm \
      redpill.bss redpill.htm \
-     bluepill.bss bluepill.htm \
      defense.bss defense.htm
 	@:
 

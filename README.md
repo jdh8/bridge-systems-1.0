@@ -16,10 +16,6 @@ sticker.
 - [Bluepill Club](https://jdh8.github.io/bridge-systems/bluepill.htm) 🔵 💊 🇮🇹
 - [Defensive bidding system](https://jdh8.github.io/bridge-systems/defense.htm) 🛡
 
-Systems with a partner
-----------------------
-- [TpKotoba](https://jdh8.github.io/bridge-systems/TpKotoba.htm), based on Blue Club
-
 Building HTML and BSS files
 ---------------------------
 
