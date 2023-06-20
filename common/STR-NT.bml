@@ -1,29 +1,28 @@
 * Strong notrump opening
 
-We use the French-style 4-way transfers to preserve the natural invitation.  We
-invite naturally rather than via Stayman because 2NT hides information of the
-declarer.
+We use the American-style 4-way transfers with an adjunct.  We also transfer
+balanced invitational hands at 2!s.  We bid 3!c instead with invitational 6+!c.
 
 The responder tries to show a major first always (MAFIA).  The only exception
 is not to bid Stayman with (4333), a hand so flat that playing notrump is a
 better idea.
 
 1N-
-2C = STAY, may be Garbage
-2D = TRF, 5+!h
-2H = TRF, 5+!s
-2S = !TRF, 6+!c or S/T 5+!d 5+!c
-2N = NAT INV
-3C = !TRF, 6+!d
-3D = !Choice of games, 5+!s, 5+!h
-3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
-3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
+2C = !STAY, may be Garbage
+2D = !TRF, 5+!h
+2H = !TRF, 5+!s
+2S = !TRF, 6+!c or BAL INV
+2N = !TRF, 6+!d
+3C = INV, 6+!c
+3D = !FRAG, 0--1!h, 2--3!s, 4--5!d, 4--5!c
+3H = !FRAG, 0--1!s, 2--3!h, 4--5!d, 4--5!c
+3S = !Choice of games, 5+!s, 5+!h
 3N = S/O
 4C = !Gerber, ask for aces
-  4D = 0 or 4 aces
-  4H = 1 ace
-  4S = 2 aces
-  4N = 3 aces
+  4D = ! 0 or 4 aces
+  4H = ! 1 ace
+  4S = ! 2 aces
+  4N = ! 3 aces
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
@@ -39,7 +38,7 @@ Garbage Stayman.
 - WK, 4!s, 4!h, 4--5!d, 0--1!c
 
 1N-2C-
-2D = 2--3!s, 2--3!h
+2D = ! 2--3!s, 2--3!h
 2H = 4!h
 2S = 4!s, 2--3!h
 
@@ -108,7 +107,9 @@ problems like 1NT-2!d-3!d!-3!h?.
   2S = INV, 5+!s
   2N = INV, 5!h
   3C = FG, 4+!c
+    3S = ! 2!h, 4+!c
   3D = FG, 4+!d
+    3S = ! 2!h, 4+!d
   3H = INV, 6+!h
   3S = !SPL, 0--1!s, 6+!h
   3N = P/C, 5!h
@@ -129,8 +130,10 @@ problems like 1NT-2!d-3!d!-3!h?.
 2S = (R)
   2N = INV, 5!s
   3C = FG, 4+!c
+    3H = ! 2!s, 4+!c
   3D = FG, 4+!d
-  3H = FG, 5+!h
+    3H = ! 2!s, 4+!d
+  3H = S/T, 5+!h
   3S = INV, 6+!s
   3N = P/C, 5!s
   4C = !SPL, 0--1!c, 6+!s
@@ -159,21 +162,23 @@ To find the better fit, we consider the length difference between majors in our
 partnership.  The opener's difference is at most 2, so our basic strategy is
 
 - *Same lengths*: let partner decide
-- *Difference = 1*: proactive negotiation
-- *Difference > 1*: ignore the shorter suit
+- *Difference 1--2*: proactive negotiation
+- *Difference > 2*: ignore the shorter suit
 
 However, with a weak hand, it is more important to keep the bidding low.  We
 transfer to our longer major and then pass.
 
 **** Same lengths, 55+
 
-We choose the hearts from a weak two suiter for a chance to run out to 2!s.
+We choose the hearts from a weak two suiter for a chance to run out to 2!s
+unless spades are sufficiently better.
 
 - *Weak* = 2!d (→!h); then pass
 - *Invitational* = 2!d (→!h); then 2!s
+- *Choice of games* = 3!s
 - *Forcing to game* = 2!h (→!s); then 3!h
 
-**** Difference = 1, (54)+
+**** Difference 1--2, (54)+
 
 - *Weak* = transfer to the longer major
 - *Invitational+* = Stayman
@@ -188,30 +193,33 @@ We choose the hearts from a weak two suiter for a chance to run out to 2!s.
 
 ** Minor transfer
 
-We only show minor suits with a singleton or void.  We play minor contracts 2
-levels above notrump contracts (3m vs 1NT and 5m vs 3NT), so we need a pretty
-unbalanced hand.
-
 We use fragment bids instead of Splinters here to avoid lead-directing doubles.
 
 1N-2S-
-2N = MAX, 4+!c
+2N = !MIN
   3C = S/O
-  3D = S/T, 5+!d, 5+!c
-  3H = !FRAG, 0--1!s, 6+!c
+  3D = !FRAG, 0--1!s, 6+!c
+  3H = !FRAG, 0--1!d, 6+!c
   3S = !FRAG, 0--1!h, 6+!c
-  3N = !FRAG, 0--1!d, 6+!c
   4S = !Retransfer, 6+!c
-3C = (R)
-  3D = S/T, 5+!d, 5+!c
-  3H = !FRAG, 0--1!s, 6+!c
+3C = !MAX
+  3D = !FRAG, 0--1!s, 6+!c
+  3H = !FRAG, 0--1!d, 6+!c
   3S = !FRAG, 0--1!h, 6+!c
-  3N = !FRAG, 0--1!d, 6+!c
+  4S = !Retransfer, 6+!c
+3D = !MAX, 4+!c
 
-1N-3C-3D-
-3H = !FRAG, 0--1!s
-3S = !FRAG, 0--1!h
-3N = !FRAG, 0--1!c
+1N-2N-
+3C = !MIN
+  3D = S/O
+  3H = !FRAG, 0--1!s
+  3S = !FRAG, 0--1!h
+  5C = !Retransfer
+3D = !MAX
+  3H = !FRAG, 0--1!s
+  3S = !FRAG, 0--1!h
+  5C = !Retransfer
+3H = !MAX, 4+!d
 
 We move the minor Stayman to the unallocated 4!s.  Since the opener must have a
 3+ card minor, 55 minors would ensure a minor fit.  The opener rebids based on
@@ -219,7 +227,7 @@ suit preference.
 
 1N-4S-
 4N = !Equal preference
-5m = S/P S/O
+5m = To play
 
 ** Competitive bidding
 
@@ -232,24 +240,58 @@ Competition does not affect auctions at 3NT and above.
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
 
-We keep things simple over 1NT-(Dbl).  Everything is natural.
+*** Over (Dbl)
+
+We keep things simple over a strong double (10+ HCP).  Everything is natural.
 
 1N-(D)-
 R  = INV+
 2X = 5+#
 
-We play /systems on/ over 1NT-(2!c).  Most bids keep the same meaning.
+*** Over (2!c)
+
+We play /systems on/ over 1NT-(2!c).  Most bids keep the same meaning.  This is
+because 2!c is so low that we can treat it as (mirrored) (1!c)-1NT.
+
+- If there is no anchor suit, we completely ignore the 2!c bid.
+- With one anchor suit X, we treat it as (1X)-1NT, where /systems on/ also
+applies.
+- With a major and a minor anchor suits, we ignore the minor suit.
 
 1N-(2C)-
 D  = !STAY, may be Garbage
 2D = !TRF, 5+!h
 2H = !TRF, 5+!s
-2S = !TRF, 6+!d
-2N = NAT INV
-3C = !SPL, 0--1!c, 4!s, 4!h, 4--5!d
-3D = !SPL, 0--1!d, 4!s, 4!h, 4--5!c
-3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
-3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
+2S = !TRF, 6+!c or BAL INV
+2N = !TRF, 6+!d
+
+We recommend Leaping Michaels over a sole anchor suit.  Take natural clubs for
+example.
+
+1N-(2C)-
+3C = !INV+, 6+!d, at most partial stop in !c
+3D = !FG, 5+!s, 5+!h
+3H = !FG, 5+!h, 5+!d
+3S = !FG, 5+!s, 5+!d
+
+The real headache is when (2!c) shows both majors e.g. Landy.  We recommend
+reverse unusual vs. unusual.
+
+1N-(2C)-
+D  = Suggest penalizing either major
+2D = To play, 5+!d
+2H = !INV+, 5+!d
+2S = !INV+, 5+!c
+2N = !INV+, 4+!d, 5+!c
+3C = To play, 6+!c
+3D = To play, 6+!d
+3H = !Ask for !h stopper
+3S = !Ask for !s stopper
+
+Note that we pass when we can penalize both majors.  A delayed double is for
+penalty since a takeout can usually penalize the other major.
+
+*** Over (2!d!h!s)
 
 We play Transfer Lebensohl against overcalls 2!d!h!s.
 
@@ -298,6 +340,8 @@ D  = !OPT, BAL INV
 3H = !FG STAY, 4+!h
 3S = !FG, usually short !s
 3N = S/O, likely stop in !s
+
+*** Over (2NT)
 
 We have a special unusual vs. unusual structure over 1NT-(2NT) because we have
 not yet shown a suit.
