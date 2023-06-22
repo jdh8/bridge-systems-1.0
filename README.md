@@ -9,12 +9,11 @@ gpaulissen/bml#21 gets fixes.
 Pill bidding systems
 ----------------------
 My pet forcing club bidding systems.  I believe bidding 1♣ for all strong hands
-is a superior treatment.  The color of a pill corresponds to its WBF colored
-sticker before 2023.
+is a superior treatment.
 
-- [Capoo Polish Club](https://jdh8.github.io/bridge-systems/wj.htm) 🇵🇱
-- [Modern Blue Club](https://jdh8.github.io/bridge-systems/blue.htm) 🇮🇹
-- [Defensive bidding system](https://jdh8.github.io/bridge-systems/defense.htm) 🛡
+- [Capoo Polish Club](https://jdh8.github.io/bridge-systems/wj.htm)
+- [Modern Blue Club](https://jdh8.github.io/bridge-systems/blue.htm)
+- [Defensive bidding system](https://jdh8.github.io/bridge-systems/defense.htm)
 
 Building HTML and BSS files
 ---------------------------
