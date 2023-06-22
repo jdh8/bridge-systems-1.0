@@ -12,16 +12,9 @@ My pet forcing club bidding systems.  I believe bidding 1♣ for all strong hand
 is a superior treatment.  The color of a pill corresponds to its WBF colored
 sticker before 2023.
 
-- [Redpill Polish Club](https://jdh8.github.io/bridge-systems/redpill.htm) 🔴 💊 🇵🇱
-- [Bluepill Club](https://jdh8.github.io/bridge-systems/bluepill.htm) 🔵 💊 🇮🇹
+- [Redpill Polish Club](https://jdh8.github.io/bridge-systems/redpill.htm) 🇵🇱
+- [Modern Blue Club](https://jdh8.github.io/bridge-systems/blue.htm) 🇮🇹
 - [Defensive bidding system](https://jdh8.github.io/bridge-systems/defense.htm) 🛡
-
-[As of 2023, WBF updated their policy.][stickers]  Polish Club is now a blue
-sticker system.  This change breaks the play on the [red pill and bluepill][pills].
-However, I am glad that Polish Club is more widely accepted now.
-
-[stickers]: http://www.worldbridge.org/wp-content/uploads/2016/12/WBFSystemsPolicy.pdf
-[pills]: https://en.wikipedia.org/wiki/Red_pill_and_blue_pill
 
 Building HTML and BSS files
 ---------------------------

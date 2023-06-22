@@ -1,4 +1,4 @@
-#+TITLE: Bluepill Club
+#+TITLE: Modern Blue Club
 
 #+AUTHOR: Chen-Pang He (jdh8) and Ting-Yu Ye (TpKotoba)
 
@@ -6,8 +6,8 @@
 
 * Introduction
 
-Welcome to Bluepill Club!  This bidding system is largely based on Blue Club.
-Changes are made with my improvisation.
+Welcome to Modern Blue Club!  This bidding system is largely based on Blue
+Club.  Changes are made with my improvisation.
 
 We use the distribution syntax and abbreviations provided by WBF.
 
@@ -15,7 +15,7 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
 The ACBL convention card of this system is at
 
-https://bridgewinners.com/convention-card/print/bluepill-club/99274
+https://bridgewinners.com/convention-card/print/blue-club/99274
 
 ** References
 
@@ -83,9 +83,9 @@ There is also canapé for minimum 4M5!c.  We open 1M so that 4M5!c hands in the
 - *20--21*: 1!c-1!d-2NT
 - *22--23*: 1!c-1!d-1!h-1!s-2NT
 
-#INCLUDE bluepill/1C.bml
-#INCLUDE bluepill/1D.bml
-#INCLUDE bluepill/1M.bml
+#INCLUDE blue/1C.bml
+#INCLUDE blue/1D.bml
+#INCLUDE blue/1M.bml
 #INCLUDE common/STR-NT.bml
 #INCLUDE common/Multi.bml
 #INCLUDE common/UNT.bml
