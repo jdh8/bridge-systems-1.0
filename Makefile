@@ -1,5 +1,5 @@
 all: blue.bss blue.htm \
-     redpill.bss redpill.htm \
+     wj.bss wj.htm \
      defense.bss defense.htm
 	@:
 

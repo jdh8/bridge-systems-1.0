@@ -1,4 +1,4 @@
-#+TITLE: Redpill Polish Club
+#+TITLE: Capoo Polish Club
 
 #+AUTHOR: Chen-Pang He (jdh8)
 
@@ -6,7 +6,7 @@
 
 * Introduction
 
-Welcome to Redpill Polish Club!  Polish Club is a 5-card major small club
+Welcome to Capoo Polish Club!  Polish Club is a 5-card major small club
 bidding system, where the 1!c opening is forcing but not necessarily strong.
 This bidding system is largely based on /Polish Club 2020: Expert./  Changes
 are made with /Good, Better, Best/ and my improvisation.
@@ -17,7 +17,7 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 
 The ACBL convention card of this system is at
 
-https://bridgewinners.com/convention-card/print/redpill-polish-club/98013
+https://bridgewinners.com/convention-card/print/capoo-polish-club/98013
 
 ** Notable differences from /Polish Club 2020: Expert/
 
@@ -85,10 +85,10 @@ https://bridgewinners.com/convention-card/print/redpill-polish-club/98013
 - *21--23*: 1!c-1!d-2NT
 - *24+*: 1!c-1!d-2!d-2!h-2NT
 
-#INCLUDE redpill/1C.bml
-#INCLUDE redpill/1D.bml
-#INCLUDE redpill/1M.bml
+#INCLUDE wj/1C.bml
+#INCLUDE wj/1D.bml
+#INCLUDE wj/1M.bml
 #INCLUDE common/STR-NT.bml
-#INCLUDE redpill/2C.bml
+#INCLUDE wj/2C.bml
 #INCLUDE common/Multi.bml
 #INCLUDE common/UNT.bml
