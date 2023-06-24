@@ -8,7 +8,7 @@ chance to stop at 1NT.
 1H-
 1S = F, 4+!s, 8+ HCP
 1N = NF, 8--12 HCP
-2C = FG, 4+!c
+2C = FG, 4+!c or STR 3433
 2D = FG, 4+!d
 2H = CONST, 4!h
 2S = WJS, 6+!s, 0--7 HCP
@@ -22,11 +22,15 @@ chance to stop at 1NT.
 4D = !FG SPL, 0--1!d, 4+!h
 4H = PRE, 5+!h
 
+We swap 2!c and 2!h over 1!s, inspired by Twisted 2/1 by Ting-Yu Ye (TpKotoba).
+
+https://hackmd.io/@TpKotoba/refx
+
 1S-
 1N = NF, 8--12 HCP
-2C = FG, 3+!c
-2D = FG, 4+!d
-2H = FG, 5+!h
+2C = !CONST 5+!h or FG 4+!h
+2D = FG, 4+!d or STR 4333
+2H = !FG, 4+!c
 2S = CONST, 4!s
 2N = !INV or S/T, 4+!s
 3C = !FG, 5+!s
@@ -36,6 +40,17 @@ chance to stop at 1NT.
 3N = !Choice of games, (4333), 12--15 HCP
 4X = !FG SPL, 0--1#, 4+!s
 4S = PRE, 5+!s
+
+1S-2C-
+2D = !(R), MIN 4!s 0--1!h or MAX 3+!h
+2H = MIN, 2--3!h
+2S = MIN, 5+!s
+2N = MAX, 1--2!h
+3C = MAX, 5+!s, 4+!c
+3D = MAX, 5+!d
+3H = MIN, 4+!h
+3S = MAX, 6+!s
+4H = MAX, 5+!h
 
 ** Natural invitational 2/1 by passed hand
 
