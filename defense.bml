@@ -16,3 +16,4 @@ improvisation.
 
 #INCLUDE defense/1X.bml
 #INCLUDE defense/STR-1C.bml
+#INCLUDE defense/STR-NT.bml
