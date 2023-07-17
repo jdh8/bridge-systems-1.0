@@ -19,3 +19,4 @@ improvisation.
 #INCLUDE defense/STR-NT.bml
 #INCLUDE defense/WK-NT.bml
 #INCLUDE defense/STR-2C.bml
+#INCLUDE defense/NAT-2X.bml
