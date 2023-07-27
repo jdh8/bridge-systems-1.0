@@ -65,10 +65,10 @@ applies to minimum game force.
 2M = PRE, 5+#, 4--10 HCP
 2N = !UNT, 5+!d, 5+!c, 4--10 HCP
 3X = PRE, 7+#, 4--10 HCP
-3N = !Gambling, SOL 7+m, 0--1 (partial) stop outside
-4C = !Namyats, S-SOL 7+!h, 4.5--5.5 NLTC
-4D = !Namyats, S-SOL 7+!s, 4.5--5.5 NLTC
-4M = PRE, good 7+#
+3N = !Gambling, SOL 7+m, 0--1 outside A/K
+4C = !PRE, S-SOL 8+M, 0--1 outside A/K
+4D = !PRE, SOL 8+M, no outside A/K
+4M = PRE, 8+#
 4N = !UNT, 6+!d, 6+!c, 11--15 HCP
 
 Note that we don't open 11 HCP balanced hands.  Unlike aggressive sibling
