@@ -44,9 +44,14 @@ https://bridgewinners.com/convention-card/print/capoo-polish-club/98013
 
 *** Slam try
 
-- We use kickback and exclusion RKCB 1430 for all suits.
-- Uncovered by the book, we also suggest using the non-serious 3NT, Optional
-  Minorwood, and Last Train in slam tries.
+- We use kickback RKCB 1430 for all suits.
+- When we have found two fits X and Y, we use the lowest 3 spare bids as RKCB
+  in X, Y, and both suits respectively.  We regard each trump Q as half a
+  keycard in double RKCB.
+- New suits above RKCB are control asking RKCB.  Return to 5X if you lack a
+  control in that suit.  Otherwise, use the other steps like RKCB.
+- We also suggest using the non-serious 3NT, Optional Minorwood, and Last Train
+  in slam tries.
 
 ** References
 
