@@ -3,14 +3,14 @@
 1D-
 1H = F, 4+!h
 1S = F, 4+!s
-1N = NAT, 3+!c, 7--10 HCP
-2C = FG, 4+!c, 12+ HCP
-2D = !INV+, 4+!d, 10+ HCP
+1N = NAT, 4+!c, 7--10 HCP
+2C = FG, 4+!c or 4+!d, 12+ HCP
+2D = CONST, 3--4!d, 7--10 HCP
 2H = !P/C, 4+!h, 5+!s, 7--9 HCP
-2S = !INV 5+!c, 9--11 HCP
+2S = !INV, 4+!d or 6+!c, 10--11 HCP
 2N = BAL INV, 10--11 HCP
-3C = !Mixed raise, 4+!d, 8--10 HCP
-3D = !PRE, 4+!d, 5--8 HCP
+3C = !Mixed raise, 4+!d, 8--9 HCP
+3D = !PRE, 4+!d, 5--7 HCP
 3H = !SPL, 0--1!h, 4+!d, 12--15 HCP
 3S = !SPL, 0--1!s, 4+!d, 12--15 HCP
 3N = To play, 12--15 HCP
@@ -90,7 +90,7 @@ between variants of 1!d-1!s-2!h below 3!d.
 R  = BAL 2--4!d, 10+ HCP
 1H = F, 4+!h
 1S = F, 4+!s
-1N = NAT, 3+!c, 7--10 HCP
+1N = NAT, 4+!c, 7--10 HCP
 2C = F1, 5+!c, 10+ HCP
 2D = 3--4!d, 7--10 HCP
 2H = PRE, 6+!h
