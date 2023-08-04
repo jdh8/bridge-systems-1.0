@@ -1,7 +1,7 @@
 * Strong 1!c opening
 
 We use Polish style responses to the 1!c opening.  These responses are
-described as /canapé style/ in "PC - Meckwell Lite Precision Club" by
+derived from /canapé style/ in "PC - Meckwell Lite Precision Club" by
 Edward Piwowar:
 
 https://sites.google.com/view/bbaenglish/description-of-systems/pc-meckwell-lite-precision-club
@@ -15,16 +15,21 @@ https://sites.google.com/view/bbaenglish/description-of-systems/pc-meckwell-lite
 2D = FG, 5+!d
 2H = 5+!h, 8--11 or 15+ HCP
 2S = 5+!s, 8--11 or 15+ HCP
-2N = 33(43), 12--14 HCP
-3C = INV, 7+!c, 4--7 HCP
-3D = INV, 7+!d, 4--7 HCP
+2N = INV, 7+m, 4--7 HCP
+3C = S/T, 6+!c, 12+ HCP
+3D = S/T, 6+!d, 12+ HCP
 3H = INV, 7+!h, 4--7 HCP
 3S = INV, 7+!s, 4--7 HCP
-3N = 33(43), 8--11 HCP
+3N = 33(43), 12--14 HCP
 4M = PRE, 8+#, 0--4 HCP
 
 This response scheme is canapé with a minimum game force.  With a 4-card major,
 a 5-card minor, and 8--11 HCP, responder bids the major first.
+
+Responder rebids their major after 1!c-1M is a slam try.
+
+- *2M*: 5+#, 12+ HCP
+- *3M*: 6+#, 15+ HCP
 
 ** Negative 1!d response
 
