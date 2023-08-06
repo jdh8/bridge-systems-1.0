@@ -6,10 +6,8 @@ gpaulissen/bml#21 gets fixes.
 
 [fork]: https://github.com/jdh8/bml
 
-Pill bidding systems
-----------------------
-My pet forcing club bidding systems.  I believe bidding 1♣ for all strong hands
-is a superior treatment.
+The below are my pet forcing club bidding systems.  I believe bidding 1♣ for
+all strong hands is a superior treatment.
 
 - [Capoo Polish Club](https://jdh8.github.io/bridge-systems/wj.htm)
 - [Modern Blue Club](https://jdh8.github.io/bridge-systems/blue.htm)
