@@ -43,6 +43,10 @@
 3S = INV, 4+!s
 3N = SOL 7+!d, partial stops in !h and !c
 
+The precedence with 15--17 HCP is 4-card support > 4-card side suit > 3-card
+support.  Therefore, the reverse in the other major showing 3-card support
+promises either 6+!d or 18+ HCP.
+
 *** Wolff signoff
 
 Wolff signoff is a conventional 3!c over 2NT rebid.  Such 3!c puppets to 3!d,
