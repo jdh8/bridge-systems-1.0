@@ -12,15 +12,15 @@ chance to stop at 1NT.
 2D = FG, 4+!d
 2H = CONST, 4!h
 2S = WJS, 6+!s, 0--7 HCP
-2N = !INV or S/T, 4+!h
+2N = !INV+, 4!h
 3C = !FG, 5+!h
-3D = !INV, 5+!h
+3D = !INV or S/T, 5+!h
 3H = !CONST, 5+!h
-3S = !FG SPL, 0--1!s, 4+!h
+3S = !SPL, 0--1!s, 4+!h
 3N = !Choice of games, 3(433), 12--15 HCP
-4C = !FG SPL, 0--1!c, 4+!h
-4D = !FG SPL, 0--1!d, 4+!h
-4H = PRE, 5+!h
+4C = !SPL, 0--1!c, 4+!h
+4D = !SPL, 0--1!d, 4+!h
+4H = S/O, 4+!h
 
 We swap 2!c and 2!h over 1!s, inspired by Twisted 2/1 by Ting-Yu Ye (TpKotoba).
 
@@ -35,14 +35,14 @@ fit.
 2D = FG, 4+!d or STR 4333
 2H = !FG, 4+!c
 2S = CONST, 4!s
-2N = !INV or S/T, 4+!s
+2N = !INV+, 4!s
 3C = !FG, 5+!s
-3D = !INV, 5+!s
+3D = !INV or S/T, 5+!s
 3H = !INV, 5+!h, 4+!s
 3S = !CONST, 5+!s
 3N = !Choice of games, (4333), 12--15 HCP
-4X = !FG SPL, 0--1#, 4+!s
-4S = PRE, 5+!s
+4X = !SPL, 0--1#, 4+!s
+4S = S/O, 4+!s
 
 1S-2C-
 2D = !(R), MIN 4--5!s 0--1!h or MAX 5+!s 3+!h
