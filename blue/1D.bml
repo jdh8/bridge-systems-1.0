@@ -11,6 +11,6 @@
 2N = !PRE, 5+!d, 0--6 HCP
 3C = !Mixed raise, 5+!d, 7--9 HCP
 3D = INV, 5+!d, 10--11 HCP
-3H = !SPL, 0--1!h, 4+!d, 12--15 HCP
-3S = !SPL, 0--1!s, 4+!d, 12--15 HCP
+3H = !SPL, 0--1!h, 4+!d
+3S = !SPL, 0--1!s, 4+!d
 3N = 33(43), 12--15 HCP
