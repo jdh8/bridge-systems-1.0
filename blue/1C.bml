@@ -69,3 +69,16 @@ There are three variants in the 1!h relay:
 2H = !INV, 0--2!h, 5+ HCP
 2S = !SPL, 0--1!s, 3!h, 5+ HCP
 2N = !SPL, 0--1!s, 4!h, 5+ HCP
+
+1C-1D-1H-1N-
+2C = !BAL, 20+ HCP
+  2D = !TRF, 5+!h
+  2H = !TRF, 5+!s
+2D = !(R), 4+!h
+2H = MIN, 6+!h or 0--1!s
+2S = MIN, 4+!s
+2N = !FG, 4--5!s
+3C = FG, 5+!c
+3D = FG, 5+!d
+3H = FG, 6+!h
+3S = FG, 6+!s
