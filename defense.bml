@@ -15,7 +15,7 @@ This bidding system is based on /Good, Better, Best/ by Jan Eric Larsson and my
 improvisation.
 
 #INCLUDE defense/1X.bml
-#INCLUDE defense/STR-1C.bml
+#INCLUDE defense/F1C.bml
 #INCLUDE defense/STR-NT.bml
 #INCLUDE defense/WK-NT.bml
 #INCLUDE defense/STR-2C.bml
