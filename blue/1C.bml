@@ -8,41 +8,34 @@ https://sites.google.com/view/bbaenglish/description-of-systems/pc-meckwell-lite
 
 1C-
 1D = !NEG, 0--7 HCP
-1H = FG, 4+!h
-1S = FG, 4+!s
+1H = !FG, 4=!h
+1S = !FG, 4=!s
 1N = FG, 2--3!s, 2--3!h, 2--5!d, 2--5!c
-2C = FG, 5+!c
-2D = FG, 5+!d
-2H = 5+!h, 8--11 or 15+ HCP
-2S = 5+!s, 8--11 or 15+ HCP
-2N = INV, 7+m, 4--7 HCP
-3C = S/T, 6+!c, 12+ HCP
-3D = S/T, 6+!d, 12+ HCP
-3H = INV, 7+!h, 4--7 HCP
-3S = INV, 7+!s, 4--7 HCP
-3N = 33(43), 12--14 HCP
-4M = PRE, 8+#, 0--4 HCP
+2C = FG, 5+!c, 0--3!s, 0--3!h
+2D = FG, 5+!d, 0--3!s, 0--3!h
+2H = FG, 5+!h
+2S = FG, 5+!s
+2N = S/T, 2--3!s, 2--3!h, 2--5!d, 2--5!c, 11--13 HCP
+3C = INV, 7+!c, 4--7 HCP
+3D = INV, 7+!d, 4--7 HCP
+3H = INV, 6+!h, 4--7 HCP
+3S = INV, 6+!s, 4--7 HCP
+3N = 33(43), 8--10 HCP
+4C = PRE, 8+!c, 4--7 HCP
+4D = PRE, 8+!d, 4--7 HCP
+4H = PRE, 7+!h 4--7 HCP or 8+!h 0--7 HCP
+4S = PRE, 7+!s 4--7 HCP or 8+!s 0--7 HCP
 
-This response scheme is canapé with a minimum game force.  With a 4-card major,
-a 5-card minor, and 8--11 HCP, responder bids the major first.
-
-Responder rebids their major after 1!c-1M is a slam try.
-
-- *2M*: 5+#, 12+ HCP
-- *3M*: 6+#, 15+ HCP
+These exactly 4-card 1M responses are canapé style, i.e. there can be a longer
+side suit.  With (54) in majors, we usually bid the 4-card major first.
+However, with a mild slam try (11--13 HCP), we bid the 5-card major first to
+make a difference.
 
 ** Negative 1!d response
 
-The negative 1!d is the same in all seats.  We follow the philosophy of
-Cottontail Club here.  The philosophy of Cottontail Club is:
-
-- Opener bids naturally.
-- Responder's transfer cycle: !h → !s → NT → !h
-- Responder's minors are natural.
-
 1C-1D-
 1H = !F to 1NT, 4+!h or 20+ HCP
-1S = 4+!s, 16--20 HCP
+1S = 5+!s or 4144, 16--20 HCP
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 17--19 HCP
 2C = 5+!c, 16--20 HCP
 2D = 5+!d, 16--20 HCP
@@ -57,18 +50,33 @@ Cottontail Club here.  The philosophy of Cottontail Club is:
 
 There are three variants in the 1!h relay:
 
-- 5+!h or 1444, 16--20 HCP
+- 5+!h or 4!h(441), 16--20 HCP
 - 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--22 HCP
 - FG, 24+ HCP
+
+We employ a bidding structure similar to Kaplan Interchange to try to locate a
+partscore at a low level.
 
 1C-1D-1H-
 1S = !NEG, 0--4 HCP
 1N = !F, 5+M
-2C = !FRAG, 3--4!h, 2+!c, 5+ HCP
-2D = !FRAG, 3--4!h, 0--1!c, 5+ HCP
-2H = !INV, 0--2!h, 5+ HCP
-2S = !SPL, 0--1!s, 3!h, 5+ HCP
-2N = !SPL, 0--1!s, 4!h, 5+ HCP
+2C = !FRAG, 3--4!h, 2+!c, 5--7 HCP
+2D = !FRAG, 3--4!h, 0--1!c, 5--7 HCP
+2H = !INV, 0--2!h, 5--7 HCP
+2S = !SPL, 0--1!s, 3=!h, 5--7 HCP
+2N = !SPL, 0--1!s, 4=!h, 5--7 HCP
+
+1C-1D-1H-1S-
+1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--22 HCP
+2C = !NF MIN, 2--3!s, 5=!h, 2--4!d, 2--4!c
+2D = !NF MIN, 4=!s, 4--5!h
+2H = MIN, 6+!h
+2S = !MIN SPL, 0--1!s, 4--5!h, 3--4!d, 3--4!c
+2N = !FG
+3C = MIN, 5+!c, 5+!h
+3D = MIN, 5+!d, 5+!h
+3H = FG, 6+!h
+3S = FG, 6+!s
 
 1C-1D-1H-1N-
 2C = !BAL, 20+ HCP
@@ -76,7 +84,7 @@ There are three variants in the 1!h relay:
   2H = !TRF, 5+!s
 2D = !(R), 4+!h
 2H = MIN, 6+!h or 0--1!s
-2S = MIN, 4+!s
+2S = MIN, 4=!s, 4--5!h
 2N = !FG, 4--5!s
 3C = FG, 5+!c
 3D = FG, 5+!d
