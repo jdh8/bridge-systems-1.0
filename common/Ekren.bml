@@ -18,7 +18,7 @@ https://www.ptt.cc/man/BridgeClub/D6D1/D49B/DF20/M.969033796.A.html
 2M = S/O
 2N = NF NAT INV
 3C = !INV+, 3+!s
-  3D = !MIN, 4!s
+  3D = !MIN, 4=!s
   3H = !MAX, 5+!h
   3S = !MIN, 5+!s
   3N = !MAX, 44xx
@@ -29,7 +29,7 @@ https://www.ptt.cc/man/BridgeClub/D6D1/D49B/DF20/M.969033796.A.html
 3D = !INV+, 3+!h
   3H = !MIN
   3S = !MAX, 6+!s
-  3N = !MAX, 4!h
+  3N = !MAX, 4=!h
   4C = !SPL, 0--1!c, 5+!h
   4D = !SPL, 0--1!d, 5+!h
   4H = !MAX, 5+!h, 2+!d, 2+!c

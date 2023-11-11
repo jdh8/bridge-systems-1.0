@@ -40,7 +40,7 @@ case.
   3C = !NF (R)
     3D = COMP, 4+!d
     3H = !FG, 4+!c, at most likely stop
-    3S = !FG, 4!s w/ stop
+    3S = !FG, 4=!s w/ stop
     3N = !FG, 4+!c w/ stop
   3DS = 5+#, 18+ HCP
 3C = !TRF INV+, 4+!d
@@ -53,7 +53,7 @@ case.
 2N = !TRF Lebensohl
   3C = !NF (R)
     3D = !FG, 4+!c, at most likely stop
-    3M = !FG, 4# w/ stop
+    3M = !FG, 4=# w/ stop
     3N = !FG, 4+!c w/ stop
   3M = 5+#, 18+ HCP
 3C = !STAY
@@ -65,7 +65,7 @@ case.
 2X = COMP, 4+#
 2N = !Reverse Lebensohl
   3C = !(R)
-    3X = !FG, 4# w/ stop
+    3X = !FG, 4=# w/ stop
     3N = !FG, 4+!c w/ stop
   3X = 5+#, 18+ HCP
 3C = !TRF INV+, 4+!d

@@ -23,7 +23,7 @@
 2C = 4+!c, 5+!d, 12--17 HCP
 2D = 6+!d, 12--14 HCP
 2H = 4+!h, 12--14 HCP
-2S = !F, 3!h, 15+ HCP
+2S = !F, 3=!h, 15+ HCP
 2N = 0--3!s, 0--2!h, 18+ HCP
 3C = 5+!c, 5+!d, 15--17 HCP
 3D = 6+!d, 15--17 HCP
@@ -34,7 +34,7 @@
 1N = NAT, 12--14 HCP
 2C = 4+!c, 12--17 HCP
 2D = 5+!d, 12--14 HCP
-2H = !F, 4+!h or 3!s, 15+ HCP
+2H = !F, 4+!h or 3=!s, 15+ HCP
 2S = 4+!s or 3451, 12--14 HCP
 2N = 0--2!s, 0--3!h, 18+ HCP
 3C = 5+!c, 5+!d, 15--17 HCP
@@ -82,7 +82,7 @@ between variants of 1!d-1!s-2!h below 3!d.
 2S = NF, 5+!s
 2N = !(R)
   3C = !NF, 4+!h
-  3D = !NF, 3!s, 6+!d
+  3D = !NF, 3=!s, 6+!d
 3C = !4SF
 3D = FG, 3+!d
 3H = FG, 4+!h

@@ -35,18 +35,18 @@ Excluding opener's 5-card majors, the Stayman has its traditional meaning or a
 Garbage Stayman.
 
 - INV+, unspecified 4+M
-- WK, 4!s, 4!h, 4--5!d, 0--1!c
+- WK, 4=!s, 4=!h, 4--5!d, 0--1!c
 
 1N-2C-
 2D = ! 2--3!s, 2--3!h
-2H = 4!h
-2S = 4!s, 2--3!h
+2H = 4=!h
+2S = 4=!s, 2--3!h
 
 The Garbage Stayman takes advantage of that opener will eventually rebid within
 2!s!h!d, so we can bid 2!c as a weak takeout of clubs and pass in the next round.
 
 1N-2C-2X-
-P  = WK, 4!s, 4!h, 4--5!d, 0--1!c
+P  = WK, 4=!s, 4=!h, 4--5!d, 0--1!c
 
 We only employ Smolen transfers at the 3-level.  The 2-level invitations are
 natrual so that we have a chance to stop at 2!h.
@@ -71,12 +71,12 @@ This is why the opener rebids 2!h with 44 majors.
 
 1N-2C-2H-
 2S = F2NT, 5+!s, 4+!h
-2N = INV, 0--3!h, 4!s
-3C = FG, 5+!c, 0--3!h, 4!s
-3D = FG, 5+!d, 0--3!h, 4!s
+2N = INV, 0--3!h, 4=!s
+3C = FG, 5+!c, 0--3!h, 4=!s
+3D = FG, 5+!d, 0--3!h, 4=!s
 3H = INV, 4+!h
 3S = !S/T, 4+!h, 2+!d, 2+!c
-3N = S/O, 0--3!h, 4!s
+3N = S/O, 0--3!h, 4=!s
 4C = !S/T SPL, 0--1!c, 4+!h
 4D = !S/T SPL, 0--1!d, 4+!h
 4H = S/O, 4+!h
@@ -84,12 +84,12 @@ This is why the opener rebids 2!h with 44 majors.
 5N = QUANT INV to 7NT, 0--3!h
 
 1N-2C-2S-
-2N = INV, 0--3!s, 4!h
-3C = FG, 5+!c, 0--3!s, 4!h
-3D = FG, 5+!d, 0--3!s, 4!h
+2N = INV, 0--3!s, 4=!h
+3C = FG, 5+!c, 0--3!s, 4=!h
+3D = FG, 5+!d, 0--3!s, 4=!h
 3H = !S/T, 4+!s, 2+!d, 2+!c
 3S = INV, 4+!s
-3N = S/O, 0--3!s, 4!h
+3N = S/O, 0--3!s, 4=!h
 4C = !S/T SPL, 0--1!c, 4+!s
 4D = !S/T SPL, 0--1!d, 4+!s
 4S = S/O, 4+!s
@@ -105,37 +105,37 @@ problems like 1NT-2!d-3!d!-3!h?.
 1N-2D-
 2H = (R)
   2S = INV, 5+!s
-  2N = INV, 5!h
+  2N = INV, 5=!h
   3C = FG, 4+!c
-    3S = ! 2!h, 4+!c
+    3S = ! 2=!h, 4+!c
   3D = FG, 4+!d
-    3S = ! 2!h, 4+!d
+    3S = ! 2=!h, 4+!d
   3H = INV, 6+!h
   3S = !SPL, 0--1!s, 6+!h
-  3N = P/C, 5!h
+  3N = P/C, 5=!h
   4C = !SPL, 0--1!c, 6+!h
   4D = !SPL, 0--1!d, 6+!h
   4H = Mild S/T, 6+!h, 2+!s, 2+!d, 2+!c
   4N = QUANT INV to 6NT
   5N = QUANT INV to 7NT
-2S = !MAX, 2!s, 4!h
+2S = !MAX, 2=!s, 4=!h
   3D = !Retransfer
 2N = !MAX, 3433
   3D = !Retransfer
-3C = !MAX, 2!c, 4!h
+3C = !MAX, 2=!c, 4=!h
   3D = !Retransfer
-3H = !MAX, 2!d, 4!h
+3H = !MAX, 2=!d, 4=!h
 
 1N-2H-
 2S = (R)
-  2N = INV, 5!s
+  2N = INV, 5=!s
   3C = FG, 4+!c
-    3H = ! 2!s, 4+!c
+    3H = ! 2=!s, 4+!c
   3D = FG, 4+!d
-    3H = ! 2!s, 4+!d
+    3H = ! 2=!s, 4+!d
   3H = S/T, 5+!h
   3S = INV, 6+!s
-  3N = P/C, 5!s
+  3N = P/C, 5=!s
   4C = !SPL, 0--1!c, 6+!s
   4D = !SPL, 0--1!d, 6+!s
   4H = !SPL, 0--1!h, 6+!s
@@ -144,11 +144,11 @@ problems like 1NT-2!d-3!d!-3!h?.
   5N = QUANT INV to 7NT
 2N = !MAX, 4333
   3H = !Retransfer
-3C = !MAX, 2!c, 4!s
+3C = !MAX, 2=!c, 4=!s
   3H = !Retransfer
-3D = !MAX, 2!d, 4!s
+3D = !MAX, 2=!d, 4=!s
   3H = !Retransfer
-3S = !MAX, 2!h, 4!s
+3S = !MAX, 2=!h, 4=!s
 
 ** Seeking a major fit
 

@@ -85,7 +85,7 @@ Like a direct overcall, 1NT by passed hand is unusual.
 
 (1H)-1N-
 2C = !TRF, 5+!d
-2D = !STAY, INV+ 4!s
+2D = !STAY, INV+ 4=!s
 2H = !TRF, 5+!s
 2S = !TRF, 6+!c
 3C = !FG, 5+!c, 5+!s
@@ -96,7 +96,7 @@ Like a direct overcall, 1NT by passed hand is unusual.
 (1S)-1N-
 2C = !TRF, 5+!d
 2D = !TRF, 5+!h
-2H = !STAY, INV+ 4!h
+2H = !STAY, INV+ 4=!h
 2S = !TRF, 6+!c
 3C = !FG, 5+!c, 5+!h
 3D = !FG, 5+!d, 5+!h

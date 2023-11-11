@@ -10,9 +10,9 @@ chance to stop at 1NT.
 1N = NF, 8--11 HCP
 2C = FG, 4+!c or STR 3433
 2D = FG, 4+!d
-2H = S/O, 4!h, 3--9 HCP
+2H = S/O, 4=!h, 3--9 HCP
 2S = WJS, 6+!s, 0--7 HCP
-2N = !INV+, 4!h
+2N = !INV+, 4=!h
 3C = !FG, 5+!h
 3D = !INV or S/T, 5+!h
 3H = !CONST, 5+!h
@@ -31,11 +31,11 @@ fit.
 
 1S-
 1N = NF, 0--3!s, 0--5!h, 8--11 HCP
-2C = ! 5+!h 8+ HCP or FG 4+!h, but not INV 5!h
+2C = ! 5+!h 8+ HCP or FG 4+!h, but not INV 5=!h
 2D = FG, 4+!d or STR 4333
 2H = !FG, 4+!c
-2S = S/O, 4!s, 3--9 HCP
-2N = !INV+, 4!s
+2S = S/O, 4=!s, 3--9 HCP
+2N = !INV+, 4=!s
 3C = !FG, 5+!s
 3D = !INV or S/T, 5+!s
 3H = !INV, 5+!h, 4+!s

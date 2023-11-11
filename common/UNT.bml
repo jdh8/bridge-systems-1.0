@@ -18,8 +18,8 @@ We advise against opening 2NT for (30)55 in the first two seats.
 3N = !SPL, 0--1!h
 4C = 1156
 4D = 1165
-4H = !MIN SPL, 0!h
-4S = !MIN SPL, 0!s
+4H = !MIN SPL, 0=!h
+4S = !MIN SPL, 0=!s
 
 2N-3S-3N-
 4C = INV, 3+!c

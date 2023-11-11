@@ -40,7 +40,7 @@ fit.
 4S = PRE, 4+!s
 
 1S-2C-
-2D = !(R), MIN 5!s 0--1!h or MAX 3+!h
+2D = !(R), MIN 5=!s 0--1!h or MAX 3+!h
 2H = MIN, 2--3!h
 2S = MIN, 6+!s
 2N = MAX, 5233
