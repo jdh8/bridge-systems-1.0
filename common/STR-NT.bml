@@ -14,9 +14,9 @@ better idea.
 2S = !TRF, 6+!c or BAL INV
 2N = !TRF, 6+!d
 3C = INV, 6+!c
-3D = !FRAG, 0--1!h, 2--3!s, 4--5!d, 4--5!c
-3H = !FRAG, 0--1!s, 2--3!h, 4--5!d, 4--5!c
-3S = !Choice of games, 5+!s, 5+!h
+3D = !Choice of games, 5+!s, 5+!h
+3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 3N = S/O
 4C = !Gerber, ask for aces
   4D = ! 0 or 4 aces
