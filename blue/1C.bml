@@ -68,15 +68,6 @@ partscore at a low level.
 
 1C-1D-1H-1S-
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--22 HCP
-  2C = S/O, 5+!c
-  2D = S/O, 5+!d
-  2H = INV, 4=!h
-  2S = INV, 4=!s
-  2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--5!c
-  3C = INV, 6+!c
-  3D = INV, 6+!d
-  3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
-  3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 2C = !NF MIN, 2--3!s, 5=!h, 2--4!d, 2--4!c
 2D = !NF MIN, 4=!s, 4--5!h
 2H = MIN, 6+!h
@@ -86,6 +77,27 @@ partscore at a low level.
 3D = MIN, 5+!d, 5+!h
 3H = FG, 6+!h
 3S = FG, 6+!s
+
+1C-1D-1H-1S-1N-
+2C = S/O, 5+!c
+2D = S/O, 5+!d
+2H = !NF 4=!h, INV or 5+m
+  2S = 4=!s
+  2N = MIN, 2--3!h
+  3C = !MAX, 2--3!h
+  3D = !MAX, 4=!h, 3+!d
+  3H = !MAX, 4=!h, 3+!c
+2S = !NF 4=!s, INV or 5+m
+  2N = MIN, 2--3!s
+  3C = !MAX, 2--3!s
+  3D = !MAX, 4=!s, 3+!d
+  3H = !MAX, 4=!s, 3+!c
+  3S = !MAX, 4333
+2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--5!c
+3C = INV, 6+!c
+3D = INV, 6+!d
+3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 
 1C-1D-1H-1N-
 2C = !BAL, 20+ HCP
