@@ -28,8 +28,8 @@ https://sites.google.com/view/bbaenglish/description-of-systems/pc-meckwell-lite
 
 These exactly 4-card 1M responses are canapé style, i.e. there can be a longer
 side suit.  With (54) in majors, we usually bid the 4-card major first.
-However, with a mild slam try (11--13 HCP), we bid the 5-card major first to
-make a difference.
+However, with a 45(xx) mild slam try (11--13 HCP), we bid 2!h and then rebid
+3!s.
 
 ** Negative 1!d response
 
@@ -111,3 +111,33 @@ partscore at a low level.
 3D = FG, 5+!d
 3H = FG, 6+!h
 3S = FG, 6+!s
+
+** Positive 2M responses
+
+The 2M responses are game-forcing and show 5+ cards.  Except 45(xx) mild slam
+try, the other major is not exactly 4 cards.
+
+1C-2H-
+2S = 5+!s
+2N = 1--3!h
+3C = 5+!c
+3D = 5+!d
+3H = S/T, 3+!h
+
+1C-2S-
+2N = 1--3!s
+3C = 5+!c
+3D = 5+!d
+3H = 5+!h
+3S = S/T, 3+!s
+
+The 3M rebid sets the trump suit.  If opener wants a choice of games, they bid
+2NT instead.
+
+1C-2M-3M-
+1step  = 8--9 HCP or 8.5 NLTC
+2steps = 10--11 HCP or 8.0 NLTC
+3steps = 12--13 HCP or 7.5 NLTC
+4steps = 14--15 HCP or 7.0 NLTC
+4M     = To play, 9.0+ NLTC
+6steps = 16+ HCP or 6.5− NLTC, RKCB 0314
