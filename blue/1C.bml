@@ -117,27 +117,52 @@ partscore at a low level.
 The 2M responses are game-forcing and show 5+ cards.  Except 45(xx) mild slam
 try, the other major is not exactly 4 cards.
 
+Over 1!c-2!h, things are pretty natural.  Over 1!c-2!s, however, bidding 3!h
+would be too high if we want to find both 5-3 and 6-2 fits.  Therefore, we swap
+the meanings of 3!c and 3!h.
+
 1C-2H-
 2S = 5+!s
-2N = 1--3!h
+2N = 1--3!h, 2--4!s, 2--5!d, 2--5!c
 3C = 5+!c
 3D = 5+!d
-3H = S/T, 3+!h
+3H = S/T ASK, 3+!h
 
 1C-2S-
-2N = 1--3!s
-3C = 5+!c
+2N = 1--3!s, 2--4!h, 2--5!d, 2--5!c
+3C = !TRF, 5+!h
 3D = 5+!d
-3H = 5+!h
-3S = S/T, 3+!s
+3H = !TRF, 5+!c
+3S = S/T ASK, 3+!s
 
-The 3M rebid sets the trump suit.  If opener wants a choice of games, they bid
-2NT instead.
+1C-2S-3C-
+3D = !(R), 2+!h, 10--11 HCP or 8.0 NLTC if 3+!h
+3H = !SPL, 0--1!h
+3S = 6+!s
+3N = !FG, 3+!h
+4C = !Serious SPL, 0--1!c, 3+!h
+4D = !Serious SPL, 0--1!d, 3+!h
+4H = !S/T, 3+!h, 12--13 HCP or 7.5 NLTC
+
+With heart support over 1!c-2!s-3!c, there are several ways to reach 4!h.  In
+general, we want to cede declarership with a weak hand, so we assign weaker
+support to bids with higher transfer rate.  However, we can also reuse the
+weakest forcing bid for strong hands (~2+ tricks above minimum) to save bidding
+space.
+
+- *3NT*: Minimum game force (8--9 HCP or 8.5 NLTC), non-serious Splinter (~
+         8--10 HCP), or strong slam try (14+ HCP or 7.0− NLTC)
+- *3!d*: 10--11 HCP or 8.0 NLTC
+- *4!h*: 12--13 HCP or 7.5 NLTC
+- *4!c!d*: Serious Splinter (~ 11--13 HCP)
+
+The 3M rebid sets the trump suit.  If opener wants a choice of games, bid 2NT
+instead.
 
 1C-2M-3M-
-1step  = 8--9 HCP or 8.5 NLTC
-2steps = 10--11 HCP or 8.0 NLTC
-3steps = 12--13 HCP or 7.5 NLTC
-4steps = 14--15 HCP or 7.0 NLTC
+1step  = !ART, 8--9 HCP or 8.5 NLTC
+2steps = !ART, 10--11 HCP or 8.0 NLTC
+3steps = !ART, 12--13 HCP or 7.5 NLTC
+4steps = !ART, 14--15 HCP or 7.0 NLTC
 4M     = To play, 9.0+ NLTC
-6steps = 16+ HCP or 6.5− NLTC, RKCB 0314
+6steps = !RKCB 0314, 16+ HCP or 6.5− NLTC
