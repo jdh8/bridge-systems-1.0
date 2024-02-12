@@ -139,7 +139,10 @@ the meanings of 3!c and 3!h.
 3D = !(R), 2+!h, 10--11 HCP or 8.0 NLTC if 3+!h
 3H = !SPL, 0--1!h
 3S = 6+!s
-3N = !FG, 3+!h
+3N = !F, 3+!h
+  4C = !S/T over non-serious SPL !d
+    4D = !Non-serious SPL, 0--1!c
+  4D = !S/T over non-serious SPL !c
 4C = !Serious SPL, 0--1!c, 3+!h
 4D = !Serious SPL, 0--1!d, 3+!h
 4H = !S/T, 3+!h, 12--13 HCP or 7.5 NLTC
