@@ -30,7 +30,7 @@ Ting-Yu Ye (TpKotoba).
 1C-1D-
 1H = 3+!h, 12--20 HCP
 1S = 3+!s, 12--20 HCP
-1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 18--20 HCP
+1N = 1--4!s, 1--4!h, 1--6!d, 1--6!c, 18--20 HCP
 2C = 5+!c, 0--3!s, 0--3!h, 12--20 HCP
 2D = !NF, 0--4!s, 0--4!h, 21--23 HCP
 2H = 5+!h, 20+ HCP
@@ -117,13 +117,18 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 2C = STAY, may be Garbage
 2D = TRF, 5+!h
 2H = TRF, 5+!s
-2S = !TRF, 6+!c or S/T 5+!d 5+!c
+2S = !TRF, 6+!c
 2N = NAT INV
 3C = !TRF, 6+!d
-3D = !SPL, 0--1!d, 4=!s, 4=!h, 4--5!c
-3H = !SPL, 0--1!h, 4=!s, 4--5!d, 4--5!c
-3S = !SPL, 0--1!s, 4=!h, 4--5!d, 4--5!c
+3D = ?
+3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
+3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 3N = S/O
+4C = !Gerber, ask for aces
+  4D = ! 0 or 4 aces
+  4H = ! 1 ace
+  4S = ! 2 aces
+  4N = ! 3 aces
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
@@ -137,41 +142,60 @@ The bidding structure at 1!c-1!d-1NT is similar to the 1NT opening.
 3C = INV, 4+!c, 9--11 HCP
 
 1C-1D-2D-
-2H = TRF, 5+!s
-2S = TRF to 2NT
+2H = !TRF, 5+!s
+2S = !TRF to 2NT
   2N = 2--4!s, 2--4!h, 2--6!d, 2--6!c
     3C = !STAY, may be Garbage
-    3D = !TRF, 5!h(332), choice of games
+    3D = !TRF, 5+!h, not BAL
     4D = !Texas TRF, 6+!h
   3C = 5+!c, not BAL
   3D = 5+!d, not BAL
-  3H = 44(41)
-  3S = 4144
-  3N = 1444
-2N = TRF, 6+!c or S/T 5+!d 5+!c
-3C = TRF, 6+!d
-3D = TRF, 5+!h
+  3H = !FRAG, 44(41)
+  3S = !FRAG, 4144
+  3N = !FRAG, 1444
+2N = !TRF, 6+!c or S/T 5+!d 5+!c
+3C = !TRF, 6+!d
+3D = !TRF, 5!h(332), choice of games
 3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
 3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 3N = !Choice of games, 22(54)
 
 1C-1D-2N-
-3C = PUP STAY
-  3D = 4M
-    3H = 4+!s
-    3S = 4+!h
-    3N = 44(xx)
-  3M = 5+#
-  3N = 0--3!s, 0--3!h
-3D = TRF, 5+!h
-3H = TRF, 5+!s
-3S = !TRF, 6+!c or (54)+ in minors
+3C = !Muppet STAY, 3+M
+3D = !TRF, 5+!h
+  3H = 2+!h
+    3S = !(R), 0--3!s
+    3N = !TRF, 4+!s
+  3S = 5+!s
+  3N = 0--1!h, 0--4!s
+3H = !TRF, 5+!s
 3N = S/O
-4C = !TRF, 6+!d
-4D = !Texas TRF, 6+!h
-4H = !Texas TRF, 6+!s
-4S = !5+!d, 5+!c
+4D = !Choice of games, 5+!s, 5+!h
+4H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
+4S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 4N = QUANT INV to 6NT
+
+1C-1D-2N-3C-
+3D = !(R), 4=M
+  3H = !TRF, 4+!s
+    3S = 3=!s
+    3N = 0--2!s
+    4S = To play, 4+!s
+  3S = !TRF, 4+!h
+  3N = To play
+  4C = !S/T, 4+!s, 4+!h
+  4D = !Choice of games, 4+!s, 4+!h
+  4N = QUANT INV to 6NT
+3H = !NEG, 0--3!s, 0--3!h
+  3S = !(R), 0--4!s
+  3N = !TRF, 5+!s
+  4N = QUANT INV to 6NT
+3S = 5+!s
+  4N = QUANT INV to 6NT
+3N = !TRF, 5+!h
+  4C = !TRF, 5+!s
+  4D = !PUP
+  4N = QUANT INV to 6NT
 
 ** Positive 1M responses
 
