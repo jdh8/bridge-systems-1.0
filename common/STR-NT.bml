@@ -1,7 +1,8 @@
 * Strong notrump opening
 
-We use the American-style 4-way transfers with an adjunct.  We also transfer
-balanced invitational hands at 2!s.  We bid 3!c instead with invitational 6+!c.
+We use the French-style 4-way transfers to preserve the natural invitation.  We
+invite naturally rather than via Stayman because 2NT hides information of the
+declarer.
 
 The responder tries to show a major first always (MAFIA).  The only exception
 is not to bid Stayman with (4333), a hand so flat that playing notrump is a
@@ -11,9 +12,9 @@ better idea.
 2C = !STAY, may be Garbage
 2D = !TRF, 5+!h
 2H = !TRF, 5+!s
-2S = !TRF, 6+!c or BAL INV
-2N = !TRF, 6+!d
-3C = INV, 6+!c
+2S = !TRF, 6+!c or S/T 4+!d 4+!c
+2N = NAT INV
+3C = !TRF, 6+!d
 3D = !Choice of games, 5+!s, 5+!h
 3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
 3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
@@ -193,41 +194,29 @@ unless spades are sufficiently better.
 
 ** Minor transfer
 
+With an invitation or a game force without slam interest, we only show minor
+suits with a singleton or void.
+
 We use fragment bids instead of Splinters here to avoid lead-directing doubles.
 
 1N-2S-
-2N = !MIN
+2N = !INV, 4+!c or MAX 3+!c
   3C = S/O
-  3D = !FRAG, 0--1!s, 6+!c
-  3H = !FRAG, 0--1!d, 6+!c
+  3D = S/T, 4+!d, 4+!c
+  3H = !FRAG, 0--1!s, 6+!c
   3S = !FRAG, 0--1!h, 6+!c
+  3N = !FRAG, 0--1!d, 6+!c
   4S = !Retransfer, 6+!c
-3C = !MAX
-  3D = !FRAG, 0--1!s, 6+!c
-  3H = !FRAG, 0--1!d, 6+!c
+3C = (R)
+  3D = S/T, 4+!d, 4+!c
+  3H = !FRAG, 0--1!s, 6+!c
   3S = !FRAG, 0--1!h, 6+!c
-  4S = !Retransfer, 6+!c
-3D = !MAX, 4+!c
+  3N = !FRAG, 0--1!d, 6+!c
 
-1N-2N-
-3C = !MIN
-  3D = S/O
-  3H = !FRAG, 0--1!s
-  3S = !FRAG, 0--1!h
-  5C = !Retransfer
-3D = !MAX
-  3H = !FRAG, 0--1!s
-  3S = !FRAG, 0--1!h
-  5C = !Retransfer
-3H = !MAX, 4+!d
-
-We move the minor Stayman to the unallocated 4!s.  Since the opener must have a
-3+ card minor, 55 minors would ensure a minor fit.  The opener rebids based on
-suit preference.
-
-1N-4S-
-4N = !Equal preference
-5m = To play
+1N-3C-3D-
+3H = !FRAG, 0--1!s
+3S = !FRAG, 0--1!h
+3N = !FRAG, 0--1!c
 
 ** Competitive bidding
 
