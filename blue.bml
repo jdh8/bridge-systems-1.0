@@ -62,7 +62,8 @@ applies to minimum game force.
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 14--16 HCP
 2C = !NAT, 5+!c, 11--15 HCP
 2D = !PRE, 6+M, 4--10 HCP
-2M = PRE, 5+#, 4--10 HCP
+2H = PRE, 5+!h, 4+X, 4--10 HCP
+2S = PRE, 5+!s, 4+m, 4--10 HCP
 2N = !UNT, 5+!d, 5+!c, 4--10 HCP
 3X = PRE, 7+#, 4--10 HCP
 3N = !Gambling, SOL 7+m, 0--1 outside A/K
@@ -110,5 +111,6 @@ There is also canapé for minimum 4M5!c.  We open 1M so that 4M5!c hands in the
 #INCLUDE common/STR-NT.bml
 #INCLUDE blue/2C.bml
 #INCLUDE common/Multi.bml
+#INCLUDE blue/2M.bml
 #INCLUDE common/UNT.bml
 #INCLUDE common/BTU-4X.bml

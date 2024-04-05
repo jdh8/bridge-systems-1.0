@@ -32,8 +32,6 @@ https://bridgewinners.com/convention-card/print/litten-polish-club/98013
 
 *** Preempts
 
-- The 2M preempts contain balanced hands.  This treatment is proven useful in
-  /Good, Better, Best./
 - We modified continuations after the 2X preempts.
 - BTU Namyats replace natural 4m.
 
@@ -73,7 +71,7 @@ https://bridgewinners.com/convention-card/print/litten-polish-club/98013
 1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
 2C = !PRE, 4+!s, 4+!h, 4--10 HCP
 2D = !PRE, 6+M, 4--10 HCP
-2M = PRE, 5=#, 4--10 HCP
+2M = PRE, 5=#, 4+m, 4--10 HCP
 2N = !UNT, 5+!d, 5+!c, 4--10 HCP
 3X = PRE, 7+#, 4--10 HCP
 3N = !Gambling, SOL 7+m, 0--1 outside A/K
@@ -96,5 +94,6 @@ https://bridgewinners.com/convention-card/print/litten-polish-club/98013
 #INCLUDE common/STR-NT.bml
 #INCLUDE wj/2C.bml
 #INCLUDE common/Multi.bml
+#INCLUDE wj/2M.bml
 #INCLUDE common/UNT.bml
 #INCLUDE common/BTU-4X.bml

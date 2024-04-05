@@ -25,38 +25,3 @@ Our Multi 2!d shows a 6-card weak two of either major.
 3D = !MIN, 6+!s
 3H = !MAX, 6+!s
 3S = !MAX, 6+!h
-
-* Exactly 5-card weak twos
-
-Weak twos in this bidding system show exactly 5 cards in the bid major.  Multi
-2!d already takes care of 6+ cards.  Our weak twos include balanced hands to
-annoy our opponents frequently.
-
-Non-jump new suits are non-forcing because sometimes we need to escape from a
-certain misfit.  With a strong misfit and a lower-ranking suit, we tend to buy
-3NT with a minor suit.  Otherwise, we go through 2NT and try to introduce
-hearts in the next round.
-
-2H-
-2S = !NF, 5+!s or 4144
-2N = !INV+, Ogust
-3C = !NF, 5+!c
-3D = !NF, 5+!d
-3S = FG, 5+!s
-4C = !Leaping Michaels, 5+!c, 5+!s
-4D = !Leaping Michaels, 5+!d, 5+!s
-4S = !RKCB 0314
-
-2S-
-2N = !INV+, Ogust
-3C = !NF, 5+!c
-3D = !NF, 5+!d
-3H = !NF, 6+!h
-4C = !Leaping Michaels, 5+!c, 5+!h
-4D = !Leaping Michaels, 5+!d, 5+!h
-
-2M-2N-
-3C = !MIN, bad playing values
-3D = !MIN, good playing values
-3H = !MAX, bad playing values
-3S = !MAX, good playing values
