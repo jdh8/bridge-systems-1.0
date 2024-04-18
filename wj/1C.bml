@@ -536,27 +536,31 @@ R  = BAL 3+!c, 10+ HCP
 1C-(1D)-
 D  = !TRF, 4+!h, 7+ HCP
 1H = !TRF, 4+!s, 7+ HCP
-1S = !TRF, 5+!c, 7+ HCP
-1N = 7--10 HCP, likely stop in !d
+1S = !TRF to 1NT, 7+ HCP
+1N = INV, 9--11 HCP, likely stop in !d
 2C = F1, 5+!c, 10+ HCP
-2D = INV+, ask for !d stopper
+2D = !T/O, 7--9 HCP, 5+!s, 4+!h
 2M = PRE, 6+#, 4--9 HCP
-2N = INV, 10--11 HCP, likely stop in !d
+2N = !FG, 12+ HCP, likely stop in !d
 3C = INV, 6+!c, 9--11 HCP
-3M = INV, 6+#, 9--11 HCP
+3D = !FG, 12+ HCP, ask for !d stopper
+3M = PRE, 7+#, 4--9 HCP
+3N = 33(43), 12--15 HCP, likely stop in !d
 
 1C-(1H)-
 D  = !TRF, 4+!s, 7+ HCP
 1S = !TRF to 1NT, 7+ HCP
-1N = 7--10 HCP, likely stop in !h
+1N = INV, 9--11 HCP, likely stop in !h
 2C = F1, 5+!c, 10+ HCP
 2D = F1, 5+!d, 10+ HCP
-2H = INV+, ask for !h stopper
+2H = !INV+ T/O, 10+ HCP, ask for !h stopper
 2S = PRE, 6+!s, 4--9 HCP
-2N = INV, 10--11 HCP, likely stop in !h
+2N = !FG, 12+ HCP, likely stop in !h
 3C = INV, 6+!c, 9--11 HCP
 3D = INV, 6+!d, 9--11 HCP
-3S = INV, 6+!s, 9--11 HCP
+3H = !FG, 3(433), 12--15 HCP, ask for !h stopper
+3S = PRE, 7+!s, 4--9 HCP
+3N = 3(433), 12--15 HCP, likely stop in !h
 
 1C-(1S)-
 D  = NEG, 4+!h, 7+ HCP
@@ -564,12 +568,12 @@ D  = NEG, 4+!h, 7+ HCP
 2C = F1, 5+!c, 10+ HCP
 2D = F1, 5+!d, 10+ HCP
 2H = NF, 5+!h, 7--11 HCP
-2S = !INV+, ask for !s stopper
-2N = !FG, likely stop in !s
+2S = !INV+ T/O, 10+ HCP, ask for !s stopper
+2N = !FG, 12+ HCP, likely stop in !s
 3C = INV, 6+!c, 9--11 HCP
 3D = INV, 6+!d, 9--11 HCP
 3H = PRE, 7+!h, 4--9 HCP
-3S = 3!h(433), 12--15 HCP, ask for !s stopper
+3S = !FG, 3!h(433), 12--15 HCP, ask for !s stopper
 3N = 3!h(433), 12--15 HCP, likely stop in !s
 
 We treat 1!c-(1NT) like a *weak* notrump because nobody has bid a suit yet and
