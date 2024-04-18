@@ -560,15 +560,17 @@ D  = !TRF, 4+!s, 7+ HCP
 
 1C-(1S)-
 D  = NEG, 4+!h, 7+ HCP
-1N = 7--10 HCP, likely stop in !s
+1N = INV, 9--11 HCP, likely stop in !s
 2C = F1, 5+!c, 10+ HCP
 2D = F1, 5+!d, 10+ HCP
-2H = F1, 5+!h, 10+ HCP
-2S = INV+, ask for !s stopper
-2N = INV, 10--11 HCP, likely stop in !s
+2H = NF, 5+!h, 7--11 HCP
+2S = !INV+, ask for !s stopper
+2N = !FG, likely stop in !s
 3C = INV, 6+!c, 9--11 HCP
 3D = INV, 6+!d, 9--11 HCP
-3H = INV, 6+!h, 9--11 HCP
+3H = PRE, 7+!h, 4--9 HCP
+3S = 3!h(433), 12--15 HCP, ask for !s stopper
+3N = 3!h(433), 12--15 HCP, likely stop in !s
 
 We treat 1!c-(1NT) like a *weak* notrump because nobody has bid a suit yet and
 a penalty double is sensible.
