@@ -536,6 +536,12 @@ R  = PEN, 2--4!s, 2--4!h, 2--4!d, 2--4!c, 10+ HCP
 Since 2NT is not the best contract especially in competition, we bid 1NT for
 balanced invitation instead and free 2NT as a forcing bid.
 
+We use Transfer Walsh over (1!d!h), which is an improvement over the negative
+double and Collante.  For an invitational+ major single suiter (6+ cards),
+first we hide the suit with 1!s and then bid it in the next round.  This
+/possible major/ approach makes better use of bidding space after 1!s, cf. the
+impossible 2!s.
+
 1C-(1D)-
 D  = !TRF, 4+!h, 7+ HCP
 1H = !TRF, 4+!s, 7+ HCP
