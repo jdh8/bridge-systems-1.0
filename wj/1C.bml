@@ -243,11 +243,11 @@ alleviate the burden on 2NT.
 4H = !SPL, 0--1!h, 4+!s
 
 1C-1H-1N-
-2C = !Roudi, INV 5+!h or FG
-2D = S/O, 5+!d
-2H = S/O, 5+!h
+2C = !(R), XYZ, 7--11 HCP
+2D = !FG (R), XYZ
+2H = INV, 5+!h
 2S = FG, 4+!s
-2N = INV, 4=!h
+2N = !TRF, 5+!c
 3C = INV, 4+!c
 3D = INV, 6+!d
 3H = INV, 6+!h
@@ -257,11 +257,11 @@ alleviate the burden on 2NT.
 4D = !SPL, 0--1!d, 6+!h
 
 1C-1S-1N-
-2C = !Roudi, INV 5+!s or FG
-2D = S/O, 5+!d
+2C = !(R), XYZ, 7--11 HCP
+2D = !FG (R), XYZ
 2H = INV, 4+!h, 5+!s, 10--11 HCP
-2S = S/O, 5+!s
-2N = INV, 4=!s
+2S = INV, 5+!s
+2N = !TRF, 5+!c
 3C = INV, 5+!c
 3D = INV, 6+!d
 3H = INV, 5+!h, 5+!s
@@ -366,19 +366,6 @@ We simply move the 3!d response to 2!d.
 
 
 #SEAT 0
-
-*** Roudi
-
-Roudi is a French drop-in replacement for Checkback Stayman.  Polish Club
-before 2020 used Magister, which is almost identical to Roudi.  Despite that
-XYZ is taking over the world, we still use Roudi because opener is balanced
-and limited.  Responder can park the contract better most of the time.
-
-1X-1M-1N-2C-
-2D = !MIN 2M
-2H = !MIN 3M
-2S = !MAX 3M
-2N = !MAX 2M
 
 *** Odwrotka with the strong 2!h relay
 
