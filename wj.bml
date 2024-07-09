@@ -8,7 +8,11 @@
 
 Welcome to Litten Polish Club!  Polish Club is a 5-card major small club
 bidding system, where the 1!c opening is forcing but not necessarily strong.
-This bidding system is largely based on /Polish Club 2020: Expert./  Changes
+Notably, *we swap the natural suits between 1!c and 1!d* by courtesy of Ting-Yu
+Ye (TpKotoba).  In other words, 1!d shows clubs, and 1!c has various options
+including a diamond suit.
+
+This bidding system is also based on /Polish Club 2020: Expert./  Changes
 are made with /Good, Better, Best/ and my improvisation.
 
 We use the distribution syntax and abbreviations provided by WBF.
@@ -23,11 +27,11 @@ https://bridgewinners.com/convention-card/print/litten-polish-club/98013
 
 *** Constructive auctions
 
-- We use natural 2/1 over 1!d!h and swapped 2/1 over 1!s.
+- The minor suit interchange: we open 1!d for clubs!
+- We use natural 2/1 over 1!h and swapped 2/1 over 1!s.
 - Over 1M, we have 4-card support step responses from 2NT to 3M.
-- Over 1!d, 2!d is a standard raise, and 2!c is a game force with either minor.
 - In XYZ (two-way checkback), we swap the meaning of the 2!c relay
-  with 2M and 2NT, courtesy of Ting-Yu Ye (TpKotoba).
+  with 2M and 2NT by courtesy of Ting-Yu Ye (TpKotoba).
 
 *** Preempts
 
@@ -63,21 +67,28 @@ https://bridgewinners.com/convention-card/print/litten-polish-club/98013
 
 * Opening bids
 
-1C = !F, 18+ HCP or 2+!c 12+ HCP
-1D = 5+!d or 4!d(441), 12--19 HCP
-1H = 5+!h, 11--17 HCP
-1S = 5+!s, 11--17 HCP
-1N = 2--4!s, 2--4!h, 2--6!d, 2--6!c, 15--17 HCP
-2C = !PRE, 4+!s, 4+!h, 4--10 HCP
-2D = !PRE, 6+M, 4--10 HCP
-2M = PRE, 5=#, 4+m, 4--10 HCP
-2N = !UNT, 5+!d, 5+!c, 4--10 HCP
-3X = PRE, 7+#, 4--10 HCP
+We have the minor suit interchange here.  This treatment fixes several problems
+such as rebidding clubs over 1!c.  This treatment also introduces lesser
+problems, but I believe they can be solved by further adjustments.
+
+1C = !F:
+     (a) 12--14 HCP, 2--4!s, 2--4!h, 2--4!d, 2--4!c
+     (b) 11--17 HCP, 5+!d or 4441
+     (c) 18+ HCP
+1D = !TRF, 11--17 HCP, 5+!c or (441)4
+1H = 11--17 HCP, 5+!h
+1S = 11--17 HCP, 5+!s
+1N = 15--17 HCP, 2--4!s, 2--4!h, 2--6!d, 2--6!c
+2C = !PRE, 4--10 HCP, 4+!s, 4+!h
+2D = !PRE, 4--10 HCP, 6+M, 
+2M = PRE, 4--10 HCP, 5=#, 4+m, 
+2N = !UNT, 4--10 HCP, 5+!d, 5+!c
+3X = PRE, 4--10 HCP, 7+#
 3N = !Gambling, SOL 7+m, 0--1 outside A/K
 4C = !PRE, S-SOL 8+M, 0--1 outside A/K
 4D = !PRE, SOL 8+M, no outside A/K
 4M = PRE, 8+#
-4N = !UNT, 6+!d, 6+!c, 11--15 HCP
+4N = !UNT, 11--15 HCP, 6+!d, 6+!c
 
 ** The notrump ladder
 
