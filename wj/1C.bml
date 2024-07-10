@@ -93,11 +93,14 @@ change 2!s to a minor suit Multi/Stayman.
 4N = QUANT INV to 6NT
 
 1C-1D-2C-
-2D = NF, 5+!d, 5--11 HCP
-2H = NF, 5+!h, 4--6 HCP
-2S = NF, 5+!s, 4--6 HCP
-2N = NAT INV, 10--11 HCP
-3C = INV, 4+!c, 9--11 HCP
+2D = P/C
+2H = NF, 4--6 HCP, 5+!h
+2S = NF, 4--6 HCP, 5+!s
+2N = NAT INV, 7--9 HCP
+3C = P/C
+3D = P/C
+3H = NF, 4--6 HCP, 6+!h
+3S = NF, 4--6 HCP, 6+!s
 
 1C-1D-2D-
 2H = !TRF, 5+!s
