@@ -199,9 +199,14 @@ alleviate the burden on 2NT.
 4D = !SPL, 0--1!d, 4+!s
 4H = !SPL, 0--1!h, 4+!s
 
+*** Extended Roudi for 1!c-1!h-1!s
+
+This approach is mostly natural.  The only artificial relay is 2!c, similar to
+4SF1.  However, there are step responses after Roudi
+
 1C-1H-1S-
 1N = MIN, 0--3!s
-2C = !INV+, 4SF1
+2C = !INV+ (R), Roudi
 2D = MIN, 5+!d
 2H = MIN, 5+!h
 2S = MIN, 4+!s
@@ -211,6 +216,19 @@ alleviate the burden on 2NT.
 3H = MAX INV, 6+!h
 3S = INV, 4+!s
 3N = 12--15 HCP, 0--3!s, 4=!h, 0--5!d, 0--5!c
+
+1C-1H-1S-2C-
+2D = !MIN, 12--13 HCP, 0--2!h
+2H = NF, 3=!h
+2S = !MIN FG, 3=!h
+2N = !MIN FG, 13--14 HCP, 0--2!h
+3C = !FG, 15+ HCP, 4=!s, 5+!d
+3D = !S/T TRF, 18+ HCP, 4=!s, 5+!c
+3H = S/T, 18+ HCP, 53(xx)
+3S = S/T, 18+ HCP, 6+!s
+3N = S/T, 18+ HCP, 5=!s
+
+*** Three-way checkback for 1!c-1!h!s-1NT
 
 1C-1H-1N-
 2C = !Gladiator, PUP
