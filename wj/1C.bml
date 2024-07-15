@@ -208,7 +208,7 @@ alleviate the burden on 2NT.
 
 There are 3 artificial relays in the three-way checkback:
 
-- *2!c*: minimum 5+!d, any invitation, or a choice of games of 5!h(332)
+- *2!c*: minimum 5+!d, any invitation, or a choice of games of 44(32)
 - *2!d*: game-forcing 5+!h or a slam try (maybe balanced)
 - *2NT*: transfer to clubs
 
@@ -243,7 +243,7 @@ As a corollary, 3X become shaped slam tries.
 3D = INV, 6+!d
 3H = MAX INV, 6+!h
 3S = INV, 4+!s, 5+!h
-3N = Choice of games, 12--15 HCP, 5!h(332)
+3N = Choice of games, 12--15 HCP, 44(32)
 
 1C-1H-1S-2D-
 2H = MIN, 12--14 HCP, 3=!h
@@ -252,6 +252,10 @@ As a corollary, 3X become shaped slam tries.
 3C = !FG TRF, 15+ HCP, 5+!d
 3D = !FG TRF, 18+ HCP, 5+!c
 3H = FG, 18+ HCP, 5+!s, 3=!h
+
+1C-1H-1S-2D-2H-
+2N = BAL S/T
+3N = Choice of games, 12--15 HCP, 5!h(332)
 
 *** Three-way checkback for 1!c-1!h!s-1NT
 
