@@ -28,6 +28,11 @@ hands elsewhere.
 3N = 12--15 HCP, 33(43)
 4M = PRE, 0--4 HCP, 8+#
 
+Note that due to the minor suit interchange, *rebidding clubs by the 1!c opener
+often shows diamonds* instead of clubs.  Responder can then bid diamonds as
+negative or P/C.  This is a significant change from the standard and fairly
+natural variant of Polish Club.
+
 ** The 1!d relay
 
 In our version of Polish Club, the 1!d relay denies invitational values.  This
@@ -244,7 +249,7 @@ As a corollary, 3X become shaped slam tries.
 2H = MIN, 12--14 HCP, 3=!h
 2S = FG, 18+ HCP, 5+!s, 0--2!h
 2N = MIN, 12--14 HCP, 0--2!h
-3C = !FG P/C, 15+ HCP, 5+!d
+3C = !FG TRF, 15+ HCP, 5+!d
 3D = !FG TRF, 18+ HCP, 5+!c
 3H = FG, 18+ HCP, 5+!s, 3=!h
 
