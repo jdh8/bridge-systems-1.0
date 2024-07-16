@@ -270,6 +270,15 @@ As a corollary, 3X become shaped slam tries.
 
 *** Three-way checkback for 1!c-1!h!s-1NT
 
+We use BTU-style 3-way checkback to a 1NT rebid.  The 2!c response is a
+Gladiator-like relay because it puppets to 2!d anyway.  The contents of 2!c
+by further responses are:
+
+- *Pass and 2M*: signoff
+- *2NT*: balanced invitation
+- *3NT*: choice of games with 5M(332)
+- *Other suit bids*: strong invitations
+
 1C-1H-1N-
 2C = !Gladiator, PUP
 2D = !FG XYZ (R)
@@ -287,6 +296,7 @@ As a corollary, 3X become shaped slam tries.
 1C-1H-1N-2C-2D-
 P  = 5+!d
 2H = 5+!h
+2S = INV, 4+!s, 6+!h
 2N = BAL INV
 3C = INV, 6+!c
 3D = INV, 6+!d
@@ -310,11 +320,12 @@ P  = 5+!d
 
 1C-1S-1N-2C-2D-
 P  = 5+!d
+2H = INV, 5+!h, 5+!s
 2S = 5+!s
 2N = BAL INV
 3C = INV, 6+!c
 3D = INV, 6+!d
-3H = INV, 5+!h, 5+!s
+3H = INV, 4+!h, 6+!s
 3S = MAX INV, 6+!s
 3N = Choice of games, 5(332)
 
