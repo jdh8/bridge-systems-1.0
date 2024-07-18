@@ -400,34 +400,29 @@ Odwrotka is a slam try with 11+ HCP or a certain fit and <= 8.0 NLTC.
 ** Balanced positive responses
 
 Balanced positive responses are pretty descriptive, so opener's rebids are
-mostly natural.
+mostly natural except the minor suit interchange.
 
 1C-1N-
-2C = 4+!c, 15+ HCP
-2D = 4+!d, 18+ HCP
+2C = !(R), 5+!d or 18+ HCP
+  2D = MIN P/C
+  2N = MAX, 1--2!d
+  3D = MAX P/C, 3+!d
+2D = !TRF, 4+!c, 18+ HCP
 2H = 5+!h, 18+ HCP
 2S = 5+!s, 18+ HCP
-2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 18+ HCP
+2N = INV, 13--14 HCP, 4441
 3C = 6+!c, 18+ HCP
 3D = 6+!d, 18+ HCP
 3H = 7+!h, 18+ HCP
 3S = 7+!s, 18+ HCP
-3N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--21 HCP
-
-1C-2S-
-2N = 12--13 HCP
-3C = 4+!c, 15+ HCP
-3D = 4+!d, 18+ HCP
-3H = 5+!h, 18+ HCP
-3S = 5+!s, 18+ HCP
-3N = 13--14 or 18--19 HCP
+3N = 15--17 HCP, 4441
 
 1C-2N-
-3C = 4+!c
-3D = 4+!d, 18+ HCP
+3C = !TRF, 4+!d, 15+ HCP or 5+!d
+3D = !TRF, 4+!c, 18+ HCP
 3H = 5+!h, 18+ HCP
 3S = 5+!s, 18+ HCP
-3N = 12--14 HCP
+3N = 12--14 HCP, 4441
 4N = QUANT INV to 6NT, 18--19 HCP
 
 ** Game-forcing 2m responses
