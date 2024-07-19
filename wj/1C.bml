@@ -345,25 +345,25 @@ Odwrotka is a slam try with 11+ HCP or a certain fit and <= 8.0 NLTC.
 1C-1M-2D-
 2H = !S/T (R)
   2S = !(R)
-2S = ! 4M, 7--10 HCP
+2S = ! 4=M, 7--10 HCP
   2N = !(R)
-2N = ! 5M, not BAL, 7--10 HCP
+2N = ! 5=M, not BAL, 7--10 HCP
   3C = !(R)
-3C = ! 5+!c, 4M, 9--11 HCP
-3D = ! 5+!d, 4M, 9--11 HCP
-3M = !BAL 5M, 7--10 HCP
+3C = ! 5+!c, 4=M, 9--11 HCP
+3D = ! 5+!d, 4=M, 9--11 HCP
+3M = !BAL 5=M, 7--10 HCP
 3oM = !SPL, 0--1#, 6+M, 7--10 HCP
 3N = ! 6+M, 2+oM, 2+!d, 2+!c, 7--10 HCP
 4C = !SPL, 0--1!c, 6+M, 7--10 HCP
 4D = !SPL, 0--1!d, 6+M, 7--10 HCP
 
 1C-1M-2D-2H-2S-
-2N = ! 4M
+2N = ! 4=M
   3C = !(R)
-3C = ! 4+!c, 5M
-3D = ! 4+!d, 5M
-3M = !BAL 5M
-3oM = ! 4+#, 5M
+3C = ! 4+!c, 5=M
+3D = ! 4+!d, 5=M
+3M = !BAL 5=M
+3oM = ! 4+#, 5=M
 3N = !6+M, 2+!d, 2+!c
 4C = !SPL, 0--1!c, 6+M
 4D = !SPL, 0--1!d, 6+M
