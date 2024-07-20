@@ -427,29 +427,31 @@ mostly natural except the minor suit interchange.
 
 ** Game-forcing 2m responses
 
+Here come the exceptions where opener's club rebids are natural.
+
 Like over 2/1 responses, opener jumps with extra values to utilize higher steps
 to send information.  This avoids an awkward situation Bridge World calls "two
 temporizers and zero describers".
 
 1C-2C-
-2D = 4+!d
+2D = 5+!d
 2H = 4+!h
 2S = 4+!s
-2N = BAL, 2--3!s, 2--3!h, 12--14 or 21+ HCP
-3C = 5+!c
-3D = !SPL, 0--1!d, 4+!c, 15--17 HCP
-3H = !SPL, 0--1!h, 4+!c, 15--17 HCP
-3S = !SPL, 0--1!s, 4+!c, 15--17 HCP
-3N = BAL, 2--3!s, 2--3!h, 18--20 HCP
+2N = 12--14 or 18+ HCP, 2--4!d
+3C = S/T, 15+ HCP, 3+!c
+3D = S/T, 15+ HCP, 5+!d
+3H = S/T, 18+ HCP, 5=!h or 7+!h
+3S = S/T, 18+ HCP, 5=!s or 7+!s
+3N = S/T, 15--17 HCP, 4441
 
 1C-2D-
 2H = 4+!h
 2S = 4+!s
-2N = BAL, 2--3!s, 2--3!h, 12--14 or 21+ HCP
-3C = 5+!c
-3D = 4+!d
-3H = 6+!h, 18+ HCP
-3S = 6+!s, 18+ HCP
+2N = 12--14 or 18+ HCP
+3C = S/T, 18+ HCP, 5+!c
+3D = S/T, 15+ HCP, 3+!d
+3H = S/T, 18+ HCP, 5=!h or 7+!h
+3S = S/T, 18+ HCP, 5=!s or 7+!s
 3N = BAL, 2--3!s, 2--3!h, 18--20 HCP
 
 ** The 2!h response
