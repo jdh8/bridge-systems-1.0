@@ -439,7 +439,7 @@ temporizers and zero describers".
 2S = 4+!s
 2N = 12--14 or 18+ HCP, 2--4!d
 3C = S/T, 15+ HCP, 3+!c
-3D = S/T, 15+ HCP, 5+!d
+3D = S/T, 18+ HCP, 5+!d
 3H = S/T, 18+ HCP, 5=!h or 7+!h
 3S = S/T, 18+ HCP, 5=!s or 7+!s
 3N = S/T, 15--17 HCP, 4441
@@ -449,10 +449,12 @@ temporizers and zero describers".
 2S = 4+!s
 2N = 12--14 or 18+ HCP
 3C = S/T, 18+ HCP, 5+!c
-3D = S/T, 15+ HCP, 3+!d
+3D = S/T, 18+ HCP, 3+!d
 3H = S/T, 18+ HCP, 5=!h or 7+!h
 3S = S/T, 18+ HCP, 5=!s or 7+!s
-3N = BAL, 2--3!s, 2--3!h, 18--20 HCP
+3N = S/T, 15--17 HCP, 4+!d
+4C = !S/T FRAG, 15--17 HCP, 5+!d, 0--1!s or 0--1!h
+4D = S/T, 15--17 HCP, 4+!d, usually 0--1!c or 6+!d
 
 ** The 2!h response
 
