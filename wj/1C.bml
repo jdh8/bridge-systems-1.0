@@ -462,9 +462,9 @@ The 2!h response shows a minimum positive with 5+ spades and 4+ hearts.
 
 1C-2H-
 2S = S/P S/O, 2+!s, 12--15 HCP
-2N = FG (R)
-3C = INV, 0--2!s, 0--3!h, 5+!c, 15--17 HCP
-3D = FG, 5+!d, 0--2!s, 0--3!h, 18+ HCP
+2N = !FG (R)
+3C = !INV+ TRF, 0--2!s, 0--3!h, 5+!d, 15+ HCP
+3D = !FG TRF, 5+!c, 0--2!s, 0--3!h, 18+ HCP
 3H = INV, 4+!h, 15--17 HCP
 3S = INV, 3+!s, 15--17 HCP
 3N = S/O, 0--2!s, 1--3!h, 3--5!d, 3--5!c, 18+ HCP
