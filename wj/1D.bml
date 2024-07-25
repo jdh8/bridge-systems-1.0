@@ -6,17 +6,17 @@ As we swap the minor suits, this opening now shows 11--17 HCP, 5+!c or (441)4.
 P  = 0--7 HCP, 5+!d
 1H = F, 4+!h
 1S = F, 4+!s
-1N = NAT, 8--11 HCP
-2C = NEG, 0--9 HCP, 3+!c
+1N = NF, 8--11 HCP, 4+!d
+2C = PRE, 0--7 HCP, 3+!c
 2D = FG, 5+!d
 2H = !INV+, 3+!c, shows !h stopper or asks for !s stopper
 2S = !INV+, 3+!c, shows !s stopper or asks for !h stopper
-2N = !PRE, 4+!c
+2N = !PRE, 0--7 HCP, 4+!c
 3C = !Mixed raise, 8--9 HCP, 4+!c
 3D = !SPL, 0--1!d, 4+!c, 12--15 HCP
 3H = !SPL, 0--1!h, 4+!c, 12--15 HCP
 3S = !SPL, 0--1!s, 4+!c, 12--15 HCP
-3N = To play, 12--15 HCP
+3N = 12--15 HCP, 2--3!s, 2--3!h, 2--4!d, 2--4!c
 
 ** The 1M responses
 
@@ -108,7 +108,7 @@ P  = 5+!d
 4D = !SPL, 0--1!d, 6+!s
 4H = !SPL, 0--1!h, 6+!s
 
-1C-1S-1N-2C-2D-
+1D-1S-1N-2C-2D-
 P  = 5+!d
 2H = 4+!h, 5+!s
 2S = 5+!s
