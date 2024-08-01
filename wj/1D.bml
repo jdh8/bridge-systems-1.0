@@ -52,6 +52,38 @@ The precedence with 15--17 HCP is 4-card support > 4-card side suit > 3-card
 support.  Therefore, the reverse in the other major showing 3-card support
 promises either 6+!c.
 
+*** Three-way checkback for 1!d-1!h-1!s
+
+There are 3 artificial relays in the three-way checkback:
+
+- *2!c*: constructive 6+!d, any invitation, or a choice of games of 44(32)
+- *2!d*: game-forcing 5+!h or a slam try (maybe balanced)
+- *2NT*: transfer to clubs
+
+As a corollary, 3X become shaped slam tries.  Note that the variant of minimum
+diamonds becomes constructive (~8--9 HCP and 6+!d) because we could have
+passed 1!d with weaker hands.
+
+1D-1H-1S-
+1N = MIN, 0--3!s
+2C = !XYZ, CONST 6+!d or any INV or CoG 44(32)
+2D = !FG XYZ, 5+!h or S/T
+2H = MIN, 5+!h
+2S = MIN, 4+!s
+2N = !TRF, 7--9 HCP or 12+ HCP, 4+!c
+3C = S/T, 4+!c, 5+!h
+3D = S/T, 5+!d, 5+!h
+3H = S/T, 6+!h
+3S = S/T, 4+!s
+3N = 12--15 HCP, 0--3!s, 4=!h, 0--5!d, 0--4!c
+
+1D-1H-1S-2C-
+2D = !MIN, 12--14 HCP
+2H = MAX, 15--17 HCP, 3=!h
+2S = MAX, 15--17 HCP, 5+!s
+2N = MAX, 15--17 HCP, 4135 or 4045
+3C = MAX, 15--17 HCP, 6+!c, 0--2!h
+
 *** Three-way checkback for 1!d-1!h!s-1NT
 
 We use BTU-style 3-way checkback to a 1NT rebid.  The 2!c response is a
