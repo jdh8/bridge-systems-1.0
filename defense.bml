@@ -14,6 +14,7 @@ http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
 This bidding system is based on /Good, Better, Best/ by Jan Eric Larsson and my
 improvisation.
 
+#INCLUDE common/evaluation.bml
 #INCLUDE defense/1X.bml
 #INCLUDE defense/F1C.bml
 #INCLUDE defense/STR-NT.bml

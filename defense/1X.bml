@@ -1,15 +1,15 @@
 * Over natural (1X)
 
 (1Y)-
-D  = T/O 11+ HCP or any 17+ HCP
-1Z = 5+#, 10--17 HCP
-1N = 15--17 HCP w/ likely stop
-2X = 5+#, 12--17 HCP
-2Z = 5+#, 4--10 HCP
-2N = !UNT, 55+ in lowest two unbid suits, 10--15 HCP
-3X = 7+#, 5--9 HCP
+D  = T/O 25+ ZP (~11+ HCP) or any 33+ ZP (good 16+ HCP)
+1Z = 5+#, 21--32 ZP (9--17 points)
+1N = 29--32 ZP (15--17 HCP) w/ likely stop
+2X = 5+#, 25--32 ZP (11--17 HCP)
+2Z = 6+#, 15--25 ZP (4--10 HCP)
+2N = !UNT, 55+ in lowest two unbid suits
+3X = 7+#, 21--25 ZP (5--9 HCP)
 3Y = !Gambling, SOL 7+m, at most partial stop
-3Z = 7+#, 5--9 HCP
+3Z = 7+#, 21--25 ZP (5--9 HCP)
 3N = !Gambling, SOL 7+m w/ likely stop
 
 (1C)-
@@ -20,10 +20,10 @@ D  = T/O 11+ HCP or any 17+ HCP
 2D = !Michaels, 5+!s, 5+!h
 
 (1H)-
-2H = !Michaels, 5+!s, 5+m, 10+ HCP
+2H = !Michaels, 5+!s, 5+m
 
 (1S)-
-2S = !Michaels, 5+!h, 5+m, 10+ HCP
+2S = !Michaels, 5+!h, 5+m
 
 Due to insufficient strength, 1NT by passed hand becomes unusual.
 
@@ -37,26 +37,17 @@ Due to insufficient strength, 1NT by passed hand becomes unusual.
 ** Balancing overcall
 
 (1Y)-P-
-D  = T/O 9+ HCP or any 15+ HCP
-1Z = 4+#, 8--14 HCP
-2X = 5+#, 9--14 HCP
-2Z = 6+#, 8--11 HCP
-
-(1m)-
-2m = !Michaels, 5+!s, 5+!h
-
-(1H)-
-2H = !Michaels, 5+!s, 5+m, 8+ HCP
-
-(1S)-
-2S = !Michaels, 5+!h, 5+m, 8+ HCP
+D  = T/O 21+ ZP (8+ HCP) or any 29+ ZP (15+ HCP)
+1Z = 4+#, 21--28 ZP (8--14 HCP)
+2X = 5+#, 21--28 ZP (8--14 HCP)
+2Z = 6+#, 21--25 ZP (8--11 HCP)
 
 *** Notrump overcalls
 
 #SEAT 1
 
 (1X)-P-
-1N = 13--15 HCP w/ stop
+1N = 12--15 HCP w/ stop
 2N = 19--21 HCP w/ stop
 
 #SEAT 0
@@ -66,7 +57,41 @@ Like a direct overcall, 1NT by passed hand is unusual.
 (1X)-P-
 1N = !UNT, 55+ in lowest two unbid suits
 
-** After (1X)-1NT
+** Advances to (1X)-1Y
+
+Raises and the higher new suit are more suit-oriented, so we use evaluations
+better for suit contracts.  We use the jump cuebid as a mixed raise.
+
+(1X)-1Y-
+1Z = F, 4+#, usually 21+ ZP (8+ HCP)
+2Y = CONST, 21--24 ZP (8--11 HCP), 3+#
+2Z = PRE, 8--20 ZP (0--7 HCP), 6+#
+3X = !Mixed raise, 21--24 ZP (8--10 HCP), 4+Y
+3Y = PRE, 8--20 ZP (0--7 HCP), 4+#
+
+Notrump and the lower new suit are natural and non-forcing.  Note that the lower
+new suit is always a minor suit.  We are more interested in 3NT than a minor
+suit game.  If you have a strong hand without a stopper, cuebid to ask for a
+stopper.
+
+(1Y)-1Z-
+1N = NAT, 9--12 HCP
+2X = NF, 9--13 HCP, 5+#
+2N = NAT INV, 13--15 HCP
+3X = NF, 14--15 HCP, 6+#
+
+We use Rubens advances, where calls from the direct cuebid to the suit below the single raise are transfers.
+
+- *Transfer to a new suit*: 9+ HCP, 5+ cards in the new suit
+- *Transfer support*: INV+, 3+ card support, opening strength (or 10+ HCP by PH)
+
+The direct cuebid also asks for a stopper for the strong hands.
+
+(1X)-1Z-
+2X = !F, TRF or 14+ HCP
+2Y = !TRF
+
+** Advances to (1X)-1NT
 
 (1X)-1N-
 2N = NAT INV
