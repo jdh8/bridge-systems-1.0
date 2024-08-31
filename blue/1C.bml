@@ -7,7 +7,7 @@ Edward Piwowar:
 https://sites.google.com/view/bbaenglish/description-of-systems/pc-meckwell-lite-precision-club
 
 1C-
-1D = !NEG, 0--7 HCP
+1D = !NF NEG, 0--7 HCP
 1H = !FG, 4=!h
 1S = !FG, 4=!s
 1N = FG, 2--3!s, 2--3!h, 2--5!d, 2--5!c
@@ -34,83 +34,32 @@ However, with a 45(xx) mild slam try (11--13 HCP), we bid 2!h and then rebid
 ** Negative 1!d response
 
 1C-1D-
-1H = !F to 1NT, 4+!h or 20+ HCP
-1S = 5+!s or 4144, 16--20 HCP
-1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 17--19 HCP
-2C = 5+!c, 16--20 HCP
-2D = 5+!d, 16--20 HCP
-2H = 5+!h, 21--23 HCP
-2S = 5+!s, 21--23 HCP
-2N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 23--24 HCP
-3C = 5+!c, 21--23 HCP
-3D = 5+!d, 21--23 HCP
-3H = 44(41), 21--23 HCP
-3S = 4144, 21--23 HCP
-3N = 1444, 21--23 HCP
-
-There are three variants in the 1!h relay:
-
-- 5+!h or 4!h(441), 16--20 HCP
-- 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--22 HCP
-- FG, 24+ HCP
-
-We employ a bidding structure similar to Kaplan Interchange to try to locate a
-partscore at a low level.
+1H = !F, 4+!s or 20+ HCP
+1S = !NF, 16--23 HCP, 5+!h or 4!h(441)
+1N = BAL MIN, 17--19 HCP, 2--4!s, 2--4!h, 2--5!d, 2--5!c
+2C = NF, 16--23 HCP, 5+!c
+2D = NF, 16--23 HCP, 5+!d
+2H = INV, 20--23 HCP, 5+!h, 4+!s
+2S = FG, 5+!s
+2N = FG, 1--4!s, 1--4!h, 1--5!d, 1--5!c
+3C = INV, 20--23 HCP, 6+!c
+3D = INV, 20--23 HCP, 6+!d
+3H = !FG FRAG, 13(54) or 0355
+3S = !FG FRAG, 31(54) or 3055
+3N = !FG FRAG, 0--2!s, 0--2!h, 5+!d, 5+!c
 
 1C-1D-1H-
-1S = !NEG, 0--4 HCP
-1N = !F, 5+M
-2C = !FRAG, 3--4!h, 2+!c, 5--7 HCP
-2D = !FRAG, 3--4!h, 0--1!c, 5--7 HCP
-2H = !INV, 0--2!h, 5--7 HCP
-2S = !SPL, 0--1!s, 3=!h, 5--7 HCP
-2N = !SPL, 0--1!s, 4=!h, 5--7 HCP
+1S = !NF NEG, 0--4 HCP
 
 1C-1D-1H-1S-
-1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 20--22 HCP
-2C = !NF MIN, 2--3!s, 5=!h, 2--4!d, 2--4!c
-2D = !NF MIN, 4=!s, 4--5!h
-2H = MIN, 6+!h
-2S = !MIN SPL, 0--1!s, 4--5!h, 3--4!d, 3--4!c
-2N = !FG
-3C = MIN, 5+!c, 5+!h
-3D = MIN, 5+!d, 5+!h
-3H = FG, 6+!h
-3S = FG, 6+!s
-
-1C-1D-1H-1S-1N-
-2C = S/O, 5+!c
-2D = S/O, 5+!d
-2H = !NF 4=!h, INV or 5+m
-  2S = 4=!s
-  2N = MIN, 2--3!h
-  3C = !MAX, 2--3!h
-  3D = !MAX, 4=!h, 3+!d
-  3H = !MAX, 4=!h, 3+!c
-2S = !NF 4=!s, INV or 5+m
-  2N = MIN, 2--3!s
-  3C = !MAX, 2--3!s
-  3D = !MAX, 4=!s, 3+!d
-  3H = !MAX, 4=!s, 3+!c
-  3S = !MAX, 4333
-2N = INV, 2--3!s, 2--3!h, 2--5!d, 2--5!c
-3C = INV, 6+!c
-3D = INV, 6+!d
-3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
-3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
-
-1C-1D-1H-1N-
-2C = !BAL, 20+ HCP
-  2D = !TRF, 5+!h
-  2H = !TRF, 5+!s
-2D = !(R), 4+!h
-2H = MIN, 6+!h or 0--1!s
-2S = MIN, 4=!s, 4--5!h
-2N = !FG, 4--5!s
-3C = FG, 5+!c
-3D = FG, 5+!d
-3H = FG, 6+!h
-3S = FG, 6+!s
+1N = BAL, 20--22 HCP, 2--4!s, 2--4!h, 2--5!d, 2--5!c
+2S = !FG, 5+!h
+2N = BAL, 23--24 HCP, 2--4!s, 2--4!h, 2--5!d, 2--5!c
+3C = FG, 6+!c
+3D = FG, 6+!d
+3H = !FG FRAG, 44(41) or 44(50)
+3S = !FG FRAG, 4=!s, 0--1!h, 4--5!d, 4--5!c
+3N = !FG FRAG, 4=!h, 0--1!s, 4--5!d, 4--5!c
 
 ** Positive 2M responses
 

@@ -60,7 +60,7 @@ applies to minimum game force.
 1H = 4+!h, 11--15 HCP
 1S = 4+!s, 11--15 HCP
 1N = 2--4!s, 2--4!h, 2--5!d, 2--5!c, 14--16 HCP
-2C = !NAT, 5+!c, 11--15 HCP
+2C = !NAT, 5+!c, 11--16 HCP
 2D = !PRE, 6+M, 4--10 HCP
 2H = PRE, 5+!h, 4+X, 4--10 HCP
 2S = PRE, 5+!s, 4+m, 4--10 HCP
@@ -70,7 +70,7 @@ applies to minimum game force.
 4C = !PRE, S-SOL 8+M, 0--1 outside A/K
 4D = !PRE, SOL 8+M, no outside A/K
 4M = PRE, 8+#
-4N = !UNT, 6+!d, 6+!c, 11--15 HCP
+4N = !UNT, 6+!d, 6+!c, 10--16 HCP
 
 Note that we don't open 11 HCP balanced hands.  Unlike aggressive sibling
 systems, we keep our opening range narrow for easier responses.
@@ -102,8 +102,9 @@ There is also canapé for minimum 4M5!c.  We open 1M so that 4M5!c hands in the
 - *11--13*: 1!d!h!s or 2!c
 - *14--16*: 1NT
 - *17--19*: 1!c-1!d-1NT
-- *20--21*: 1!c-1!d-2NT
-- *22--23*: 1!c-1!d-1!h-1!s-2NT
+- *20--22*: 1!c-1!d-1!h-1!s-1NT
+- *23--24*: 1!c-1!d-1!h-1!s-2NT
+- *25+*: 1!c-1!d-2NT
 
 #INCLUDE blue/1C.bml
 #INCLUDE blue/1D.bml
