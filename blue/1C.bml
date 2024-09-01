@@ -39,21 +39,24 @@ However, with a 45(xx) mild slam try (11--13 HCP), we bid 2!h and then rebid
 1N = BAL MIN, 17--19 HCP, 2--4!s, 2--4!h, 2--5!d, 2--5!c
 2C = NF, 16--23 HCP, 5+!c
 2D = NF, 16--23 HCP, 5+!d
-2H = INV, 20--23 HCP, 5+!h, 4+!s
-2S = FG, 5+!s
-2N = FG, 1--4!s, 1--4!h, 1--5!d, 1--5!c
+2H = INV, 20--23 HCP, 5+!h
+2S = INV, 20--23 HCP, 5+!s
+2N = !FG, 1--5!s, 1--5!h, 1--5!d, 1--5!c
 3C = INV, 20--23 HCP, 6+!c
 3D = INV, 20--23 HCP, 6+!d
-3H = !FG FRAG, 13(54) or 0355
-3S = !FG FRAG, 31(54) or 3055
-3N = !FG FRAG, 0--2!s, 0--2!h, 5+!d, 5+!c
+3H = FG, 6+!h
+3S = FG, 6+!s
+3N = !FG, 5+!d, 5+!c
 
 1C-1D-1H-
 1S = !NF NEG, 0--4 HCP
 
 1C-1D-1H-1S-
 1N = BAL, 20--22 HCP, 2--4!s, 2--4!h, 2--5!d, 2--5!c
-2S = !FG, 5+!h
+2C = INV, 4+!c, 4=!s
+2D = INV, 4+!d, 4=!s
+2H = INV, 5+!h, 4=!s
+2S = !FG, 4+!s, 4+!h, not BAL
 2N = BAL, 23--24 HCP, 2--4!s, 2--4!h, 2--5!d, 2--5!c
 3C = FG, 6+!c
 3D = FG, 6+!d
