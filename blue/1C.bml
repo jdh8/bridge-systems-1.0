@@ -143,3 +143,27 @@ instead.
 4steps = !ART, 14--15 HCP or 7.0 NLTC
 4M     = To play, 9.0+ NLTC
 6steps = !RKCB 0314, 16+ HCP or 6.5− NLTC
+
+** Competitive bidding
+
+The strong club is fertile ground for bidding gadgets and psychic bids.  We
+ignore the meaning of overcalls in the first round for simplicity.  Dealing
+with just the nominal overcall also serves as a countermeasure against psychic
+bids.
+
+1C-(1H)-
+D  = !OPT, BAL 5--11 HCP, 2--4!s, 2--5!h, 2--5!d, 2--5!c
+1S = F, 4+!s
+1N = !G/T TRF, 5+!c
+2C = !G/T TRF, 5+!d
+2D = !G/T TRF, 5+!h
+2H = !G/T TRF, 5+!s
+2S = NF, 6+!s
+
+1C-(1S)-
+D  = !OPT, BAL 5--11 HCP, 2--5!s, 2--4!h, 2--5!d, 2--5!c
+1N = !G/T TRF, 5+!c
+2C = !G/T TRF, 5+!d
+2D = !G/T TRF, 5+!h
+2H = NF T/O, 4=!h
+2S = !FG T/O
