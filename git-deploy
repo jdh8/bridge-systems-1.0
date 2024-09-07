@@ -6,8 +6,7 @@ set -e
 REF="$(git symbolic-ref --short HEAD)"
 
 git checkout gh-pages
-git merge --no-commit main
+git rebase main
 make "$@"
-git commit -a --no-edit
-git push
+git push -f
 git checkout "$REF"
