@@ -34,4 +34,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./
         enable_jekyll: true
-        exclude_assets: ".github,.gitignore,**/*.bml"
+        exclude_assets: ".github,.gitignore"
