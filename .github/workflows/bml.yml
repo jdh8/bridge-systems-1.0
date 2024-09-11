@@ -35,4 +35,4 @@ jobs:
         publish_dir: ./
         enable_jekyll: true
         force_orphan: true
-        keep_files: false
+        exclude_assets: ".github,**.bml"
