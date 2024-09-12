@@ -24,7 +24,8 @@ jobs:
     - name: Install dependencies
       run: pip install git+https://github.com/jdh8/bml.git
 
-    - run: make -j4
+    - name: Build
+      run: make -j$(nproc)
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
