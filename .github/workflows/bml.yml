@@ -21,11 +21,10 @@ jobs:
       with:
         python-version: "3.10"
 
-    - name: Install dependencies
-      run: pip install git+https://github.com/jdh8/bml.git
-
     - name: Build
-      run: make -j$(nproc)
+      run: |
+        pip install git+https://github.com/jdh8/bml.git
+        make -j$(nproc)
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
