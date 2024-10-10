@@ -106,7 +106,7 @@ and 2!h with minimum (4--8 HCP).
 #INCLUDE wj/1M.bml
 #INCLUDE common/1NT-STR.bml
 #INCLUDE wj/2C.bml
-#INCLUDE common/Multi.bml
-#INCLUDE common/2M.bml
-#INCLUDE common/UNT.bml
-#INCLUDE common/BTU-4X.bml
+#INCLUDE common/2D-Multi.bml
+#INCLUDE common/2M-Muiderberg.bml
+#INCLUDE common/2NT-UNT.bml
+#INCLUDE common/4X-BTU.bml

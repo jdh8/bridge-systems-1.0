@@ -125,7 +125,7 @@ canapé cannot happen if either the primary or secondary suit is clubs because
 #INCLUDE blue/1M.bml
 #INCLUDE common/1NT-STR.bml
 #INCLUDE blue/2C.bml
-#INCLUDE common/Multi.bml
-#INCLUDE common/2M.bml
-#INCLUDE common/UNT.bml
-#INCLUDE common/BTU-4X.bml
+#INCLUDE common/2D-Multi.bml
+#INCLUDE common/2M-Muiderberg.bml
+#INCLUDE common/2NT-UNT.bml
+#INCLUDE common/4X-BTU.bml
