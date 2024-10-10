@@ -16,7 +16,7 @@ compete.
 1H-
 1S = F, 3+!s, usually 4+!s
 1N = NF, 9--11 HCP, 0--3!s, 0--3!h
-2C = !F1, FG 3+!c or INV 3=!h or 7--9 HCP 4=!h, not 4=!s
+2C = !F, CONST 4=!h or INV 3=!h or NAT FG, not 4=!s
   2D = !MIN, 4=!h
   2H = MIN, 5+!h
   2S = MAX canapé, 5+!s
@@ -40,7 +40,7 @@ compete.
 1S-
 1N = NF, 0--3!s
 2C = !F, 5+!h or NAT FG
-2D = !F, 7--9 HCP 4=!s or FG (NAT or 5+!h)
+2D = !F, CONST 4=!s or INV 3=!s or FG (NAT or 5+!h)
 2H = !NF INV, 9--11 HCP, 5+!h
 2S = PRE, 7--9 HCP 3=!s or 0--7 HCP 4+!s
 2N = !FG, 4+!s
@@ -84,16 +84,16 @@ spade fit, i.e. 2533.
 
 In this bidding system of limited openings, opener usually wants to reverse with
 a maximum.  However, keep in mind that there are hands with nowhere to jump over
-1NT and 1!h-1!s:
+1NT:
 
 - *Balanced (5332)*: rebid the major suit like minimum 6+ cards.
 - *(4441)*: bid the lowest 4-card suit if no fit is found yet.
 
 1H-1S-
-1N = MIN, 4=!h, 0--3!s
+1N = BAL
 2C = 4+!c
 2D = 4+!d
-2H = MIN 6+!h or MAX 5=!h
+2H = MIN 6+!h
 2S = MIN, 4+!s
 2N = MAX, 44(41)
 3C = MAX, 4+!c, 5+!h
