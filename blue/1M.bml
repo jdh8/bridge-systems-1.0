@@ -16,7 +16,7 @@ compete.
 1H-
 1S = F, 3+!s, usually 4+!s
 1N = NF, 9--11 HCP, 0--3!s, 0--3!h
-2C = !F, CONST 4=!h or INV 3=!h or NAT FG, not 4=!s
+2C = !NAT FG, CONST 4=!h, or INV 3=!h.  Not 4=!s
   2D = !MIN, 4=!h
   2H = MIN, 5+!h
   2S = MAX canapé, 5+!s
@@ -24,7 +24,7 @@ compete.
   3C = MAX, 4+!c
   3D = MAX canapé, 5+!d
   3H = MAX, 6+!h
-2D = !FG, 4+!d, not 4=!s
+2D = !NAT FG, not 4=!s
 2H = PRE 4+!h or CONST 3=!h
 2S = PRE, 6+!s
 2N = !FG, 4+!h
@@ -39,8 +39,8 @@ compete.
 
 1S-
 1N = NF, 0--3!s, 0--4!h
-2C = !F, 5+!h or NAT FG
-2D = !F, CONST 4=!s or INV 3=!s or NAT FG
+2C = !NAT FG, NF 5+!h, or CONST 4=!s
+2D = !NAT FG, FG 5+!h, or INV 3=!s
 2H = !NF INV, 5+!h
 2S = PRE 4+!s or CONST 3=!s
 2N = !FG, 4+!s
