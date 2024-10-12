@@ -19,8 +19,8 @@
 
 1S-
 1N = NF, usually 7--11 HCP, 0--3!s, 0--4!h
-2C = !F, 5+!h or NAT FG
-2D = !FG, 5+!h or NAT
+2C = !NAT FG or NF 5+!h
+2D = !FG, NAT or 5+!h
 2H = !NF INV, 5+!h
 2S = CONST, 3+!s
 2N = !FG, 4+!s
@@ -84,13 +84,13 @@ We don't play Drury here.  For a 3-card limit raise without a 5-card side suit,
 #SEAT 34
 
 1H-
-2C = INV, 5+!c
-2D = INV, 5+!d
+2C = MAX, 5+!c
+2D = MAX, 5+!d
 
 1S-
-2C = INV, 5+!c
-2D = INV, 5+!d
-2H = INV, 5+!h
+2C = MAX 5+!c or NF 5+!h
+2D = MAX, 5+!d
+2H = MAX, 5+!h
 
 #SEAT 0
 
