@@ -103,7 +103,6 @@ problems, but I believe they can be solved by further adjustments.
 #INCLUDE wj/1M.bml
 #INCLUDE common/1NT-STR.bml
 #INCLUDE wj/2C.bml
-#INCLUDE common/2D-Multi.bml
-#INCLUDE common/2M-Muiderberg.bml
+#INCLUDE common/2X-Multi-Muiderberg.bml
 #INCLUDE common/2NT-UNT.bml
 #INCLUDE common/4X-BTU.bml
