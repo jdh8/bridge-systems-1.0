@@ -87,11 +87,7 @@ change 2!s to a minor suit Multi/Stayman.
 3H = !SPL, 0--1!h, 2--3!s, 4--5!d, 4--5!c
 3S = !SPL, 0--1!s, 2--3!h, 4--5!d, 4--5!c
 3N = S/O
-4C = !Gerber, ask for aces
-  4D = ! 0 or 4 aces
-  4H = ! 1 ace
-  4S = ! 2 aces
-  4N = ! 3 aces
+4C = !Gerber BW
 4D = !Texas TRF, 6+!h
 4H = !Texas TRF, 6+!s
 4S = !FG, 5+!d, 5+!c
