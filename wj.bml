@@ -93,8 +93,8 @@ Our Polish Club opening contains minimum clubs like /Polish Club 2020: Expert/.
 - *12--14*: 1!c-1!d-1M
 - *15--17*: 1NT
 - *18--20*: 1!c-1!d-1NT
-- *21--23*: 1!c-1!d-2NT
-- *24+*: 1!c-1!d-2!d-2!h-2NT
+- *21--23*: 1!c-1!d-2!d
+- *24+*: 1!c-1!d-2NT
 
 #INCLUDE wj/1C.bml
 #INCLUDE wj/1D.bml
