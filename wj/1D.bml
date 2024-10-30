@@ -20,7 +20,7 @@ point count increases.
   3D = MIN, 6+!d
 2N = BAL INV, 10--11 HCP
 3C = !CONST, 7--9 HCP, 4+!d
-3D = !PRE, 5--7 HCP, 4+!d
+3D = PRE, 4--6 HCP, 4+!d
 3H = !FG SPL, 0--1!h, 0--3!s, 4+!d
 3S = !FG SPL, 0--1!s, 0--3!h, 4+!d
 
@@ -191,3 +191,42 @@ natural or conceals a fit in diamonds.
 3H = !SPL, 12--14 or 18--20 HCP, 0--1!h, 0--3!s, 4+!c
 3S = !SPL, 12--14 or 18--20 HCP, 0--1!s, 0--3!h, 4+!c
 3N = MIN, 12--14 HCP, 4441
+
+** Competitive bidding
+
+Our competitive bidding structure is similar to the 1!c opening.
+
+1D-(D)-
+R  = NF BAL G/T, 10+ HCP
+1M = F, 6+ HCP, 4+#
+1N = !TRF, 6+ HCP, 5+!c
+2C = !TRF, PRE or FG, 3+!d
+2D = CONST, 7--9 HCP, 3+!d
+2M = PRE, 3--9 HCP, 6+#
+2N = !G/T, 10+ HCP, 4+!d
+3C = !CONST, 7--9 HCP, 4+!d
+3D = PRE, 4--6 HCP, 4+!d
+3H = !FG SPL, 0--1!h, 0--3!s, 4+!d
+3S = !FG SPL, 0--1!s, 0--3!h, 4+!d
+
+1D-(1M)-
+1N = BAL INV, 9--11 HCP
+2C = !TRF INV+, 10+ HCP, 3+!d
+2D = CONST, 7--9 HCP, 3+!d
+2M = !TRF INV+, 10+ HCP, 5+!c
+2N = !BAL FG with stopper
+3C = !CONST, 7--9 HCP, 4+!d
+3D = PRE, 4--6 HCP, 4+!d
+3M = !FG SPL, 0--1#, 4+!d
+
+1D-(1H)-
+D  = !TRF, 7+ HCP, 4+!s
+  1S = MIN, 12--14 HCP, 3=!s
+1S = !TRF to 1NT, 7+ HCP
+2S = PRE, 3--9 HCP, 6+!s
+3S = PRE, 7+!s
+
+1D-(1S)-
+D  = !NEG, 7+ HCP, 4+!h
+2H = NF, 7--11 HCP, 5+!h
+3H = PRE, 7+!h or S-SOL 6=!h
