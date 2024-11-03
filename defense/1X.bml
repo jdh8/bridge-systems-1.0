@@ -106,7 +106,7 @@ nevertheless.
 - *4steps = 2Z − 1*: limit raise or better, 3+ support
 - *9steps = 3Z − 1*: mixed raise, 4+ support
 - *Other 2XY*: 9+ HCP, usually 5+ cards
-- *Other 3XY*: Invitation with 6+ cards, usually without a stopper
+- *Other 3XY*: Game try with 6+ cards
 
 Despite that we have skipped the cuebid, aggressor can dissuade further
 investigation by simply accepting the transfer.
@@ -116,8 +116,8 @@ investigation by simply accepting the transfer.
 9steps = !TRF CONST, 4+ support
 2X = !TRF, 9+ HCP, usually 5+ cards
 2Y = !TRF, 9+ HCP, usually 5+ cards
-3X = !INV, 6+ cards, usually without a stopper
-3Y = !INV, 6+ cards, usually without a stopper
+3X = !TRF G/T, 6+ cards
+3Y = !TRF G/T, 6+ cards
 
 ** Advances to (1X)-1NT
 
