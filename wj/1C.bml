@@ -307,6 +307,20 @@ relay structure generally lets the strong opener declare notrump.
 4C = !SPL, 7--10 HCP, 0--1!c, 6+M
 4D = !SPL, 7--10 HCP, 0--1!d, 6+M
 
+Relay systems can be cryptic!  I am summing up why we arrange the steps in this
+way.
+
+- *2!h*: The lowest step layers *strong hands.*  We can repeat the whole
+  structure inside.  This step follows the logic of (reverse) Lebensohl.
+- *2!s*: The second step holds the possibility of a misfit, *4 cards.*  We
+  need space to explore games in the other strains.
+- *2NT*: *Unbalanced fit!*  Opener never settles in 3NT.  Feel free to bid
+  notrump.
+- *3M*: *Balanced fit!*  Give opener a chance to declare 3NT with a flat hand.
+- *3m*: Take some hands out of the nebulous 2!s.  These hands suggests a 
+  *minor suit* slam.
+- *Others*: These Splinter-level steps are made for *big fits.*
+
 1C-1M-2D-2H-2S-
 2N = 4=M
   3C = !Ask for a side suit
