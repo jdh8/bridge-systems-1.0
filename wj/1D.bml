@@ -26,8 +26,9 @@ point count increases.
 
 ** The 1M responses
 
-Opener rebids fairly naturally.  Apart from /Polish Club 2020: Expert/, we move
-fit reverses to the 3-level.  This allows more exploration of a 2-6 major fit.
+Opener rebids fairly naturally.  As suggested by /Polish Club 2020: Expert,/ we
+overload the reverse in the other major for a 3-card fit reverse.  I find this
+method better than fit reverse at the 3-level due to 3451 hands.  We cannot exclude 3=!s from 1!d-1!s-2!h anyway.
 
 1D-1H-
 1S = 12--17 HCP, 4+!s
@@ -35,10 +36,10 @@ fit reverses to the 3-level.  This allows more exploration of a 2-6 major fit.
 2C = 12--17 HCP, 4+!c
 2D = 12--14 HCP, 6+!d
 2H = 12--14 HCP, 4+!h
-2S = !F, 15--17 HCP, 6+!d, 0--2!h
+2S = !F, 15--17 HCP, 6+!d, 3=!h
 2N = 18--20 HCP, 0--2!h
 3C = 15--17 HCP, 5+!c
-3D = !NF, 15--17 HCP, 6+!d, 3=!h
+3D = !NF, 15--17 HCP, 6+!d, 0--2!h
 3H = INV, 15--17 HCP, 4+!h
 3S = !FG, 18--20 HCP, 3=!h
 3N = SOL 7+!d, partial stops in !s and !c
@@ -47,11 +48,11 @@ fit reverses to the 3-level.  This allows more exploration of a 2-6 major fit.
 1N = 12--14 HCP, 4--5!d
 2C = 12--17 HCP, 4+!c
 2D = 12--14 HCP, 6+!d
-2H = !F, 15--20 HCP, 4+!h or 6+!d 0--2!s
+2H = !F, 15--17 HCP, 4+!h or 6+!d 3=!s
 2S = 12--14 HCP, 4+!s or 3451
 2N = 18--20 HCP, 0--2!s
 3C = 15--17 HCP, 5+!c
-3D = !NF, 15--17 HCP, 6+!d, 3=!s
+3D = !NF, 15--17 HCP, 6+!d, 0--2!s
 3H = !FG, 18--20 HCP, 3=!s
 3S = INV, 15--17 HCP, 4+!s
 3N = SOL 7+!d, partial stops in !h and !c
@@ -166,12 +167,12 @@ For a precise game try, we sacrifice 2NT as Lebensohl to park minimum hands.
 3S = FG, 6+!s
 
 1D-1S-2H-
-2S = NF, 6+!s
+2S = NF, 5+!s
 2N = !(R), MIN
   3C = 4+!h
-  3D = 6+!d
+  3D = 6+!d, 3=!s
 3C = !4SFG
-  3D = 6+!d
+  3D = 6+!d, 3=!s
   3H = 4+!h
 3D = FG, 3+!d
 3H = FG, 4+!h
