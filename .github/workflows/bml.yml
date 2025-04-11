@@ -35,6 +35,9 @@ jobs:
         run: |
           pip install git+https://github.com/jdh8/bml.git
           make -j$(nproc)
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
 
   deploy:
     environment:
