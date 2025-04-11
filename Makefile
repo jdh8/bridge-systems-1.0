@@ -4,7 +4,7 @@ all: blue.bss blue.htm \
 	@:
 
 %.bss: %.bml %/*.bml common/*.bml
-	bml2bss $<
+	bml2bss -o $@ $<
 
 %.htm: %.bml %/*.bml common/*.bml
-	bml2html $<
+	bml2html -o $@ $<
